@@ -1,0 +1,492 @@
+,Time,Boston,Unnamed: 2,Score,Unnamed: 4,Brooklyn
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: B. Lopez vs. K. Garnett (D. Williams gains possession),,,,
+2,11:42.0,,,0-0,,B. Lopez misses 2-pt shot from 16 ft
+3,11:40.0,Defensive rebound by J. Terry,,0-0,,
+4,11:32.0,P. Pierce misses 2-pt shot from 17 ft,,0-0,,
+5,11:31.0,,,0-0,,Defensive rebound by K. Humphries
+6,11:13.0,,,0-0,,J. Johnson misses 3-pt shot from 24 ft
+7,11:11.0,,,0-0,,Offensive rebound by J. Johnson
+8,11:08.0,,,0-3,3.0,J. Johnson makes 3-pt shot from 23 ft
+9,10:45.0,B. Bass makes 2-pt shot from 14 ft (assist by J. Terry),2.0,2-3,,
+10,10:31.0,,,2-5,2.0,B. Lopez makes 2-pt shot from 6 ft (assist by D. Williams)
+11,10:23.0,Boston 20 second timeout,,2-5,,
+12,10:09.0,K. Garnett misses 2-pt shot from 16 ft,,2-5,,
+13,10:08.0,,,2-5,,Defensive rebound by K. Bogans
+14,9:57.0,,,2-8,3.0,D. Williams makes 3-pt shot from 25 ft (assist by J. Johnson)
+15,9:42.0,Shooting foul by K. Bogans (drawn by J. Terry),,2-8,,
+16,9:42.0,J. Terry makes free throw 1 of 2,1.0,3-8,,
+17,9:42.0,J. Terry makes free throw 2 of 2,1.0,4-8,,
+18,9:26.0,,,4-10,2.0,K. Humphries makes 2-pt shot from 10 ft (assist by D. Williams)
+19,9:17.0,B. Bass misses 2-pt shot from 3 ft (block by B. Lopez),,4-10,,
+20,9:16.0,Offensive rebound by B. Bass,,4-10,,
+21,9:16.0,Jump ball: D. Williams vs. B. Bass (P. Pierce gains possession),,,,
+22,9:02.0,Turnover by K. Garnett (traveling),,4-10,,
+23,8:46.0,,,4-12,2.0,K. Bogans makes 2-pt shot from 5 ft
+24,8:28.0,P. Pierce makes 2-pt shot from 2 ft,2.0,6-12,,
+25,8:07.0,,,6-12,,Shooting foul by B. Bass (drawn by K. Humphries)
+26,8:07.0,,,6-13,1.0,K. Humphries makes free throw 1 of 2
+27,8:07.0,C. Wilcox enters the game for K. Garnett,,6-13,,
+28,8:07.0,,,6-14,1.0,K. Humphries makes free throw 2 of 2
+29,7:52.0,L. Barbosa misses 2-pt shot from 3 ft (block by B. Lopez),,6-14,,
+30,7:50.0,,,6-14,,Defensive rebound by B. Lopez
+31,7:38.0,,,6-17,3.0,K. Bogans makes 3-pt shot from 24 ft (assist by D. Williams)
+32,7:21.0,P. Pierce makes 2-pt shot from 14 ft,2.0,8-17,,
+33,7:13.0,,,8-17,,Personal foul by P. Pierce (drawn by K. Humphries)
+34,7:13.0,C. Lee enters the game for L. Barbosa,,8-17,,
+35,7:01.0,,,8-19,2.0,J. Johnson makes 2-pt shot from 14 ft
+36,6:33.0,J. Terry makes 3-pt shot from 26 ft,3.0,11-19,,
+37,6:18.0,,,11-19,,Turnover by K. Bogans (bad pass; steal by C. Lee)
+38,6:12.0,Turnover by J. Terry (bad pass; steal by J. Johnson),,11-19,,
+39,6:04.0,,,11-19,,J. Johnson misses 2-pt shot from 7 ft
+40,6:03.0,,,11-19,,Offensive rebound by J. Johnson
+41,6:01.0,,,11-19,,J. Johnson misses 2-pt shot from 2 ft
+42,6:00.0,,,11-19,,Offensive rebound by K. Humphries
+43,5:58.0,,,11-19,,K. Humphries misses 2-pt shot from 7 ft
+44,5:57.0,Defensive rebound by P. Pierce,,11-19,,
+45,5:52.0,Offensive foul by C. Wilcox (drawn by B. Lopez),,11-19,,
+46,5:52.0,Turnover by C. Wilcox (offensive foul),,11-19,,
+47,5:52.0,,,11-19,,Brooklyn full timeout
+48,5:52.0,J. Green enters the game for B. Bass,,11-19,,
+49,5:38.0,,,11-19,,Turnover by D. Williams (bad pass; steal by P. Pierce)
+50,5:32.0,P. Pierce misses 2-pt shot from 2 ft,,11-19,,
+51,5:30.0,Offensive rebound by C. Wilcox,,11-19,,
+52,5:27.0,C. Wilcox makes 2-pt shot from 2 ft,2.0,13-19,,
+53,5:06.0,,,13-21,2.0,D. Williams makes 2-pt shot from 19 ft
+54,4:51.0,Turnover by C. Wilcox (traveling),,13-21,,
+55,4:35.0,,,13-21,,K. Bogans misses 3-pt shot from 24 ft
+56,4:34.0,,,13-21,,Offensive rebound by B. Lopez
+57,4:32.0,,,13-21,,B. Lopez misses 2-pt shot from 5 ft
+58,4:30.0,,,13-21,,Offensive rebound by K. Humphries
+59,4:29.0,,,13-21,,K. Humphries misses 2-pt shot from 2 ft
+60,4:28.0,Defensive rebound by P. Pierce,,13-21,,
+61,4:22.0,J. Terry misses 2-pt shot from 14 ft,,13-21,,
+62,4:21.0,Offensive rebound by C. Lee,,13-21,,
+63,4:17.0,C. Lee misses 2-pt shot from 15 ft,,13-21,,
+64,4:16.0,,,13-21,,Defensive rebound by K. Humphries
+65,4:13.0,,,13-23,2.0,B. Lopez makes 2-pt shot from 1 ft (assist by D. Williams)
+66,3:49.0,J. Green makes 2-pt shot from 18 ft (assist by C. Lee),2.0,15-23,,
+67,3:29.0,,,15-23,,Personal foul by C. Wilcox (drawn by B. Lopez)
+68,3:29.0,,,15-23,,C. Watson enters the game for K. Bogans
+69,3:29.0,J. Collins enters the game for C. Wilcox,,15-23,,
+70,3:22.0,,,15-23,,J. Johnson misses 3-pt shot from 24 ft
+71,3:21.0,Defensive rebound by C. Lee,,15-23,,
+72,3:11.0,J. Green misses 2-pt shot from 19 ft,,15-23,,
+73,3:10.0,Offensive rebound by J. Collins,,15-23,,
+74,3:03.0,J. Terry misses 3-pt shot from 24 ft,,15-23,,
+75,3:01.0,Offensive rebound by J. Terry,,15-23,,
+76,3:00.0,J. Terry makes 2-pt shot from 2 ft,2.0,17-23,,
+77,2:49.0,,,17-23,,K. Humphries misses 2-pt shot from 2 ft
+78,2:48.0,,,17-23,,Offensive rebound by B. Lopez
+79,2:46.0,,,17-25,2.0,B. Lopez makes 2-pt shot from 2 ft
+80,2:27.0,C. Lee makes 3-pt shot from 23 ft (assist by J. Green),3.0,20-25,,
+81,2:15.0,,,20-27,2.0,B. Lopez makes 2-pt shot from 2 ft (assist by D. Williams)
+82,2:02.0,Turnover by J. Green (bad pass; steal by C. Watson),,20-27,,
+83,1:57.0,,,20-29,2.0,C. Watson makes 2-pt shot from 2 ft (assist by J. Johnson)
+84,1:36.0,C. Lee makes 2-pt shot from 7 ft (assist by P. Pierce),2.0,22-29,,
+85,1:16.0,,,22-31,2.0,B. Lopez makes 2-pt shot from 15 ft
+86,0:59.6,J. Collins makes 2-pt shot from 2 ft,2.0,24-31,,
+87,0:36.9,,,24-31,,K. Humphries misses 2-pt shot from 18 ft
+88,0:35.5,,,24-31,,Offensive rebound by J. Johnson
+89,0:33.3,,,24-31,,J. Johnson misses 2-pt shot from 3 ft
+90,0:32.4,Defensive rebound by P. Pierce,,24-31,,
+91,0:28.0,Shooting foul by K. Humphries (drawn by P. Pierce),,24-31,,
+92,0:28.0,Boston full timeout,,24-31,,
+93,0:28.0,,,24-31,,J. Stackhouse enters the game for K. Humphries
+94,0:28.0,,,24-31,,R. Evans enters the game for J. Johnson
+95,0:28.0,J. Sullinger enters the game for J. Terry,,24-31,,
+96,0:28.0,P. Pierce makes free throw 1 of 2,1.0,25-31,,
+97,0:28.0,P. Pierce makes free throw 2 of 2,1.0,26-31,,
+98,0:08.9,,,26-31,,C. Watson misses 3-pt shot from 25 ft
+99,0:06.9,Defensive rebound by J. Green,,26-31,,
+100,0:01.2,Turnover by J. Green (lost ball; steal by D. Williams),,26-31,,
+101,0:00.0,End of 1st quarter,,,,
+102,2nd Q,,,,,
+103,Time,Boston,,Score,,Brooklyn
+104,12:00.0,Start of 2nd quarter,,,,
+105,11:41.0,K. Garnett misses 2-pt shot from 15 ft,,26-31,,
+106,11:39.0,,,26-31,,Defensive rebound by R. Evans
+107,11:18.0,,,26-31,,A. Blatche misses 2-pt shot from 8 ft
+108,11:17.0,,,26-31,,Offensive rebound by R. Evans
+109,11:07.0,,,26-31,,C. Watson misses 2-pt shot from 18 ft
+110,11:05.0,,,26-31,,Offensive rebound by C. Watson
+111,10:59.0,,,26-31,,C. Watson misses 2-pt shot from 20 ft
+112,10:58.0,Defensive rebound by K. Garnett,,26-31,,
+113,10:58.0,,,26-31,,Double personal foul by R. Evans and J. Sullinger
+114,10:45.0,C. Lee misses 2-pt shot from 19 ft,,26-31,,
+115,10:43.0,Offensive rebound by K. Garnett,,26-31,,
+116,10:39.0,Personal foul by A. Blatche (drawn by K. Garnett),,26-31,,
+117,10:37.0,Personal foul by R. Evans (drawn by J. Sullinger),,26-31,,
+118,10:28.0,L. Barbosa makes 2-pt shot from 2 ft,2.0,28-31,,
+119,10:08.0,,,28-34,3.0,C. Watson makes 3-pt shot from 25 ft (assist by A. Blatche)
+120,9:50.0,L. Barbosa misses 3-pt shot from 24 ft,,28-34,,
+121,9:48.0,,,28-34,,Defensive rebound by R. Evans
+122,9:43.0,,,28-34,,Personal foul by C. Lee (drawn by J. Stackhouse)
+123,9:30.0,,,28-34,,A. Blatche misses 2-pt shot from 8 ft
+124,9:28.0,Defensive rebound by L. Barbosa,,28-34,,
+125,9:25.0,Shooting foul by J. Stackhouse (drawn by C. Lee),,28-34,,
+126,9:25.0,C. Lee makes free throw 1 of 2,1.0,29-34,,
+127,9:25.0,,,29-34,,J. Johnson enters the game for J. Childress
+128,9:25.0,C. Lee makes free throw 2 of 2,1.0,30-34,,
+129,9:12.0,,,30-34,,Turnover by R. Evans (illegal screen)
+130,9:00.0,K. Garnett makes 2-pt shot from 2 ft (assist by L. Barbosa),2.0,32-34,,
+131,8:40.0,,,32-34,,J. Johnson misses 2-pt shot from 14 ft
+132,8:39.0,,,32-34,,Offensive rebound by A. Blatche
+133,8:37.0,,,32-36,2.0,A. Blatche makes 2-pt shot from 1 ft
+134,8:22.0,C. Lee makes 2-pt shot from 1 ft,2.0,34-36,,
+135,8:05.0,,,34-36,,J. Stackhouse misses 3-pt shot from 24 ft
+136,8:04.0,,,34-36,,Offensive rebound by R. Evans
+137,7:54.0,,,34-38,2.0,R. Evans makes 2-pt shot from 2 ft (assist by C. Watson)
+138,7:30.0,L. Barbosa makes 2-pt shot from 3 ft,2.0,36-38,,
+139,7:13.0,,,36-38,,C. Watson misses 3-pt shot from 24 ft
+140,7:12.0,Defensive rebound by J. Green,,36-38,,
+141,7:00.0,K. Garnett misses 2-pt shot from 11 ft,,36-38,,
+142,6:58.0,,,36-38,,Defensive rebound by A. Blatche
+143,6:40.0,,,36-38,,J. Johnson misses 2-pt shot from 24 ft
+144,6:39.0,Defensive rebound by J. Green,,36-38,,
+145,6:21.0,K. Garnett makes 2-pt shot from 19 ft (assist by L. Barbosa),2.0,38-38,,
+146,6:15.0,,,38-38,,Brooklyn full timeout
+147,6:15.0,,,38-38,,K. Bogans enters the game for C. Watson
+148,6:15.0,,,38-38,,D. Williams enters the game for J. Stackhouse
+149,6:15.0,,,38-38,,K. Humphries enters the game for R. Evans
+150,5:58.0,,,38-38,,J. Johnson misses 2-pt shot from 17 ft
+151,5:56.0,,,38-38,,Offensive rebound by K. Humphries
+152,5:46.0,,,38-38,,D. Williams misses 2-pt shot from 16 ft
+153,5:45.0,,,38-38,,Offensive rebound by A. Blatche
+154,5:44.0,,,38-40,2.0,A. Blatche makes 2-pt shot from 2 ft
+155,5:44.0,,,38-40,,Shooting foul by K. Garnett (drawn by A. Blatche)
+156,5:44.0,,,38-40,,Official timeout
+157,5:44.0,,,38-41,1.0,A. Blatche makes free throw 1 of 1
+158,5:28.0,J. Sullinger misses 2-pt shot from 19 ft,,38-41,,
+159,5:27.0,,,38-41,,Defensive rebound by K. Humphries
+160,5:18.0,,,38-41,,D. Williams misses 2-pt shot from 20 ft
+161,5:16.0,,,38-41,,Offensive rebound by A. Blatche
+162,5:15.0,,,38-43,2.0,A. Blatche makes 2-pt shot from 6 ft
+163,4:59.0,J. Green misses 2-pt shot from 5 ft,,38-43,,
+164,4:57.0,,,38-43,,Defensive rebound by J. Johnson
+165,4:49.0,,,38-43,,A. Blatche misses 2-pt shot from 16 ft
+166,4:49.0,,,38-43,,Offensive rebound by Team
+167,4:49.0,,,38-43,,Personal foul by J. Sullinger (drawn by K. Humphries)
+168,4:49.0,P. Pierce enters the game for L. Barbosa,,38-43,,
+169,4:49.0,J. Collins enters the game for C. Lee,,38-43,,
+170,4:49.0,,,38-43,,B. Lopez enters the game for A. Blatche
+171,4:49.0,L. Barbosa enters the game for K. Garnett,,38-43,,
+172,4:49.0,C. Lee enters the game for J. Sullinger,,38-43,,
+173,4:49.0,B. Bass enters the game for J. Green,,38-43,,
+174,4:33.0,,,38-45,2.0,K. Humphries makes 2-pt shot from 16 ft
+175,4:05.0,L. Barbosa makes 2-pt shot from 2 ft,2.0,40-45,,
+176,4:04.0,,,40-45,,Shooting foul by J. Collins (drawn by B. Lopez)
+177,4:04.0,,,40-45,,B. Lopez misses free throw 1 of 2
+178,4:04.0,,,40-45,,Offensive rebound by Team
+179,4:04.0,,,40-45,,B. Lopez misses free throw 2 of 2
+180,4:04.0,J. Terry enters the game for C. Lee,,40-45,,
+181,4:03.0,Defensive rebound by B. Bass,,40-45,,
+182,3:50.0,Personal foul by D. Williams (drawn by L. Barbosa),,40-45,,
+183,3:50.0,L. Barbosa makes free throw 1 of 2,1.0,41-45,,
+184,3:50.0,L. Barbosa makes free throw 2 of 2,1.0,42-45,,
+185,3:50.0,,,42-45,,J. Stackhouse enters the game for J. Johnson
+186,3:28.0,,,42-47,2.0,K. Humphries makes 2-pt shot from 15 ft (assist by K. Bogans)
+187,3:09.0,B. Bass makes 2-pt shot from 17 ft (assist by P. Pierce),2.0,44-47,,
+188,2:53.0,,,44-47,,Shooting foul by P. Pierce (drawn by K. Humphries)
+189,2:53.0,C. Lee enters the game for J. Terry,,44-47,,
+190,2:53.0,,,44-48,1.0,K. Humphries makes free throw 1 of 2
+191,2:53.0,,,44-49,1.0,K. Humphries makes free throw 2 of 2
+192,2:53.0,,,44-49,,Brooklyn full timeout
+193,2:40.0,Turnover by P. Pierce (lost ball; steal by J. Stackhouse),,44-49,,
+194,2:26.0,,,44-49,,Turnover by D. Williams (bad pass; steal by L. Barbosa)
+195,2:23.0,Shooting foul by K. Bogans (drawn by L. Barbosa),,44-49,,
+196,2:23.0,L. Barbosa makes free throw 1 of 2,1.0,45-49,,
+197,2:23.0,,,45-49,,J. Johnson enters the game for K. Bogans
+198,2:23.0,L. Barbosa makes free throw 2 of 2,1.0,46-49,,
+199,2:08.0,,,46-51,2.0,D. Williams makes 2-pt shot from 14 ft
+200,2:08.0,,,46-51,,Shooting foul by J. Collins (drawn by D. Williams)
+201,2:08.0,,,46-51,,J. Childress enters the game for J. Stackhouse
+202,2:08.0,,,46-52,1.0,D. Williams makes free throw 1 of 1
+203,1:45.0,J. Collins misses 2-pt shot from 2 ft,,46-52,,
+204,1:44.0,,,46-52,,Defensive rebound by K. Humphries
+205,1:26.0,,,46-52,,Personal foul by L. Barbosa (drawn by D. Williams)
+206,1:26.0,,,46-53,1.0,D. Williams makes free throw 1 of 2
+207,1:26.0,,,46-54,1.0,D. Williams makes free throw 2 of 2
+208,1:12.0,B. Bass makes 2-pt shot from 1 ft,2.0,48-54,,
+209,0:49.3,,,48-54,,Shooting foul by P. Pierce (drawn by J. Johnson)
+210,0:49.3,,,48-55,1.0,J. Johnson makes free throw 1 of 2
+211,0:49.3,J. Green enters the game for P. Pierce,,48-55,,
+212,0:49.3,,,48-56,1.0,J. Johnson makes free throw 2 of 2
+213,0:34.6,,,48-56,,J. Stackhouse enters the game for J. Childress
+214,0:34.6,B. Bass makes 2-pt shot from 10 ft,2.0,50-56,,
+215,0:34.6,Shooting foul by K. Humphries (drawn by B. Bass),,50-56,,
+216,0:34.6,B. Bass misses free throw 1 of 1,,50-56,,
+217,0:34.6,,,50-56,,Defensive rebound by K. Humphries
+218,0:19.9,,,50-56,,D. Williams misses 3-pt shot from 24 ft
+219,0:18.9,,,50-56,,Offensive rebound by D. Williams
+220,0:15.2,,,50-59,3.0,J. Johnson makes 3-pt shot from 25 ft (assist by D. Williams)
+221,0:00.0,End of 2nd quarter,,,,
+222,3rd Q,,,,,
+223,Time,Boston,,Score,,Brooklyn
+224,12:00.0,Start of 3rd quarter,,,,
+225,11:47.0,P. Pierce misses 2-pt shot from 15 ft,,50-59,,
+226,11:45.0,,,50-59,,Defensive rebound by K. Humphries
+227,11:25.0,,,50-59,,D. Williams misses 2-pt shot from 17 ft
+228,11:24.0,Defensive rebound by P. Pierce,,50-59,,
+229,11:21.0,Turnover by P. Pierce (bad pass),,50-59,,
+230,11:10.0,,,50-59,,D. Williams misses 2-pt shot from 17 ft
+231,11:08.0,Defensive rebound by P. Pierce,,50-59,,
+232,11:03.0,L. Barbosa misses 2-pt shot from 3 ft,,50-59,,
+233,11:02.0,,,50-59,,Defensive rebound by K. Humphries
+234,10:55.0,,,50-62,3.0,D. Williams makes 3-pt shot from 25 ft (assist by J. Johnson)
+235,10:35.0,L. Barbosa misses 3-pt shot from 25 ft,,50-62,,
+236,10:33.0,,,50-62,,Defensive rebound by K. Humphries
+237,10:21.0,,,50-62,,Turnover by D. Williams (bad pass; steal by J. Terry)
+238,10:17.0,P. Pierce makes 2-pt shot from 3 ft (assist by J. Terry),2.0,52-62,,
+239,10:17.0,,,52-62,,Brooklyn 20 second timeout
+240,9:52.0,,,52-62,,J. Johnson misses 3-pt shot from 25 ft
+241,9:51.0,Defensive rebound by K. Garnett,,52-62,,
+242,9:42.0,B. Bass misses 2-pt shot from 18 ft,,52-62,,
+243,9:41.0,,,52-62,,Defensive rebound by J. Johnson
+244,9:32.0,,,52-64,2.0,B. Lopez makes 2-pt shot from 15 ft (assist by D. Williams)
+245,9:08.0,Shooting foul by K. Bogans (drawn by K. Garnett),,52-64,,
+246,9:08.0,K. Garnett makes free throw 1 of 2,1.0,53-64,,
+247,9:08.0,K. Garnett makes free throw 2 of 2,1.0,54-64,,
+248,8:53.0,,,54-67,3.0,D. Williams makes 3-pt shot from 25 ft (assist by K. Humphries)
+249,8:35.0,L. Barbosa makes 3-pt shot from 22 ft (assist by J. Terry),3.0,57-67,,
+250,8:14.0,,,57-69,2.0,B. Lopez makes 2-pt shot from 2 ft
+251,7:56.0,Turnover by B. Bass (traveling),,57-69,,
+252,7:42.0,C. Wilcox enters the game for B. Bass,,57-69,,
+253,7:30.0,,,57-69,,K. Humphries misses 2-pt shot from 3 ft (block by K. Garnett)
+254,7:29.0,,,57-69,,Offensive rebound by Team
+255,7:28.0,,,57-69,,Turnover by K. Bogans (bad pass; steal by L. Barbosa)
+256,7:11.0,P. Pierce makes 3-pt shot from 24 ft (assist by C. Wilcox),3.0,60-69,,
+257,6:49.0,,,60-69,,D. Williams misses 2-pt shot from 16 ft
+258,6:47.0,Defensive rebound by P. Pierce,,60-69,,
+259,6:43.0,P. Pierce makes 2-pt shot from 2 ft,2.0,62-69,,
+260,6:41.0,,,62-69,,Brooklyn full timeout
+261,6:41.0,,,62-69,,A. Blatche enters the game for B. Lopez
+262,6:41.0,,,62-69,,R. Evans enters the game for K. Humphries
+263,6:41.0,,,62-69,,C. Watson enters the game for K. Bogans
+264,6:30.0,,,62-69,,J. Johnson misses 2-pt shot from 8 ft
+265,6:29.0,Defensive rebound by L. Barbosa,,62-69,,
+266,6:13.0,J. Terry makes 3-pt shot from 23 ft (assist by P. Pierce),3.0,65-69,,
+267,5:53.0,,,65-69,,J. Childress enters the game for J. Johnson
+268,5:49.0,,,65-69,,D. Williams misses 3-pt shot from 22 ft
+269,5:47.0,Defensive rebound by P. Pierce,,65-69,,
+270,5:45.0,Shooting foul by C. Watson (drawn by L. Barbosa),,65-69,,
+271,5:45.0,L. Barbosa makes free throw 1 of 2,1.0,66-69,,
+272,5:45.0,L. Barbosa makes free throw 2 of 2,1.0,67-69,,
+273,5:22.0,,,67-69,,Turnover by A. Blatche (bad pass; steal by P. Pierce)
+274,5:18.0,L. Barbosa makes 2-pt shot from 2 ft (assist by J. Terry),2.0,69-69,,
+275,5:12.0,,,69-69,,Personal foul by P. Pierce (drawn by C. Watson)
+276,5:03.0,,,69-71,2.0,D. Williams makes 2-pt shot from 20 ft (assist by C. Watson)
+277,4:50.0,J. Terry misses 3-pt shot from 24 ft,,69-71,,
+278,4:48.0,Offensive rebound by J. Terry,,69-71,,
+279,4:46.0,K. Garnett misses 2-pt shot from 2 ft (block by D. Williams),,69-71,,
+280,4:45.0,Offensive rebound by Team,,69-71,,
+281,4:45.0,C. Lee enters the game for L. Barbosa,,69-71,,
+282,4:45.0,B. Bass enters the game for K. Garnett,,69-71,,
+283,4:30.0,P. Pierce makes 2-pt shot from 14 ft (assist by J. Terry),2.0,71-71,,
+284,4:06.0,,,71-71,,C. Watson misses 3-pt shot from 24 ft
+285,4:05.0,Defensive rebound by Team,,71-71,,
+286,4:05.0,,,71-71,,Loose ball foul by A. Blatche (drawn by B. Bass)
+287,4:05.0,,,71-71,,J. Stackhouse enters the game for D. Williams
+288,3:49.0,P. Pierce makes 2-pt shot from 16 ft,2.0,73-71,,
+289,3:35.0,,,73-71,,C. Watson misses 2-pt shot from 18 ft
+290,3:34.0,Defensive rebound by J. Terry,,73-71,,
+291,3:22.0,B. Bass misses 2-pt shot from 9 ft,,73-71,,
+292,3:22.0,,,73-71,,Defensive rebound by R. Evans
+293,3:15.0,,,73-71,,A. Blatche misses 2-pt shot from 2 ft
+294,3:14.0,Defensive rebound by C. Lee,,73-71,,
+295,3:07.0,C. Lee misses 2-pt shot from 2 ft,,73-71,,
+296,3:04.0,,,73-71,,Defensive rebound by J. Stackhouse
+297,2:45.0,,,73-71,,A. Blatche misses 2-pt shot from 2 ft (block by C. Wilcox)
+298,2:43.0,,,73-71,,Offensive rebound by A. Blatche
+299,2:41.0,,,73-71,,A. Blatche misses 2-pt shot from 2 ft
+300,2:39.0,Defensive rebound by B. Bass,,73-71,,
+301,2:30.0,Boston full timeout,,73-71,,
+302,2:30.0,J. Green enters the game for P. Pierce,,73-71,,
+303,2:30.0,,,73-71,,M. Brooks enters the game for J. Childress
+304,2:16.0,B. Bass misses 2-pt shot from 8 ft (block by A. Blatche),,73-71,,
+305,2:15.0,Offensive rebound by B. Bass,,73-71,,
+306,2:14.0,Turnover by Team (shot clock),,73-71,,
+307,1:53.0,,,73-71,,R. Evans misses 2-pt shot from 2 ft (block by C. Wilcox)
+308,1:52.0,Defensive rebound by C. Lee,,73-71,,
+309,1:35.0,Shooting foul by R. Evans (drawn by C. Wilcox),,73-71,,
+310,1:35.0,C. Wilcox makes free throw 1 of 2,1.0,74-71,,
+311,1:35.0,,,74-71,,B. Lopez enters the game for A. Blatche
+312,1:35.0,L. Barbosa enters the game for J. Terry,,74-71,,
+313,1:35.0,C. Wilcox makes free throw 2 of 2,1.0,75-71,,
+314,1:28.0,,,75-71,,Personal foul by C. Lee (drawn by M. Brooks)
+315,1:19.0,,,75-71,,B. Lopez misses 2-pt shot from 9 ft
+316,1:18.0,Defensive rebound by J. Green,,75-71,,
+317,1:08.0,B. Bass misses 2-pt shot from 3 ft (block by B. Lopez),,75-71,,
+318,1:07.0,Offensive rebound by C. Wilcox,,75-71,,
+319,1:03.0,C. Wilcox makes 2-pt shot from 3 ft,2.0,77-71,,
+320,0:48.9,,,77-73,2.0,B. Lopez makes 2-pt shot from 2 ft (assist by J. Stackhouse)
+321,0:48.9,,,77-73,,Shooting foul by C. Wilcox (drawn by B. Lopez)
+322,0:48.9,,,77-74,1.0,B. Lopez makes free throw 1 of 1
+323,0:26.9,B. Bass misses 2-pt shot from 16 ft,,77-74,,
+324,0:24.9,,,77-74,,Defensive rebound by R. Evans
+325,0:07.9,,,77-74,,Turnover by C. Watson (bad pass; steal by C. Lee)
+326,0:04.3,Shooting foul by M. Brooks (drawn by C. Lee),,77-74,,
+327,0:04.3,C. Lee makes free throw 1 of 2,1.0,78-74,,
+328,0:04.3,C. Lee makes free throw 2 of 2,1.0,79-74,,
+329,0:00.7,,,79-74,,M. Brooks misses 2-pt shot from 13 ft
+330,0:00.0,,,79-74,,Offensive rebound by Team
+331,0:00.0,End of 3rd quarter,,,,
+332,4th Q,,,,,
+333,Time,Boston,,Score,,Brooklyn
+334,12:00.0,Start of 4th quarter,,,,
+335,11:46.0,,,79-76,2.0,M. Brooks makes 2-pt shot from 11 ft (assist by J. Stackhouse)
+336,11:46.0,,,79-76,,Shooting foul by C. Lee (drawn by M. Brooks)
+337,11:46.0,,,79-76,,M. Brooks misses free throw 1 of 1
+338,11:44.0,Defensive rebound by K. Garnett,,79-76,,
+339,11:25.0,L. Barbosa misses 3-pt shot from 24 ft,,79-76,,
+340,11:24.0,,,79-76,,Defensive rebound by B. Lopez
+341,11:09.0,,,79-76,,J. Stackhouse misses 3-pt shot from 25 ft
+342,11:08.0,Defensive rebound by C. Lee,,79-76,,
+343,10:50.0,K. Garnett makes 2-pt shot from 16 ft (assist by C. Lee),2.0,81-76,,
+344,10:32.0,,,81-76,,D. Williams misses 2-pt shot from 3 ft
+345,10:31.0,,,81-76,,Offensive rebound by B. Lopez
+346,10:30.0,,,81-78,2.0,B. Lopez makes 2-pt shot from 2 ft
+347,10:19.0,Turnover by J. Green (bad pass),,81-78,,
+348,10:06.0,,,81-78,,D. Williams misses 2-pt shot from 18 ft
+349,10:04.0,Defensive rebound by C. Lee,,81-78,,
+350,9:55.0,K. Garnett misses 2-pt shot from 10 ft,,81-78,,
+351,9:53.0,,,81-78,,Defensive rebound by R. Evans
+352,9:33.0,,,81-78,,Shooting foul by J. Green (drawn by B. Lopez)
+353,9:33.0,,,81-79,1.0,B. Lopez makes free throw 1 of 2
+354,9:33.0,,,81-79,,B. Lopez misses free throw 2 of 2
+355,9:32.0,Defensive rebound by J. Green,,81-79,,
+356,9:20.0,Turnover by J. Green (lost ball; steal by R. Evans),,81-79,,
+357,9:18.0,,,81-79,,Shooting foul by J. Green (drawn by R. Evans)
+358,9:18.0,,,81-80,1.0,R. Evans makes free throw 1 of 2
+359,9:18.0,,,81-80,,R. Evans misses free throw 2 of 2
+360,9:17.0,Defensive rebound by K. Garnett,,81-80,,
+361,8:59.0,C. Lee misses 3-pt shot from 25 ft,,81-80,,
+362,8:57.0,Offensive rebound by Team,,81-80,,
+363,8:57.0,Official timeout,,81-80,,
+364,8:57.0,P. Pierce enters the game for L. Barbosa,,81-80,,
+365,8:57.0,,,81-80,,J. Johnson enters the game for M. Brooks
+366,8:40.0,K. Garnett makes 2-pt shot from 13 ft (assist by C. Lee),2.0,83-80,,
+367,8:17.0,,,83-80,,D. Williams misses 3-pt shot from 24 ft
+368,8:15.0,Defensive rebound by K. Garnett,,83-80,,
+369,7:57.0,K. Garnett makes 2-pt shot from 10 ft,2.0,85-80,,
+370,7:35.0,,,85-82,2.0,J. Johnson makes 2-pt shot from 9 ft
+371,7:17.0,,,85-82,,Violation by R. Evans (kicked ball)
+372,7:17.0,,,85-82,,K. Humphries enters the game for R. Evans
+373,7:11.0,Personal foul by K. Humphries (drawn by K. Garnett),,85-82,,
+374,7:07.0,B. Bass misses 2-pt shot from 15 ft,,85-82,,
+375,7:05.0,Offensive rebound by C. Lee,,85-82,,
+376,6:54.0,J. Green misses 2-pt shot from 2 ft,,85-82,,
+377,6:53.0,Offensive rebound by J. Green,,85-82,,
+378,6:52.0,J. Green misses 2-pt shot from 2 ft,,85-82,,
+379,6:51.0,,,85-82,,Defensive rebound by K. Humphries
+380,6:40.0,,,85-82,,J. Johnson misses 3-pt shot from 27 ft
+381,6:36.0,Defensive rebound by K. Garnett,,85-82,,
+382,6:28.0,Turnover by K. Garnett (bad pass; steal by J. Johnson),,85-82,,
+383,6:20.0,,,85-85,3.0,J. Stackhouse makes 3-pt shot from 24 ft (assist by D. Williams)
+384,6:00.0,C. Lee makes 2-pt shot from 2 ft,2.0,87-85,,
+385,5:36.0,,,87-87,2.0,B. Lopez makes 2-pt shot from 2 ft (assist by J. Johnson)
+386,5:19.0,B. Bass misses 2-pt shot from 19 ft,,87-87,,
+387,5:18.0,,,87-87,,Defensive rebound by D. Williams
+388,5:04.0,,,87-87,,Brooklyn full timeout
+389,5:04.0,J. Terry enters the game for J. Green,,87-87,,
+390,4:54.0,,,87-87,,J. Johnson misses 3-pt shot from 23 ft
+391,4:52.0,Defensive rebound by B. Bass,,87-87,,
+392,4:35.0,B. Bass misses 2-pt shot from 18 ft,,87-87,,
+393,4:34.0,,,87-87,,Defensive rebound by K. Humphries
+394,4:13.0,,,87-87,,C. Watson enters the game for J. Stackhouse
+395,4:09.0,,,87-87,,D. Williams misses 2-pt shot from 19 ft
+396,4:08.0,Defensive rebound by C. Lee,,87-87,,
+397,4:07.0,Turnover by C. Lee (bad pass; steal by C. Watson),,87-87,,
+398,4:06.0,,,87-87,,Turnover by C. Watson (back court)
+399,4:06.0,,,87-87,,R. Evans enters the game for K. Humphries
+400,3:54.0,K. Garnett misses 2-pt shot from 18 ft,,87-87,,
+401,3:53.0,,,87-87,,Defensive rebound by D. Williams
+402,3:42.0,,,87-87,,Turnover by D. Williams (lost ball; steal by C. Lee)
+403,3:25.0,P. Pierce misses 2-pt shot from 5 ft (block by B. Lopez),,87-87,,
+404,3:23.0,,,87-87,,Defensive rebound by R. Evans
+405,3:03.0,,,87-89,2.0,J. Johnson makes 2-pt shot from 12 ft
+406,2:58.0,Boston full timeout,,87-89,,
+407,2:47.0,J. Terry misses 2-pt shot from 9 ft,,87-89,,
+408,2:46.0,,,87-89,,Defensive rebound by J. Johnson
+409,2:26.0,,,87-91,2.0,J. Johnson makes 2-pt shot from 18 ft
+410,2:08.0,B. Bass misses 2-pt shot from 19 ft,,87-91,,
+411,2:07.0,,,87-91,,Defensive rebound by R. Evans
+412,1:47.0,,,87-91,,J. Johnson misses 2-pt shot from 12 ft
+413,1:46.0,,,87-91,,Offensive rebound by B. Lopez
+414,1:45.0,,,87-93,2.0,B. Lopez makes 2-pt shot from 3 ft
+415,1:45.0,Boston full timeout,,87-93,,
+416,1:45.0,J. Green enters the game for C. Lee,,87-93,,
+417,1:45.0,L. Barbosa enters the game for B. Bass,,87-93,,
+418,1:35.0,K. Garnett makes 2-pt shot from 4 ft (assist by P. Pierce),2.0,89-93,,
+419,1:13.0,,,89-93,,Turnover by J. Johnson (traveling)
+420,1:13.0,Boston 20 second timeout,,89-93,,
+421,0:58.3,J. Green makes 3-pt shot from 23 ft (assist by J. Terry),3.0,92-93,,
+422,0:43.0,,,92-93,,Shooting foul by L. Barbosa (drawn by D. Williams)
+423,0:43.0,,,92-94,1.0,D. Williams makes free throw 1 of 2
+424,0:43.0,,,92-94,,J. Childress enters the game for C. Watson
+425,0:43.0,,,92-94,,K. Humphries enters the game for B. Lopez
+426,0:43.0,,,92-95,1.0,D. Williams makes free throw 2 of 2
+427,0:43.0,Boston 20 second timeout,,92-95,,
+428,0:43.0,,,92-95,,C. Watson enters the game for K. Humphries
+429,0:34.5,Shooting foul by R. Evans (drawn by P. Pierce),,92-95,,
+430,0:34.5,P. Pierce misses free throw 1 of 2,,92-95,,
+431,0:34.5,Offensive rebound by Team,,92-95,,
+432,0:34.5,,,92-95,,B. Lopez enters the game for J. Childress
+433,0:34.5,,,92-95,,K. Humphries enters the game for R. Evans
+434,0:34.5,,,92-95,,J. Stackhouse enters the game for C. Watson
+435,0:34.5,P. Pierce misses free throw 2 of 2,,92-95,,
+436,0:33.7,,,92-95,,Defensive rebound by J. Johnson
+437,0:29.3,,,92-95,,Personal foul by P. Pierce (drawn by J. Johnson)
+438,0:29.3,,,92-96,1.0,J. Johnson makes free throw 1 of 2
+439,0:29.3,,,92-96,,J. Childress enters the game for B. Lopez
+440,0:29.3,,,92-96,,R. Evans enters the game for J. Stackhouse
+441,0:29.3,,,92-96,,C. Watson enters the game for K. Humphries
+442,0:29.3,C. Lee enters the game for K. Garnett,,92-96,,
+443,0:29.3,,,92-97,1.0,J. Johnson makes free throw 2 of 2
+444,0:24.0,P. Pierce makes 3-pt shot from 26 ft,3.0,95-97,,
+445,0:24.0,,,95-97,,Brooklyn full timeout
+446,0:24.0,,,95-97,,B. Lopez enters the game for J. Childress
+447,0:24.0,,,95-97,,J. Stackhouse enters the game for R. Evans
+448,0:24.0,B. Bass enters the game for P. Pierce,,95-97,,
+449,0:23.4,,,95-97,,Personal foul by L. Barbosa (drawn by D. Williams)
+450,0:23.4,,,95-98,1.0,D. Williams makes free throw 1 of 2
+451,0:23.4,,,95-98,,J. Childress enters the game for B. Lopez
+452,0:23.4,,,95-98,,R. Evans enters the game for J. Stackhouse
+453,0:23.4,P. Pierce enters the game for B. Bass,,95-98,,
+454,0:23.4,,,95-99,1.0,D. Williams makes free throw 2 of 2
+455,0:19.1,Personal foul by J. Johnson (drawn by P. Pierce),,95-99,,
+456,0:19.1,P. Pierce makes free throw 1 of 2,1.0,96-99,,
+457,0:19.1,,,96-99,,B. Lopez enters the game for R. Evans
+458,0:19.1,,,96-99,,K. Humphries enters the game for J. Childress
+459,0:19.1,,,96-99,,J. Stackhouse enters the game for C. Watson
+460,0:19.1,P. Pierce makes free throw 2 of 2,1.0,97-99,,
+461,0:19.1,,,97-99,,Brooklyn 20 second timeout
+462,0:19.1,,,97-99,,C. Watson enters the game for K. Humphries
+463,0:19.1,B. Bass enters the game for P. Pierce,,97-99,,
+464,0:16.2,,,97-99,,Personal foul by L. Barbosa (drawn by D. Williams)
+465,0:16.2,,,97-100,1.0,D. Williams makes free throw 1 of 2
+466,0:16.2,P. Pierce enters the game for B. Bass,,97-100,,
+467,0:16.2,,,97-100,,R. Evans enters the game for J. Stackhouse
+468,0:16.2,,,97-100,,J. Childress enters the game for B. Lopez
+469,0:16.2,,,97-101,1.0,D. Williams makes free throw 2 of 2
+470,0:11.6,Personal foul by C. Watson (drawn by J. Terry),,97-101,,
+471,0:11.6,J. Terry misses free throw 1 of 2,,97-101,,
+472,0:11.6,Offensive rebound by Team,,97-101,,
+473,0:11.6,,,97-101,,K. Humphries enters the game for J. Childress
+474,0:11.6,,,97-101,,B. Lopez enters the game for C. Watson
+475,0:11.6,,,97-101,,J. Stackhouse enters the game for R. Evans
+476,0:11.6,K. Garnett enters the game for C. Lee,,97-101,,
+477,0:11.6,C. Wilcox enters the game for P. Pierce,,97-101,,
+478,0:11.6,J. Terry misses free throw 2 of 2,,97-101,,
+479,0:10.9,,,97-101,,Defensive rebound by J. Johnson
+480,0:08.5,,,97-101,,Personal foul by J. Green (drawn by J. Johnson)
+481,0:08.5,,,97-102,1.0,J. Johnson makes free throw 1 of 2
+482,0:08.5,,,97-102,,R. Evans enters the game for J. Stackhouse
+483,0:08.5,,,97-102,,J. Childress enters the game for B. Lopez
+484,0:08.5,,,97-102,,C. Watson enters the game for D. Williams
+485,0:08.5,C. Lee enters the game for K. Garnett,,97-102,,
+486,0:08.5,,,97-102,,J. Johnson misses free throw 2 of 2
+487,0:06.8,Defensive rebound by C. Wilcox,,97-102,,
+488,0:02.3,L. Barbosa misses 2-pt shot from 2 ft (block by K. Humphries),,97-102,,
+489,0:00.3,Offensive rebound by C. Lee,,97-102,,
+490,0:00.0,End of 4th quarter,,,,

@@ -1,0 +1,485 @@
+,Time,Boston,Unnamed: 2,Score,Unnamed: 4,New York
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: T. Chandler vs. J. O'Neal (R. Rondo gains possession),,,,
+2,11:41.0,Turnover by R. Allen (lost ball; steal by L. Fields),,0-0,,
+3,11:18.0,,,0-0,,Turnover by C. Anthony (bad pass; steal by R. Rondo)
+4,11:10.0,Shooting foul by T. Douglas (drawn by R. Rondo),,0-0,,
+5,11:10.0,R. Rondo makes free throw 1 of 2,1.0,1-0,,
+6,11:10.0,R. Rondo makes free throw 2 of 2,1.0,2-0,,
+7,10:57.0,,,2-3,3.0,T. Douglas makes 3-pt shot from 25 ft (assist by L. Fields)
+8,10:34.0,K. Garnett misses 2-pt shot from 20 ft,,2-3,,
+9,10:32.0,,,2-3,,Defensive rebound by C. Anthony
+10,10:25.0,,,2-3,,Shooting foul by J. O'Neal (drawn by T. Chandler)
+11,10:25.0,,,2-4,1.0,T. Chandler makes free throw 1 of 2
+12,10:25.0,,,2-4,,T. Chandler misses free throw 2 of 2
+13,10:23.0,,,2-4,,Offensive rebound by C. Anthony
+14,10:13.0,,,2-6,2.0,T. Douglas makes 2-pt shot from 9 ft
+15,10:03.0,K. Garnett makes 2-pt shot from 2 ft (assist by R. Rondo),2.0,4-6,,
+16,9:46.0,,,4-6,,C. Anthony misses 2-pt shot from 20 ft
+17,9:45.0,Defensive rebound by J. O'Neal,,4-6,,
+18,9:37.0,R. Rondo misses 2-pt shot from 16 ft,,4-6,,
+19,9:35.0,,,4-6,,Defensive rebound by C. Anthony
+20,9:28.0,,,4-6,,Turnover by T. Douglas (bad pass; steal by R. Rondo)
+21,9:25.0,Shooting foul by C. Anthony (drawn by R. Rondo),,4-6,,
+22,9:25.0,R. Rondo makes free throw 1 of 2,1.0,5-6,,
+23,9:25.0,,,5-6,,Violation by T. Chandler (lane)
+24,9:25.0,R. Rondo misses free throw 2 of 2,,5-6,,
+25,9:24.0,,,5-6,,Defensive rebound by A. Stoudemire
+26,9:07.0,,,5-9,3.0,L. Fields makes 3-pt shot from 23 ft (assist by C. Anthony)
+27,8:53.0,R. Rondo makes 2-pt shot from 2 ft,2.0,7-9,,
+28,8:37.0,,,7-11,2.0,A. Stoudemire makes 2-pt shot from 21 ft (assist by T. Douglas)
+29,8:21.0,Personal foul by L. Fields (drawn by R. Allen),,7-11,,
+30,8:14.0,Turnover by R. Allen (bad pass; steal by A. Stoudemire),,7-11,,
+31,7:57.0,,,7-11,,L. Fields misses 3-pt shot from 25 ft
+32,7:55.0,Defensive rebound by K. Garnett,,7-11,,
+33,7:48.0,R. Rondo makes 2-pt shot from 17 ft,2.0,9-11,,
+34,7:33.0,,,9-14,3.0,A. Stoudemire makes 3-pt shot from 25 ft (assist by C. Anthony)
+35,7:05.0,K. Garnett misses 2-pt shot from 18 ft,,9-14,,
+36,7:03.0,,,9-14,,Defensive rebound by A. Stoudemire
+37,6:59.0,,,9-14,,Personal foul by S. Pavlovic (drawn by C. Anthony)
+38,6:59.0,M. Daniels enters the game for S. Pavlovic,,9-14,,
+39,6:59.0,B. Bass enters the game for J. O'Neal,,9-14,,
+40,6:55.0,,,9-16,2.0,C. Anthony makes 2-pt shot from 6 ft (assist by L. Fields)
+41,6:55.0,,,9-16,,Shooting foul by M. Daniels (drawn by C. Anthony)
+42,6:55.0,,,9-17,1.0,C. Anthony makes free throw 1 of 1
+43,6:55.0,,,9-17,,Technical foul by A. Stoudemire
+44,6:55.0,R. Allen makes technical free throw,1.0,10-17,,
+45,6:32.0,R. Rondo misses 2-pt shot from 20 ft,,10-17,,
+46,6:30.0,,,10-17,,Defensive rebound by C. Anthony
+47,6:24.0,,,10-17,,L. Fields misses 2-pt shot from 3 ft
+48,6:22.0,Defensive rebound by B. Bass,,10-17,,
+49,6:17.0,Shooting foul by A. Stoudemire (drawn by R. Rondo),,10-17,,
+50,6:17.0,R. Rondo makes free throw 1 of 2,1.0,11-17,,
+51,6:17.0,C. Wilcox enters the game for K. Garnett,,11-17,,
+52,6:17.0,R. Rondo makes free throw 2 of 2,1.0,12-17,,
+53,6:04.0,,,12-19,2.0,L. Fields makes 2-pt shot from 2 ft (assist by T. Chandler)
+54,5:49.0,B. Bass misses 2-pt shot from 14 ft,,12-19,,
+55,5:48.0,,,12-19,,Defensive rebound by C. Anthony
+56,5:43.0,,,12-19,,C. Anthony misses 3-pt shot from 24 ft
+57,5:42.0,,,12-19,,Offensive rebound by Team
+58,5:42.0,,,12-19,,Personal foul by B. Bass (drawn by A. Stoudemire)
+59,5:42.0,,,12-19,,New York full timeout
+60,5:42.0,,,12-19,,J. Jeffries enters the game for A. Stoudemire
+61,5:42.0,,,12-19,,I. Shumpert enters the game for T. Douglas
+62,5:24.0,,,12-19,,I. Shumpert misses 3-pt shot from 24 ft
+63,5:22.0,Defensive rebound by M. Daniels,,12-19,,
+64,5:01.0,B. Bass makes 2-pt shot from 19 ft (assist by R. Allen),2.0,14-19,,
+65,4:36.0,,,14-19,,I. Shumpert misses 2-pt shot from 11 ft
+66,4:35.0,,,14-19,,Offensive rebound by Team
+67,4:35.0,K. Dooling enters the game for R. Allen,,14-19,,
+68,4:35.0,,,14-19,,H. Walker enters the game for L. Fields
+69,4:18.0,,,14-19,,Turnover by H. Walker (traveling)
+70,4:05.0,B. Bass misses 2-pt shot from 5 ft (block by T. Chandler),,14-19,,
+71,4:02.0,Offensive rebound by C. Wilcox,,14-19,,
+72,3:58.0,R. Rondo misses 2-pt shot from 4 ft (block by T. Chandler),,14-19,,
+73,3:56.0,Offensive rebound by C. Wilcox,,14-19,,
+74,3:50.0,C. Wilcox makes 2-pt shot from 6 ft (assist by M. Daniels),2.0,16-19,,
+75,3:37.0,,,16-19,,Shooting foul by B. Bass (drawn by C. Anthony)
+76,3:37.0,,,16-20,1.0,C. Anthony makes free throw 1 of 2
+77,3:37.0,,,16-20,,J. Harrellson enters the game for T. Chandler
+78,3:37.0,,,16-21,1.0,C. Anthony makes free throw 2 of 2
+79,3:24.0,M. Daniels misses 2-pt shot from 6 ft (block by J. Jeffries),,16-21,,
+80,3:22.0,,,16-21,,Defensive rebound by I. Shumpert
+81,3:17.0,,,16-23,2.0,I. Shumpert makes 2-pt shot from 2 ft
+82,3:17.0,,,16-23,,Shooting foul by K. Dooling (drawn by I. Shumpert)
+83,3:17.0,,,16-24,1.0,I. Shumpert makes free throw 1 of 1
+84,3:02.0,A. Bradley enters the game for R. Rondo,,16-24,,
+85,3:02.0,K. Garnett enters the game for B. Bass,,16-24,,
+86,3:01.0,Turnover by K. Dooling (back court),,16-24,,
+87,2:50.0,,,16-24,,Turnover by J. Harrellson (out of bounds lost ball)
+88,2:50.0,Boston full timeout,,16-24,,
+89,2:30.0,Shooting foul by H. Walker (drawn by K. Dooling),,16-24,,
+90,2:30.0,K. Dooling makes free throw 1 of 2,1.0,17-24,,
+91,2:30.0,K. Dooling makes free throw 2 of 2,1.0,18-24,,
+92,2:20.0,,,18-24,,Shooting foul by K. Dooling (drawn by I. Shumpert)
+93,2:20.0,,,18-25,1.0,I. Shumpert makes free throw 1 of 2
+94,2:20.0,,,18-26,1.0,I. Shumpert makes free throw 2 of 2
+95,2:06.0,Turnover by K. Garnett (traveling),,18-26,,
+96,1:53.0,,,18-26,,C. Anthony misses 3-pt shot from 25 ft
+97,1:51.0,,,18-26,,Offensive rebound by J. Jeffries
+98,1:50.0,,,18-26,,J. Jeffries misses 2-pt shot from 3 ft (block by K. Garnett)
+99,1:47.0,Defensive rebound by C. Wilcox,,18-26,,
+100,1:46.0,Turnover by C. Wilcox (lost ball; steal by C. Anthony),,18-26,,
+101,1:43.0,,,18-28,2.0,C. Anthony makes 2-pt shot from 3 ft
+102,1:25.0,A. Bradley misses 2-pt shot from 18 ft,,18-28,,
+103,1:24.0,,,18-28,,Defensive rebound by Team
+104,1:11.0,,,18-28,,Shooting foul by C. Wilcox (drawn by C. Anthony)
+105,1:11.0,,,18-29,1.0,C. Anthony makes free throw 1 of 2
+106,1:11.0,,,18-30,1.0,C. Anthony makes free throw 2 of 2
+107,1:07.0,Personal foul by H. Walker (drawn by K. Dooling),,18-30,,
+108,1:07.0,K. Dooling makes free throw 1 of 2,1.0,19-30,,
+109,1:07.0,K. Dooling makes free throw 2 of 2,1.0,20-30,,
+110,0:48.2,,,20-32,2.0,J. Jeffries makes 2-pt shot from 21 ft (assist by J. Harrellson)
+111,0:36.7,Personal foul by H. Walker (drawn by K. Garnett),,20-32,,
+112,0:36.7,K. Garnett makes free throw 1 of 2,1.0,21-32,,
+113,0:36.7,,,21-32,,R. Balkman enters the game for H. Walker
+114,0:36.7,K. Garnett makes free throw 2 of 2,1.0,22-32,,
+115,0:22.8,,,22-32,,I. Shumpert misses 2-pt shot from 5 ft
+116,0:20.9,,,22-32,,Offensive rebound by I. Shumpert
+117,0:19.9,,,22-34,2.0,I. Shumpert makes 2-pt shot from 4 ft
+118,0:06.8,Personal foul by R. Balkman (drawn by K. Garnett),,22-34,,
+119,0:06.8,K. Garnett makes free throw 1 of 2,1.0,23-34,,
+120,0:06.8,R. Rondo enters the game for K. Dooling,,23-34,,
+121,0:06.8,K. Garnett misses free throw 2 of 2,,23-34,,
+122,0:05.9,,,23-34,,Defensive rebound by J. Harrellson
+123,0:00.9,,,23-34,,I. Shumpert misses 2-pt shot from 18 ft
+124,0:00.0,,,23-34,,Offensive rebound by Team
+125,0:00.0,End of 1st quarter,,,,
+126,2nd Q,,,,,
+127,Time,Boston,,Score,,New York
+128,12:00.0,Start of 2nd quarter,,,,
+129,11:50.0,,,23-34,,Turnover by I. Shumpert (lost ball; steal by R. Rondo)
+130,11:47.0,R. Rondo makes 2-pt shot from 2 ft (assist by M. Daniels),2.0,25-34,,
+131,11:31.0,,,25-34,,T. Douglas misses 2-pt shot from 16 ft
+132,11:29.0,Defensive rebound by M. Daniels,,25-34,,
+133,11:16.0,C. Wilcox makes 2-pt shot from 1 ft (assist by M. Daniels),2.0,27-34,,
+134,10:49.0,,,27-34,,A. Stoudemire misses 2-pt shot from 16 ft
+135,10:48.0,,,27-34,,Offensive rebound by R. Balkman
+136,10:48.0,Loose ball foul by M. Daniels (drawn by R. Balkman),,27-34,,
+137,10:37.0,,,27-34,,T. Douglas misses 2-pt shot from 5 ft (block by C. Wilcox)
+138,10:37.0,,,27-34,,Offensive rebound by Team
+139,10:32.0,,,27-36,2.0,R. Balkman makes 2-pt shot from 3 ft (assist by A. Stoudemire)
+140,10:16.0,K. Garnett makes 2-pt shot from 18 ft (assist by R. Rondo),2.0,29-36,,
+141,10:05.0,,,29-36,,I. Shumpert misses 2-pt shot at rim
+142,10:03.0,,,29-36,,Offensive rebound by R. Balkman
+143,9:58.0,,,29-38,2.0,A. Stoudemire makes 2-pt shot from 2 ft (assist by R. Balkman)
+144,9:47.0,M. Daniels misses 2-pt shot from 18 ft,,29-38,,
+145,9:44.0,,,29-38,,Defensive rebound by I. Shumpert
+146,9:36.0,,,29-41,3.0,A. Stoudemire makes 3-pt shot from 24 ft (assist by T. Douglas)
+147,9:15.0,R. Allen enters the game for M. Daniels,,29-41,,
+148,9:15.0,S. Pavlovic enters the game for C. Wilcox,,29-41,,
+149,9:15.0,J. O'Neal enters the game for A. Bradley,,29-41,,
+150,9:15.0,Double technical foul by T. Douglas and R. Allen,,29-41,,
+151,9:12.0,R. Allen misses 3-pt shot from 25 ft,,29-41,,
+152,9:10.0,,,29-41,,Defensive rebound by R. Balkman
+153,9:04.0,,,29-41,,Personal foul by J. O'Neal (drawn by A. Stoudemire)
+154,8:55.0,,,29-43,2.0,T. Douglas makes 2-pt shot from 10 ft
+155,8:36.0,Turnover by R. Allen (bad pass; steal by T. Douglas),,29-43,,
+156,8:33.0,,,29-45,2.0,T. Douglas makes 2-pt shot from 2 ft
+157,8:20.0,Personal foul by J. Jeffries (drawn by R. Allen),,29-45,,
+158,8:20.0,Official timeout,,29-45,,
+159,8:20.0,,,29-45,,T. Chandler enters the game for J. Jeffries
+160,8:10.0,J. O'Neal makes 2-pt shot from 2 ft (assist by K. Garnett),2.0,31-45,,
+161,8:10.0,Shooting foul by R. Balkman (drawn by J. O'Neal),,31-45,,
+162,8:10.0,J. O'Neal makes free throw 1 of 1,1.0,32-45,,
+163,7:53.0,,,32-45,,Shooting foul by J. O'Neal (drawn by I. Shumpert)
+164,7:53.0,,,32-46,1.0,I. Shumpert makes free throw 1 of 2
+165,7:53.0,B. Bass enters the game for J. O'Neal,,32-46,,
+166,7:53.0,,,32-46,,L. Fields enters the game for R. Balkman
+167,7:53.0,,,32-47,1.0,I. Shumpert makes free throw 2 of 2
+168,7:41.0,Turnover by R. Rondo (lost ball; steal by A. Stoudemire),,32-47,,
+169,7:31.0,,,32-47,,Shooting foul by S. Pavlovic (drawn by T. Chandler)
+170,7:31.0,,,32-48,1.0,T. Chandler makes free throw 1 of 2
+171,7:31.0,,,32-49,1.0,T. Chandler makes free throw 2 of 2
+172,7:17.0,K. Garnett misses 2-pt shot from 21 ft,,32-49,,
+173,7:15.0,,,32-49,,Defensive rebound by A. Stoudemire
+174,7:03.0,,,32-49,,I. Shumpert misses 2-pt shot from 21 ft
+175,7:01.0,Defensive rebound by R. Rondo,,32-49,,
+176,6:50.0,B. Bass makes 2-pt shot from 7 ft,2.0,34-49,,
+177,6:32.0,,,34-49,,T. Douglas misses 3-pt shot from 25 ft
+178,6:30.0,Defensive rebound by B. Bass,,34-49,,
+179,6:13.0,R. Allen makes 2-pt shot from 2 ft (assist by K. Garnett),2.0,36-49,,
+180,5:54.0,,,36-49,,I. Shumpert misses 2-pt shot from 2 ft
+181,5:53.0,Defensive rebound by S. Pavlovic,,36-49,,
+182,5:49.0,B. Bass makes 2-pt shot from 2 ft (assist by R. Rondo),2.0,38-49,,
+183,5:47.0,,,38-49,,New York full timeout
+184,5:47.0,,,38-49,,C. Anthony enters the game for I. Shumpert
+185,5:24.0,,,38-51,2.0,A. Stoudemire makes 2-pt shot from 1 ft
+186,4:56.0,B. Bass makes 2-pt shot from 14 ft (assist by K. Garnett),2.0,40-51,,
+187,4:37.0,,,40-51,,Turnover by A. Stoudemire (lost ball; steal by B. Bass)
+188,4:32.0,R. Rondo makes 2-pt shot from 2 ft,2.0,42-51,,
+189,4:22.0,,,42-53,2.0,T. Douglas makes 2-pt shot from 1 ft
+190,4:13.0,B. Bass makes 2-pt shot from 1 ft (assist by R. Rondo),2.0,44-53,,
+191,4:05.0,,,44-53,,New York 20 second timeout
+192,4:05.0,,,44-53,,J. Jeffries enters the game for A. Stoudemire
+193,3:56.0,,,44-53,,C. Anthony misses 2-pt shot from 9 ft
+194,3:54.0,,,44-53,,Offensive rebound by T. Chandler
+195,3:52.0,,,44-56,3.0,C. Anthony makes 3-pt shot from 25 ft (assist by T. Chandler)
+196,3:37.0,R. Rondo makes 2-pt shot from 1 ft,2.0,46-56,,
+197,3:25.0,,,46-56,,Personal foul by S. Pavlovic (drawn by C. Anthony)
+198,3:25.0,,,46-56,,C. Anthony misses free throw 1 of 2
+199,3:25.0,,,46-56,,Offensive rebound by Team
+200,3:25.0,M. Daniels enters the game for S. Pavlovic,,46-56,,
+201,3:25.0,,,46-57,1.0,C. Anthony makes free throw 2 of 2
+202,3:12.0,M. Daniels misses 2-pt shot from 20 ft,,46-57,,
+203,3:10.0,Offensive rebound by R. Allen,,46-57,,
+204,3:05.0,R. Rondo makes 2-pt shot from 21 ft (assist by M. Daniels),2.0,48-57,,
+205,2:40.0,,,48-57,,New York full timeout
+206,2:40.0,,,48-57,,A. Stoudemire enters the game for J. Jeffries
+207,2:39.0,,,48-57,,Turnover by L. Fields (bad pass)
+208,2:28.0,Personal foul by T. Douglas (drawn by R. Rondo),,48-57,,
+209,2:24.0,Personal foul by T. Douglas (drawn by K. Garnett),,48-57,,
+210,2:24.0,,,48-57,,I. Shumpert enters the game for T. Douglas
+211,2:14.0,M. Daniels misses 2-pt shot from 7 ft,,48-57,,
+212,2:12.0,,,48-57,,Defensive rebound by A. Stoudemire
+213,2:08.0,,,48-57,,I. Shumpert misses 2-pt shot from 2 ft (block by M. Daniels)
+214,2:08.0,,,48-57,,Offensive rebound by Team
+215,2:00.0,,,48-59,2.0,C. Anthony makes 2-pt shot from 18 ft
+216,1:45.0,R. Rondo misses 2-pt shot from 3 ft (block by T. Chandler),,48-59,,
+217,1:43.0,,,48-59,,Defensive rebound by I. Shumpert
+218,1:39.0,,,48-61,2.0,C. Anthony makes 2-pt shot from 18 ft (assist by I. Shumpert)
+219,1:19.0,B. Bass misses 2-pt shot from 16 ft,,48-61,,
+220,1:17.0,,,48-61,,Defensive rebound by C. Anthony
+221,1:09.0,,,48-61,,I. Shumpert misses 2-pt shot from 2 ft
+222,1:07.0,Defensive rebound by B. Bass,,48-61,,
+223,1:04.0,Shooting foul by C. Anthony (drawn by R. Rondo),,48-61,,
+224,1:04.0,R. Rondo makes free throw 1 of 2,1.0,49-61,,
+225,1:04.0,R. Rondo makes free throw 2 of 2,1.0,50-61,,
+226,0:56.9,,,50-61,,Turnover by I. Shumpert (lost ball; steal by R. Rondo)
+227,0:53.5,Turnover by K. Garnett (bad pass),,50-61,,
+228,0:52.5,Loose ball foul by K. Garnett (drawn by T. Chandler),,50-61,,
+229,0:52.5,,,50-62,1.0,T. Chandler makes free throw 1 of 2
+230,0:52.5,,,50-62,,T. Chandler misses free throw 2 of 2
+231,0:51.9,Defensive rebound by B. Bass,,50-62,,
+232,0:50.7,Jump ball: C. Anthony vs. B. Bass (L. Fields gains possession),,,,
+233,0:50.7,Turnover by B. Bass (lost ball; steal by C. Anthony),,50-62,,
+234,0:46.5,,,50-62,,L. Fields misses 3-pt shot from 24 ft
+235,0:45.4,,,50-62,,Loose ball foul by A. Stoudemire (drawn by K. Garnett)
+236,0:45.4,K. Garnett misses free throw 1 of 2,,50-62,,
+237,0:45.4,Offensive rebound by Team,,50-62,,
+238,0:45.4,,,50-62,,J. Jeffries enters the game for A. Stoudemire
+239,0:45.4,K. Garnett misses free throw 2 of 2,,50-62,,
+240,0:45.4,Defensive rebound by Team,,50-62,,
+241,0:44.5,,,50-62,,Defensive rebound by C. Anthony
+242,0:33.8,,,50-62,,Turnover by C. Anthony (bad pass; steal by M. Daniels)
+243,0:29.8,R. Rondo misses 2-pt shot from 2 ft (block by T. Chandler),,50-62,,
+244,0:27.9,Offensive rebound by R. Allen,,50-62,,
+245,0:26.3,R. Allen makes 2-pt shot from 2 ft,2.0,52-62,,
+246,0:26.3,,,52-62,,Violation by T. Chandler (def goaltending)
+247,0:05.9,,,52-62,,C. Anthony misses 2-pt shot from 10 ft
+248,0:04.1,Defensive rebound by R. Rondo,,52-62,,
+249,0:03.8,Boston 20 second timeout,,52-62,,
+250,0:03.8,E. Moore enters the game for K. Garnett,,52-62,,
+251,0:03.8,A. Bradley enters the game for B. Bass,,52-62,,
+252,0:00.3,Offensive foul by R. Rondo (drawn by C. Anthony),,52-62,,
+253,0:00.3,Turnover by R. Rondo (offensive foul),,52-62,,
+254,0:00.3,B. Bass enters the game for E. Moore,,52-62,,
+255,0:00.0,End of 2nd quarter,,,,
+256,3rd Q,,,,,
+257,Time,Boston,,Score,,New York
+258,12:00.0,Start of 3rd quarter,,,,
+259,11:41.0,,,52-62,,Shooting foul by K. Garnett (drawn by A. Stoudemire)
+260,11:41.0,,,52-63,1.0,A. Stoudemire makes free throw 1 of 2
+261,11:41.0,,,52-63,,A. Stoudemire misses free throw 2 of 2
+262,11:40.0,Defensive rebound by K. Garnett,,52-63,,
+263,11:26.0,Turnover by R. Rondo (lost ball; steal by T. Douglas),,52-63,,
+264,11:24.0,,,52-63,,Shooting foul by K. Garnett (drawn by T. Douglas)
+265,11:24.0,,,52-63,,T. Douglas misses free throw 1 of 2
+266,11:24.0,,,52-63,,Offensive rebound by Team
+267,11:24.0,,,52-64,1.0,T. Douglas makes free throw 2 of 2
+268,11:10.0,Shooting foul by C. Anthony (drawn by J. O'Neal),,52-64,,
+269,11:10.0,J. O'Neal makes free throw 1 of 2,1.0,53-64,,
+270,11:10.0,J. O'Neal misses free throw 2 of 2,,53-64,,
+271,11:08.0,,,53-64,,Defensive rebound by A. Stoudemire
+272,10:57.0,,,53-64,,Personal foul by R. Allen (drawn by L. Fields)
+273,10:49.0,,,53-64,,T. Chandler misses 2-pt shot from 1 ft
+274,10:48.0,,,53-64,,Offensive rebound by L. Fields
+275,10:45.0,,,53-64,,L. Fields misses 2-pt shot from 2 ft
+276,10:44.0,Defensive rebound by K. Garnett,,53-64,,
+277,10:39.0,R. Allen makes 2-pt shot from 2 ft (assist by R. Rondo),2.0,55-64,,
+278,10:24.0,,,55-67,3.0,C. Anthony makes 3-pt shot from 24 ft
+279,10:04.0,K. Garnett makes 2-pt shot from 20 ft (assist by S. Pavlovic),2.0,57-67,,
+280,9:52.0,,,57-67,,C. Anthony misses 3-pt shot from 24 ft
+281,9:50.0,Defensive rebound by K. Garnett,,57-67,,
+282,9:43.0,K. Garnett misses 2-pt shot from 5 ft,,57-67,,
+283,9:41.0,,,57-67,,Defensive rebound by C. Anthony
+284,9:29.0,,,57-67,,T. Douglas misses 2-pt shot from 20 ft
+285,9:27.0,Defensive rebound by R. Allen,,57-67,,
+286,9:24.0,R. Rondo makes 2-pt shot from 1 ft (assist by R. Allen),2.0,59-67,,
+287,9:05.0,,,59-67,,T. Douglas misses 2-pt shot from 11 ft
+288,9:03.0,Defensive rebound by J. O'Neal,,59-67,,
+289,8:56.0,R. Rondo misses 2-pt shot from 2 ft (block by A. Stoudemire),,59-67,,
+290,8:55.0,,,59-67,,Defensive rebound by T. Chandler
+291,8:51.0,,,59-67,,T. Douglas misses 3-pt shot from 23 ft
+292,8:49.0,Defensive rebound by K. Garnett,,59-67,,
+293,8:41.0,Personal foul by T. Douglas (drawn by R. Rondo),,59-67,,
+294,8:41.0,R. Rondo misses free throw 1 of 2,,59-67,,
+295,8:41.0,Offensive rebound by Team,,59-67,,
+296,8:41.0,,,59-67,,I. Shumpert enters the game for T. Douglas
+297,8:41.0,M. Daniels enters the game for S. Pavlovic,,59-67,,
+298,8:41.0,R. Rondo makes free throw 2 of 2,1.0,60-67,,
+299,8:28.0,,,60-67,,Turnover by C. Anthony (bad pass; steal by R. Rondo)
+300,8:26.0,R. Rondo makes 2-pt shot from 1 ft,2.0,62-67,,
+301,8:12.0,,,62-67,,Offensive foul by C. Anthony (drawn by R. Rondo)
+302,8:12.0,,,62-67,,Turnover by C. Anthony (offensive foul)
+303,8:12.0,,,62-67,,H. Walker enters the game for C. Anthony
+304,8:01.0,R. Allen makes 2-pt shot from 21 ft (assist by R. Rondo),2.0,64-67,,
+305,7:47.0,,,64-69,2.0,L. Fields makes 2-pt shot from 8 ft
+306,7:31.0,R. Allen makes 3-pt shot from 23 ft (assist by R. Rondo),3.0,67-69,,
+307,7:18.0,,,67-69,,I. Shumpert misses 2-pt shot from 2 ft (block by J. O'Neal)
+308,7:15.0,Defensive rebound by M. Daniels,,67-69,,
+309,7:13.0,R. Rondo makes 2-pt shot from 1 ft (assist by M. Daniels),2.0,69-69,,
+310,7:11.0,,,69-69,,New York full timeout
+311,6:54.0,,,69-69,,Personal foul by R. Rondo (drawn by I. Shumpert)
+312,6:43.0,,,69-69,,Offensive foul by L. Fields (drawn by J. O'Neal)
+313,6:43.0,,,69-69,,Turnover by L. Fields (offensive foul)
+314,6:30.0,R. Allen misses 2-pt shot from 22 ft,,69-69,,
+315,6:28.0,Offensive rebound by K. Garnett,,69-69,,
+316,6:19.0,Personal foul by I. Shumpert (drawn by M. Daniels),,69-69,,
+317,6:10.0,J. O'Neal makes 2-pt shot from 2 ft (assist by R. Allen),2.0,71-69,,
+318,5:45.0,,,71-69,,A. Stoudemire misses 2-pt shot from 7 ft
+319,5:43.0,Defensive rebound by K. Garnett,,71-69,,
+320,5:38.0,Personal foul by I. Shumpert (drawn by K. Garnett),,71-69,,
+321,5:38.0,B. Bass enters the game for K. Garnett,,71-69,,
+322,5:34.0,Turnover by R. Rondo (bad pass),,71-69,,
+323,5:14.0,,,71-69,,A. Stoudemire misses 2-pt shot from 18 ft
+324,5:13.0,Defensive rebound by Team,,71-69,,
+325,4:57.0,J. O'Neal misses 2-pt shot from 7 ft,,71-69,,
+326,4:55.0,Offensive rebound by B. Bass,,71-69,,
+327,4:53.0,Shooting foul by T. Chandler (drawn by B. Bass),,71-69,,
+328,4:53.0,B. Bass makes free throw 1 of 2,1.0,72-69,,
+329,4:53.0,,,72-69,,J. Jeffries enters the game for T. Chandler
+330,4:53.0,B. Bass makes free throw 2 of 2,1.0,73-69,,
+331,4:39.0,,,73-69,,Turnover by H. Walker (bad pass)
+332,4:34.0,M. Daniels makes 2-pt shot from 1 ft (assist by R. Rondo),2.0,75-69,,
+333,4:16.0,,,75-69,,J. Jeffries misses 2-pt shot from 2 ft (block by J. O'Neal)
+334,4:14.0,Defensive rebound by B. Bass,,75-69,,
+335,3:55.0,Shooting foul by J. Jeffries (drawn by R. Rondo),,75-69,,
+336,3:55.0,,,75-69,,Technical foul by T. Chandler
+337,3:55.0,R. Allen makes technical free throw,1.0,76-69,,
+338,3:55.0,,,76-69,,T. Douglas enters the game for H. Walker
+339,3:55.0,,,76-69,,R. Balkman enters the game for J. Jeffries
+340,3:55.0,R. Rondo misses free throw 1 of 2,,76-69,,
+341,3:55.0,R. Rondo makes free throw 2 of 2,1.0,77-69,,
+342,3:55.0,Offensive rebound by Team,,77-69,,
+343,3:38.0,,,77-71,2.0,T. Douglas makes 2-pt shot from 18 ft
+344,3:19.0,R. Rondo misses 2-pt shot from 11 ft,,77-71,,
+345,3:17.0,Offensive rebound by B. Bass,,77-71,,
+346,3:11.0,Turnover by R. Rondo (bad pass; steal by T. Douglas),,77-71,,
+347,3:04.0,,,77-73,2.0,A. Stoudemire makes 2-pt shot from 2 ft (assist by T. Douglas)
+348,3:01.0,Boston full timeout,,77-73,,
+349,3:01.0,K. Dooling enters the game for J. O'Neal,,77-73,,
+350,3:01.0,C. Wilcox enters the game for M. Daniels,,77-73,,
+351,2:39.0,R. Rondo makes 2-pt shot from 2 ft (assist by K. Dooling),2.0,79-73,,
+352,2:20.0,,,79-75,2.0,A. Stoudemire makes 2-pt shot from 2 ft
+353,2:09.0,R. Allen makes 2-pt shot from 5 ft,2.0,81-75,,
+354,1:55.0,,,81-75,,Turnover by T. Douglas (palming)
+355,1:34.0,C. Wilcox misses 2-pt shot from 3 ft,,81-75,,
+356,1:32.0,Offensive rebound by B. Bass,,81-75,,
+357,1:31.0,B. Bass makes 2-pt shot from 1 ft,2.0,83-75,,
+358,1:21.0,,,83-77,2.0,I. Shumpert makes 2-pt shot from 15 ft
+359,1:06.0,R. Allen misses 2-pt shot from 14 ft,,83-77,,
+360,1:04.0,Offensive rebound by B. Bass,,83-77,,
+361,0:57.7,B. Bass makes 2-pt shot from 16 ft (assist by R. Rondo),2.0,85-77,,
+362,0:57.7,,,85-77,,New York 20 second timeout
+363,0:57.7,,,85-77,,H. Walker enters the game for R. Balkman
+364,0:57.7,,,85-77,,T. Chandler enters the game for I. Shumpert
+365,0:57.7,A. Bradley enters the game for R. Allen,,85-77,,
+366,0:45.9,,,85-77,,T. Douglas misses 3-pt shot from 25 ft
+367,0:43.8,Defensive rebound by K. Dooling,,85-77,,
+368,0:36.6,Turnover by K. Dooling (out of bounds lost ball),,85-77,,
+369,0:31.5,,,85-79,2.0,T. Douglas makes 2-pt shot from 2 ft
+370,0:25.0,B. Bass makes 2-pt shot from 2 ft (assist by R. Rondo),2.0,87-79,,
+371,0:02.9,,,87-79,,T. Douglas misses 2-pt shot from 5 ft
+372,0:00.7,Defensive rebound by B. Bass,,87-79,,
+373,0:00.0,End of 3rd quarter,,,,
+374,4th Q,,,,,
+375,Time,Boston,,Score,,New York
+376,12:00.0,Start of 4th quarter,,,,
+377,11:42.0,B. Bass makes 2-pt shot from 16 ft (assist by K. Dooling),2.0,89-79,,
+378,11:16.0,,,89-79,,T. Douglas misses 2-pt shot from 15 ft
+379,11:14.0,Defensive rebound by M. Daniels,,89-79,,
+380,11:01.0,A. Bradley misses 2-pt shot from 12 ft (block by J. Harrellson),,89-79,,
+381,10:59.0,,,89-79,,Defensive rebound by T. Douglas
+382,10:48.0,,,89-79,,Personal foul by M. Daniels (drawn by C. Anthony)
+383,10:39.0,,,89-82,3.0,C. Anthony makes 3-pt shot from 24 ft (assist by T. Douglas)
+384,10:16.0,K. Dooling misses 2-pt shot from 17 ft,,89-82,,
+385,10:15.0,Offensive rebound by B. Bass,,89-82,,
+386,10:00.0,Turnover by A. Bradley (step out of bounds),,89-82,,
+387,10:00.0,K. Garnett enters the game for A. Bradley,,89-82,,
+388,10:00.0,R. Allen enters the game for C. Wilcox,,89-82,,
+389,9:47.0,,,89-84,2.0,C. Anthony makes 2-pt shot from 18 ft
+390,9:31.0,R. Allen makes 3-pt shot from 25 ft (assist by K. Dooling),3.0,92-84,,
+391,9:20.0,,,92-84,,H. Walker misses 3-pt shot from 23 ft
+392,9:17.0,,,92-84,,Offensive rebound by T. Chandler
+393,9:15.0,,,92-84,,Shooting foul by B. Bass (drawn by C. Anthony)
+394,9:15.0,,,92-85,1.0,C. Anthony makes free throw 1 of 2
+395,9:15.0,,,92-86,1.0,C. Anthony makes free throw 2 of 2
+396,8:53.0,K. Garnett makes 2-pt shot from 19 ft,2.0,94-86,,
+397,8:33.0,,,94-86,,Personal foul by M. Daniels (drawn by C. Anthony)
+398,8:33.0,,,94-86,,Official timeout
+399,8:33.0,S. Pavlovic enters the game for M. Daniels,,94-86,,
+400,8:30.0,,,94-88,2.0,T. Chandler makes 2-pt shot from 1 ft (assist by C. Anthony)
+401,8:11.0,Turnover by K. Garnett (bad pass),,94-88,,
+402,8:11.0,R. Rondo enters the game for K. Dooling,,94-88,,
+403,8:03.0,,,94-88,,Personal foul by S. Pavlovic (drawn by C. Anthony)
+404,8:03.0,Technical foul by S. Pavlovic,,94-88,,
+405,8:03.0,,,94-89,1.0,C. Anthony makes technical free throw
+406,7:48.0,,,94-89,,Offensive foul by H. Walker (drawn by R. Allen)
+407,7:48.0,,,94-89,,Turnover by H. Walker (offensive foul)
+408,7:48.0,J. O'Neal enters the game for B. Bass,,94-89,,
+409,7:36.0,Offensive foul by J. O'Neal (drawn by H. Walker),,94-89,,
+410,7:36.0,Turnover by J. O'Neal (offensive foul),,94-89,,
+411,7:36.0,M. Daniels enters the game for S. Pavlovic,,94-89,,
+412,7:19.0,,,94-89,,T. Douglas misses 3-pt shot from 25 ft
+413,7:17.0,Defensive rebound by M. Daniels,,94-89,,
+414,7:05.0,R. Allen misses 2-pt shot from 19 ft,,94-89,,
+415,7:03.0,,,94-89,,Defensive rebound by J. Harrellson
+416,6:55.0,,,94-89,,T. Douglas misses 2-pt shot from 7 ft
+417,6:53.0,Defensive rebound by K. Garnett,,94-89,,
+418,6:38.0,J. O'Neal misses 2-pt shot from 4 ft (block by T. Chandler),,94-89,,
+419,6:37.0,Offensive rebound by M. Daniels,,94-89,,
+420,6:36.0,M. Daniels misses 2-pt shot from 1 ft (block by T. Chandler),,94-89,,
+421,6:35.0,Offensive rebound by Team,,94-89,,
+422,6:34.0,,,94-89,,L. Fields enters the game for H. Walker
+423,6:34.0,,,94-89,,A. Stoudemire enters the game for J. Harrellson
+424,6:30.0,J. O'Neal misses 2-pt shot from 4 ft (block by C. Anthony),,94-89,,
+425,6:29.0,Offensive rebound by Team,,94-89,,
+426,6:29.0,Turnover by Team (shot clock),,94-89,,
+427,6:14.0,,,94-89,,Shooting foul by J. O'Neal (drawn by A. Stoudemire)
+428,6:14.0,Technical foul by J. O'Neal,,94-89,,
+429,6:14.0,,,94-90,1.0,C. Anthony makes technical free throw
+430,6:14.0,,,94-91,1.0,A. Stoudemire makes free throw 1 of 2
+431,6:14.0,,,94-92,1.0,A. Stoudemire makes free throw 2 of 2
+432,5:59.0,Shooting foul by T. Chandler (drawn by R. Allen),,94-92,,
+433,5:59.0,Boston full timeout,,94-92,,
+434,5:59.0,B. Bass enters the game for J. O'Neal,,94-92,,
+435,5:59.0,R. Allen makes free throw 1 of 2,1.0,95-92,,
+436,5:59.0,R. Allen makes free throw 2 of 2,1.0,96-92,,
+437,5:42.0,,,96-92,,C. Anthony misses 2-pt shot from 12 ft
+438,5:40.0,Defensive rebound by R. Rondo,,96-92,,
+439,5:19.0,R. Rondo makes 2-pt shot from 19 ft,2.0,98-92,,
+440,4:52.0,,,98-94,2.0,A. Stoudemire makes 2-pt shot from 16 ft
+441,4:25.0,R. Rondo misses 3-pt shot from 24 ft,,98-94,,
+442,4:23.0,,,98-94,,Defensive rebound by A. Stoudemire
+443,4:08.0,,,98-97,3.0,T. Douglas makes 3-pt shot from 25 ft (assist by L. Fields)
+444,3:47.0,K. Garnett makes 2-pt shot from 19 ft (assist by R. Rondo),2.0,100-97,,
+445,3:25.0,,,100-100,3.0,C. Anthony makes 3-pt shot from 25 ft (assist by A. Stoudemire)
+446,3:08.0,K. Garnett makes 2-pt shot from 20 ft (assist by R. Rondo),2.0,102-100,,
+447,2:47.0,,,102-100,,Shooting foul by K. Garnett (drawn by T. Chandler)
+448,2:47.0,,,102-100,,New York full timeout
+449,2:47.0,,,102-101,1.0,T. Chandler makes free throw 1 of 2
+450,2:47.0,,,102-101,,T. Chandler misses free throw 2 of 2
+451,2:45.0,Defensive rebound by R. Rondo,,102-101,,
+452,2:27.0,K. Garnett misses 2-pt shot from 18 ft,,102-101,,
+453,2:26.0,,,102-101,,Defensive rebound by L. Fields
+454,2:11.0,,,102-101,,Shooting foul by K. Garnett (drawn by C. Anthony)
+455,2:11.0,,,102-101,,C. Anthony misses free throw 1 of 2
+456,2:11.0,,,102-101,,Offensive rebound by Team
+457,2:11.0,,,102-102,1.0,C. Anthony makes free throw 2 of 2
+458,1:51.0,K. Garnett misses 2-pt shot from 14 ft,,102-102,,
+459,1:48.0,Offensive rebound by Team,,102-102,,
+460,1:48.0,Boston full timeout,,102-102,,
+461,1:46.0,R. Allen misses 2-pt shot from 21 ft,,102-102,,
+462,1:44.0,,,102-102,,Defensive rebound by T. Douglas
+463,1:34.0,,,102-104,2.0,C. Anthony makes 2-pt shot from 19 ft
+464,1:16.0,M. Daniels makes 2-pt shot from 1 ft (assist by R. Rondo),2.0,104-104,,
+465,0:58.9,,,104-104,,New York full timeout
+466,0:53.1,,,104-104,,Turnover by C. Anthony (out of bounds lost ball)
+467,0:39.8,B. Bass misses 2-pt shot from 4 ft (block by A. Stoudemire),,104-104,,
+468,0:37.7,Offensive rebound by R. Allen,,104-104,,
+469,0:36.7,Turnover by R. Allen (lost ball; steal by L. Fields),,104-104,,
+470,0:16.3,,,104-104,,Personal foul by M. Daniels (drawn by C. Anthony)
+471,0:16.3,,,104-105,1.0,C. Anthony makes free throw 1 of 2
+472,0:16.3,,,104-106,1.0,C. Anthony makes free throw 2 of 2
+473,0:16.3,Boston 20 second timeout,,104-106,,
+474,0:06.9,M. Daniels misses 3-pt shot from 23 ft,,104-106,,
+475,0:05.0,Offensive rebound by R. Rondo,,104-106,,
+476,0:04.4,Boston 20 second timeout,,104-106,,
+477,0:04.4,K. Dooling enters the game for M. Daniels,,104-106,,
+478,0:04.4,Boston 20 second timeout,,104-106,,
+479,0:04.4,,,104-106,,H. Walker enters the game for T. Douglas
+480,0:03.9,Personal foul by L. Fields (drawn by K. Garnett),,104-106,,
+481,0:00.8,K. Garnett misses 2-pt shot from 14 ft,,104-106,,
+482,0:00.0,Offensive rebound by Team,,104-106,,
+483,0:00.0,End of 4th quarter,,,,

@@ -1,0 +1,436 @@
+,Time,Boston,Unnamed: 2,Score,Unnamed: 4,Atlanta
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: J. Smith vs. K. Garnett (R. Rondo gains possession),,,,
+2,11:36.0,R. Rondo misses 2-pt shot from 1 ft,,0-0,,
+3,11:34.0,,,0-0,,Defensive rebound by J. Teague
+4,11:21.0,,,0-2,2.0,J. Smith makes 2-pt shot from 19 ft
+5,11:06.0,K. Garnett misses 2-pt shot from 18 ft,,0-2,,
+6,11:04.0,,,0-2,,Defensive rebound by J. Teague
+7,10:48.0,,,0-2,,J. Smith misses 3-pt shot from 23 ft
+8,10:46.0,Defensive rebound by P. Pierce,,0-2,,
+9,10:39.0,R. Rondo makes 2-pt shot from 1 ft,2.0,2-2,,
+10,10:29.0,,,2-2,,Personal foul by P. Pierce (drawn by J. Johnson)
+11,10:21.0,,,2-2,,Turnover by J. Teague (step out of bounds)
+12,10:08.0,R. Allen makes 2-pt shot from 20 ft (assist by K. Garnett),2.0,4-2,,
+13,9:50.0,,,4-2,,J. Johnson misses 2-pt shot from 11 ft
+14,9:46.0,Defensive rebound by K. Garnett,,4-2,,
+15,9:39.0,Turnover by K. Garnett (traveling),,4-2,,
+16,9:24.0,,,4-4,2.0,J. Smith makes 2-pt shot from 21 ft
+17,9:00.0,K. Garnett misses 2-pt shot from 3 ft,,4-4,,
+18,8:59.0,Offensive rebound by Team,,4-4,,
+19,8:42.0,R. Rondo misses 2-pt shot from 3 ft,,4-4,,
+20,8:41.0,,,4-4,,Defensive rebound by Z. Pachulia
+21,8:35.0,,,4-4,,Shooting foul by B. Bass (drawn by K. Hinrich)
+22,8:35.0,,,4-5,1.0,K. Hinrich makes free throw 1 of 2
+23,8:35.0,,,4-6,1.0,K. Hinrich makes free throw 2 of 2
+24,8:21.0,P. Pierce misses 2-pt shot from 21 ft,,4-6,,
+25,8:19.0,,,4-6,,Defensive rebound by J. Smith
+26,8:13.0,,,4-6,,Turnover by J. Johnson (bad pass; steal by R. Rondo)
+27,8:09.0,Shooting foul by J. Teague (drawn by R. Rondo),,4-6,,
+28,8:09.0,R. Rondo makes free throw 1 of 2,1.0,5-6,,
+29,8:09.0,R. Rondo makes free throw 2 of 2,1.0,6-6,,
+30,7:54.0,,,6-6,,K. Hinrich misses 2-pt shot from 20 ft
+31,7:53.0,Defensive rebound by B. Bass,,6-6,,
+32,7:36.0,B. Bass misses 2-pt shot from 19 ft,,6-6,,
+33,7:35.0,,,6-6,,Defensive rebound by Z. Pachulia
+34,7:26.0,,,6-8,2.0,J. Smith makes 2-pt shot from 20 ft (assist by J. Teague)
+35,6:59.0,P. Pierce misses 2-pt shot from 20 ft,,6-8,,
+36,6:58.0,,,6-8,,Defensive rebound by Z. Pachulia
+37,6:49.0,,,6-8,,J. Teague misses 3-pt shot from 27 ft
+38,6:47.0,Defensive rebound by K. Garnett,,6-8,,
+39,6:33.0,B. Bass makes 2-pt shot at rim (assist by R. Rondo),2.0,8-8,,
+40,6:20.0,,,8-8,,Personal foul by K. Garnett (drawn by J. Johnson)
+41,6:20.0,G. Stiemsma enters the game for K. Garnett,,8-8,,
+42,6:08.0,,,8-8,,J. Smith misses 2-pt shot from 20 ft
+43,6:07.0,Defensive rebound by R. Rondo,,8-8,,
+44,5:56.0,Turnover by B. Bass (lost ball; steal by J. Smith),,8-8,,
+45,5:49.0,,,8-8,,Z. Pachulia misses 2-pt shot from 4 ft (block by G. Stiemsma)
+46,5:48.0,,,8-8,,Offensive rebound by Z. Pachulia
+47,5:48.0,,,8-8,,Personal foul by G. Stiemsma (drawn by Z. Pachulia)
+48,5:48.0,,,8-8,,Atlanta full timeout
+49,5:37.0,,,8-8,,J. Smith misses 2-pt shot from 8 ft
+50,5:35.0,Defensive rebound by P. Pierce,,8-8,,
+51,5:26.0,G. Stiemsma misses 2-pt shot from 20 ft,,8-8,,
+52,5:25.0,,,8-8,,Defensive rebound by J. Johnson
+53,5:17.0,,,8-8,,J. Johnson misses 2-pt shot from 9 ft
+54,5:16.0,Defensive rebound by G. Stiemsma,,8-8,,
+55,5:09.0,R. Rondo makes 2-pt shot from 2 ft,2.0,10-8,,
+56,4:54.0,,,10-8,,J. Smith misses 2-pt shot from 18 ft
+57,4:53.0,Defensive rebound by R. Allen,,10-8,,
+58,4:40.0,R. Rondo misses 2-pt shot from 21 ft,,10-8,,
+59,4:38.0,,,10-8,,Defensive rebound by J. Smith
+60,4:32.0,,,10-8,,Turnover by J. Smith (lost ball; steal by G. Stiemsma)
+61,4:12.0,P. Pierce makes 2-pt shot from 16 ft,2.0,12-8,,
+62,3:52.0,,,12-11,3.0,K. Hinrich makes 3-pt shot from 24 ft (assist by J. Smith)
+63,3:35.0,Offensive foul by R. Allen (drawn by K. Hinrich),,12-11,,
+64,3:35.0,Turnover by R. Allen (offensive foul),,12-11,,
+65,3:35.0,,,12-11,,T. McGrady enters the game for K. Hinrich
+66,3:21.0,,,12-11,,J. Johnson misses 2-pt shot from 6 ft
+67,3:19.0,Defensive rebound by B. Bass,,12-11,,
+68,3:11.0,P. Pierce misses 3-pt shot from 25 ft,,12-11,,
+69,3:10.0,,,12-11,,Defensive rebound by J. Smith
+70,2:56.0,,,12-11,,Turnover by Z. Pachulia (traveling)
+71,2:56.0,Boston full timeout,,12-11,,
+72,2:56.0,,,12-11,,K. Hinrich enters the game for J. Johnson
+73,2:56.0,,,12-11,,I. Johnson enters the game for Z. Pachulia
+74,2:56.0,M. Pietrus enters the game for R. Allen,,12-11,,
+75,2:44.0,Turnover by P. Pierce (bad pass),,12-11,,
+76,2:22.0,,,12-11,,I. Johnson misses 2-pt shot from 6 ft (block by G. Stiemsma)
+77,2:20.0,Defensive rebound by M. Pietrus,,12-11,,
+78,2:11.0,R. Rondo misses 2-pt shot from 5 ft,,12-11,,
+79,2:10.0,,,12-11,,Defensive rebound by J. Smith
+80,2:03.0,,,12-13,2.0,J. Smith makes 2-pt shot from 4 ft
+81,1:55.0,,,12-13,,Offensive charge foul by P. Pierce (drawn by I. Johnson)
+82,1:55.0,Turnover by P. Pierce (offensive foul),,12-13,,
+83,1:55.0,A. Bradley enters the game for R. Rondo,,12-13,,
+84,1:55.0,K. Garnett enters the game for B. Bass,,12-13,,
+85,1:55.0,K. Dooling enters the game for P. Pierce,,12-13,,
+86,1:34.0,,,12-13,,J. Smith misses 2-pt shot from 21 ft
+87,1:34.0,Defensive rebound by Team,,12-13,,
+88,1:34.0,,,12-13,,Loose ball foul by I. Johnson (drawn by K. Dooling)
+89,1:12.0,K. Garnett misses 2-pt shot from 21 ft,,12-13,,
+90,1:11.0,,,12-13,,Defensive rebound by I. Johnson
+91,0:51.9,,,12-13,,J. Teague misses 2-pt shot from 16 ft
+92,0:50.7,Defensive rebound by M. Pietrus,,12-13,,
+93,0:35.9,K. Garnett misses 2-pt shot from 5 ft,,12-13,,
+94,0:34.9,A. Bradley misses 2-pt shot from 1 ft,,12-13,,
+95,0:34.9,Offensive rebound by A. Bradley,,12-13,,
+96,0:33.9,,,12-13,,Defensive rebound by T. McGrady
+97,0:28.5,,,12-15,2.0,T. McGrady makes 2-pt shot from 2 ft (assist by J. Smith)
+98,0:03.9,M. Pietrus misses 3-pt shot from 25 ft,,12-15,,
+99,0:01.8,,,12-15,,Defensive rebound by J. Teague
+100,0:00.0,End of 1st quarter,,,,
+101,2nd Q,,,,,
+102,Time,Boston,,Score,,Atlanta
+103,12:00.0,Start of 2nd quarter,,,,
+104,11:42.0,,,12-15,,T. McGrady misses 2-pt shot from 13 ft (block by M. Pietrus)
+105,11:40.0,Defensive rebound by M. Pietrus,,12-15,,
+106,11:40.0,Personal foul by T. McGrady (drawn by M. Pietrus),,12-15,,
+107,11:26.0,Turnover by A. Bradley (step out of bounds),,12-15,,
+108,11:12.0,,,12-15,,I. Johnson misses 2-pt shot from 19 ft
+109,11:11.0,Defensive rebound by M. Pietrus,,12-15,,
+110,11:09.0,Personal foul by I. Johnson (drawn by K. Garnett),,12-15,,
+111,10:59.0,K. Garnett makes 2-pt shot from 15 ft,2.0,14-15,,
+112,10:37.0,,,14-15,,Shooting foul by G. Stiemsma (drawn by Z. Pachulia)
+113,10:37.0,,,14-16,1.0,Z. Pachulia makes free throw 1 of 2
+114,10:37.0,,,14-16,,J. Collins enters the game for I. Johnson
+115,10:37.0,,,14-17,1.0,Z. Pachulia makes free throw 2 of 2
+116,10:24.0,Personal foul by Z. Pachulia (drawn by M. Pietrus),,14-17,,
+117,10:16.0,,,14-17,,Offensive charge foul by K. Dooling (drawn by J. Stackhouse)
+118,10:16.0,Turnover by K. Dooling (offensive foul),,14-17,,
+119,10:01.0,,,14-17,,K. Hinrich misses 2-pt shot from 7 ft
+120,9:59.0,Defensive rebound by K. Dooling,,14-17,,
+121,9:46.0,M. Pietrus makes 3-pt shot from 24 ft (assist by A. Bradley),3.0,17-17,,
+122,9:25.0,,,17-17,,Z. Pachulia misses 2-pt shot from 3 ft
+123,9:23.0,Defensive rebound by M. Pietrus,,17-17,,
+124,9:11.0,K. Dooling misses 3-pt shot from 24 ft,,17-17,,
+125,9:10.0,,,17-17,,Defensive rebound by J. Collins
+126,8:47.0,,,17-19,2.0,J. Stackhouse makes 2-pt shot from 19 ft (assist by K. Hinrich)
+127,8:31.0,M. Pietrus misses 3-pt shot from 25 ft,,17-19,,
+128,8:30.0,,,17-19,,Defensive rebound by Z. Pachulia
+129,8:20.0,,,17-21,2.0,J. Stackhouse makes 2-pt shot from 14 ft (assist by K. Hinrich)
+130,8:07.0,Boston full timeout,,17-21,,
+131,8:07.0,,,17-21,,J. Johnson enters the game for K. Hinrich
+132,8:07.0,,,17-21,,J. Teague enters the game for T. McGrady
+133,8:07.0,B. Bass enters the game for G. Stiemsma,,17-21,,
+134,8:07.0,R. Allen enters the game for A. Bradley,,17-21,,
+135,8:07.0,R. Rondo enters the game for K. Dooling,,17-21,,
+136,7:57.0,R. Allen misses 2-pt shot from 18 ft,,17-21,,
+137,7:56.0,,,17-21,,Defensive rebound by J. Stackhouse
+138,7:34.0,,,17-21,,J. Stackhouse misses 3-pt shot from 23 ft
+139,7:33.0,Defensive rebound by B. Bass,,17-21,,
+140,7:26.0,K. Garnett makes 2-pt shot from 20 ft (assist by R. Rondo),2.0,19-21,,
+141,7:01.0,,,19-21,,J. Johnson misses 2-pt shot from 6 ft
+142,7:00.0,,,19-21,,Z. Pachulia misses 2-pt shot from 2 ft
+143,7:00.0,,,19-21,,Offensive rebound by Z. Pachulia
+144,6:57.0,Defensive rebound by R. Allen,,19-21,,
+145,6:45.0,B. Bass makes 2-pt shot from 15 ft (assist by R. Rondo),2.0,21-21,,
+146,6:29.0,,,21-23,2.0,J. Teague makes 2-pt shot from 16 ft
+147,6:16.0,K. Garnett makes 2-pt shot from 21 ft (assist by R. Rondo),2.0,23-23,,
+148,5:57.0,,,23-23,,J. Teague misses 2-pt shot from 4 ft
+149,5:56.0,Defensive rebound by K. Garnett,,23-23,,
+150,5:49.0,K. Garnett misses 3-pt shot from 24 ft,,23-23,,
+151,5:47.0,,,23-23,,Defensive rebound by J. Johnson
+152,5:25.0,,,23-23,,J. Collins misses 2-pt shot from 20 ft
+153,5:23.0,Defensive rebound by K. Garnett,,23-23,,
+154,5:02.0,K. Garnett misses 2-pt shot from 13 ft,,23-23,,
+155,4:59.0,,,23-23,,Defensive rebound by Z. Pachulia
+156,4:55.0,,,23-25,2.0,J. Johnson makes 2-pt shot from 1 ft
+157,4:39.0,K. Garnett makes 2-pt shot from 1 ft (assist by R. Rondo),2.0,25-25,,
+158,4:21.0,,,25-25,,Turnover by J. Johnson (bad pass)
+159,4:21.0,Official timeout,,25-25,,
+160,4:21.0,,,25-25,,J. Smith enters the game for J. Collins
+161,4:21.0,P. Pierce enters the game for K. Garnett,,25-25,,
+162,4:21.0,G. Stiemsma enters the game for M. Pietrus,,25-25,,
+163,4:16.0,Turnover by R. Rondo (bad pass; steal by Z. Pachulia),,25-25,,
+164,4:12.0,,,25-25,,J. Teague misses 2-pt shot from 1 ft (block by G. Stiemsma)
+165,4:12.0,,,25-25,,Offensive rebound by Team
+166,3:59.0,,,25-27,2.0,J. Johnson makes 2-pt shot from 2 ft (assist by J. Smith)
+167,3:38.0,Turnover by R. Rondo (bad pass; steal by Z. Pachulia),,25-27,,
+168,3:24.0,,,25-29,2.0,J. Johnson makes 2-pt shot from 3 ft
+169,3:02.0,P. Pierce misses 2-pt shot from 20 ft,,25-29,,
+170,3:01.0,Offensive rebound by G. Stiemsma,,25-29,,
+171,2:48.0,R. Rondo misses 2-pt shot from 21 ft,,25-29,,
+172,2:47.0,,,25-29,,Defensive rebound by J. Teague
+173,2:31.0,,,25-29,,J. Johnson misses 2-pt shot from 20 ft
+174,2:30.0,Defensive rebound by B. Bass,,25-29,,
+175,2:22.0,G. Stiemsma makes 2-pt shot from 19 ft (assist by R. Rondo),2.0,27-29,,
+176,1:57.0,,,27-29,,J. Smith misses 2-pt shot from 12 ft
+177,1:56.0,,,27-31,2.0,Z. Pachulia makes 2-pt shot from 1 ft
+178,1:56.0,,,27-31,,Offensive rebound by Z. Pachulia
+179,1:38.0,Shooting foul by J. Johnson (drawn by P. Pierce),,27-31,,
+180,1:38.0,Boston full timeout,,27-31,,
+181,1:38.0,,,27-31,,K. Hinrich enters the game for J. Stackhouse
+182,1:38.0,K. Garnett enters the game for G. Stiemsma,,27-31,,
+183,1:38.0,P. Pierce makes free throw 1 of 2,1.0,28-31,,
+184,1:38.0,P. Pierce makes free throw 2 of 2,1.0,29-31,,
+185,1:22.0,,,29-31,,J. Smith misses 2-pt shot from 10 ft
+186,1:20.0,Defensive rebound by K. Garnett,,29-31,,
+187,1:17.0,Offensive foul by P. Pierce (drawn by J. Teague),,29-31,,
+188,1:17.0,Turnover by P. Pierce (offensive foul),,29-31,,
+189,1:17.0,M. Pietrus enters the game for P. Pierce,,29-31,,
+190,0:52.9,,,29-31,,J. Johnson misses 3-pt shot from 28 ft
+191,0:51.7,Defensive rebound by R. Allen,,29-31,,
+192,0:45.5,Turnover by R. Allen (bad pass),,29-31,,
+193,0:39.9,,,29-31,,Turnover by J. Johnson (lost ball; steal by R. Rondo)
+194,0:33.9,M. Pietrus misses 2-pt shot from 2 ft,,29-31,,
+195,0:32.8,R. Rondo makes 2-pt shot from 1 ft,2.0,31-31,,
+196,0:32.8,Offensive rebound by R. Rondo,,31-31,,
+197,0:15.6,,,31-33,2.0,J. Teague makes 2-pt shot from 4 ft (assist by J. Smith)
+198,0:10.0,Boston 20 second timeout,,31-33,,
+199,0:00.8,R. Rondo misses 2-pt shot from 4 ft,,31-33,,
+200,0:00.8,,,31-33,,Defensive rebound by Team
+201,0:00.0,End of 2nd quarter,,,,
+202,3rd Q,,,,,
+203,Time,Boston,,Score,,Atlanta
+204,12:00.0,Start of 3rd quarter,,,,
+205,11:47.0,,,31-33,,Shooting foul by B. Bass (drawn by Z. Pachulia)
+206,11:47.0,,,31-34,1.0,Z. Pachulia makes free throw 1 of 2
+207,11:47.0,,,31-35,1.0,Z. Pachulia makes free throw 2 of 2
+208,11:29.0,P. Pierce makes 2-pt shot from 2 ft (assist by K. Garnett),2.0,33-35,,
+209,11:14.0,,,33-37,2.0,J. Johnson makes 2-pt shot from 20 ft (assist by J. Teague)
+210,10:59.0,Shooting foul by K. Hinrich (drawn by P. Pierce),,33-37,,
+211,10:59.0,P. Pierce makes free throw 1 of 2,1.0,34-37,,
+212,10:59.0,P. Pierce makes free throw 2 of 2,1.0,35-37,,
+213,10:42.0,,,35-37,,J. Johnson misses 2-pt shot from 17 ft
+214,10:40.0,Defensive rebound by K. Garnett,,35-37,,
+215,10:22.0,P. Pierce misses 2-pt shot from 10 ft,,35-37,,
+216,10:20.0,,,35-37,,Defensive rebound by Team
+217,10:00.0,,,35-37,,J. Smith misses 2-pt shot from 5 ft
+218,10:00.0,,,35-37,,Offensive rebound by Team
+219,10:00.0,Loose ball foul by B. Bass (drawn by Z. Pachulia),,35-37,,
+220,9:52.0,,,35-39,2.0,Z. Pachulia makes 2-pt shot from 3 ft
+221,9:39.0,Shooting foul by J. Teague (drawn by R. Allen),,35-39,,
+222,9:39.0,R. Allen makes free throw 1 of 2,1.0,36-39,,
+223,9:39.0,R. Allen makes free throw 2 of 2,1.0,37-39,,
+224,9:20.0,,,37-39,,Turnover by J. Johnson (bad pass; steal by R. Rondo)
+225,9:12.0,P. Pierce misses 3-pt shot from 24 ft,,37-39,,
+226,9:11.0,,,37-39,,Defensive rebound by J. Smith
+227,9:01.0,,,37-39,,Shooting foul by P. Pierce (drawn by J. Johnson)
+228,9:01.0,,,37-40,1.0,J. Johnson makes free throw 1 of 2
+229,9:01.0,M. Pietrus enters the game for P. Pierce,,37-40,,
+230,9:01.0,,,37-41,1.0,J. Johnson makes free throw 2 of 2
+231,8:48.0,K. Garnett makes 2-pt shot from 19 ft (assist by R. Rondo),2.0,39-41,,
+232,8:26.0,,,39-41,,Personal foul by R. Allen (drawn by J. Smith)
+233,8:11.0,,,39-43,2.0,K. Hinrich makes 2-pt shot from 20 ft
+234,7:52.0,M. Pietrus misses 3-pt shot from 25 ft,,39-43,,
+235,7:51.0,,,39-43,,Defensive rebound by J. Smith
+236,7:40.0,,,39-43,,K. Hinrich misses 3-pt shot from 25 ft
+237,7:39.0,Defensive rebound by K. Garnett,,39-43,,
+238,7:28.0,K. Garnett misses 2-pt shot from 19 ft,,39-43,,
+239,7:27.0,Offensive rebound by B. Bass,,39-43,,
+240,7:06.0,B. Bass misses 2-pt shot from 20 ft,,39-43,,
+241,7:05.0,,,39-43,,Defensive rebound by J. Johnson
+242,7:00.0,,,39-43,,Flagrant foul type 1 by B. Bass (drawn by Z. Pachulia)
+243,7:00.0,,,39-43,,Z. Pachulia misses flagrant free throw 1 of 2
+244,7:00.0,,,39-43,,Offensive rebound by Team
+245,7:00.0,,,39-44,1.0,Z. Pachulia makes flagrant free throw 2 of 2
+246,7:00.0,G. Stiemsma enters the game for B. Bass,,39-44,,
+247,6:53.0,,,39-44,,Personal foul by M. Pietrus (drawn by J. Johnson)
+248,6:53.0,,,39-44,,J. Johnson misses free throw 1 of 2
+249,6:53.0,,,39-44,,Offensive rebound by Team
+250,6:53.0,,,39-45,1.0,J. Johnson makes free throw 2 of 2
+251,6:49.0,Turnover by K. Garnett (bad pass),,39-45,,
+252,6:38.0,Offensive charge foul by J. Johnson (drawn by M. Pietrus),,39-45,,
+253,6:38.0,,,39-45,,Turnover by J. Johnson (offensive foul)
+254,6:20.0,Turnover by G. Stiemsma (poss. lost ball; steal by Z. Pachulia),,39-45,,
+255,6:16.0,,,39-47,2.0,J. Teague makes 2-pt shot from 1 ft
+256,6:16.0,Taunting technical foul by J. Teague,,39-47,,
+257,6:16.0,,,39-47,,J. Collins enters the game for Z. Pachulia
+258,6:16.0,R. Allen makes technical free throw,1.0,40-47,,
+259,6:02.0,R. Allen misses 3-pt shot from 24 ft,,40-47,,
+260,6:01.0,,,40-47,,Defensive rebound by J. Smith
+261,5:46.0,,,40-47,,Offensive foul by J. Collins (drawn by M. Pietrus)
+262,5:46.0,,,40-47,,Turnover by J. Collins (offensive foul)
+263,5:46.0,Boston full timeout,,40-47,,
+264,5:21.0,R. Rondo misses 2-pt shot from 15 ft,,40-47,,
+265,5:18.0,,,40-47,,Defensive rebound by J. Collins
+266,5:01.0,,,40-47,,Turnover by K. Hinrich (bad pass; steal by M. Pietrus)
+267,4:51.0,Personal block foul by K. Hinrich (drawn by M. Pietrus),,40-47,,
+268,4:51.0,B. Bass enters the game for K. Garnett,,40-47,,
+269,4:38.0,R. Rondo misses 2-pt shot from 2 ft,,40-47,,
+270,4:37.0,,,40-47,,Defensive rebound by K. Hinrich
+271,4:22.0,,,40-47,,Shooting foul by G. Stiemsma (drawn by J. Collins)
+272,4:22.0,,,40-47,,J. Collins misses free throw 1 of 2
+273,4:22.0,,,40-47,,Offensive rebound by Team
+274,4:22.0,,,40-47,,T. McGrady enters the game for K. Hinrich
+275,4:22.0,,,40-47,,J. Collins misses free throw 2 of 2
+276,4:21.0,Defensive rebound by R. Rondo,,40-47,,
+277,4:08.0,R. Allen makes 3-pt shot from 26 ft (assist by R. Rondo),3.0,43-47,,
+278,3:52.0,,,43-47,,J. Teague misses 2-pt shot from 1 ft (block by G. Stiemsma)
+279,3:50.0,,,43-47,,Offensive rebound by J. Collins
+280,3:49.0,P. Pierce enters the game for M. Pietrus,,43-47,,
+281,3:45.0,,,43-47,,Turnover by J. Collins (traveling)
+282,3:33.0,G. Stiemsma makes 2-pt shot from 1 ft (assist by P. Pierce),2.0,45-47,,
+283,3:32.0,,,45-47,,Atlanta 20 second timeout
+284,3:18.0,,,45-47,,J. Smith misses 2-pt shot from 21 ft
+285,3:16.0,Defensive rebound by P. Pierce,,45-47,,
+286,3:03.0,P. Pierce misses 2-pt shot from 19 ft,,45-47,,
+287,3:00.0,,,45-47,,Defensive rebound by J. Collins
+288,3:00.0,,,45-47,,Personal foul by G. Stiemsma (drawn by J. Collins)
+289,3:00.0,,,45-47,,J. Collins misses free throw 1 of 2
+290,3:00.0,,,45-47,,Offensive rebound by Team
+291,3:00.0,,,45-47,,J. Collins misses free throw 2 of 2
+292,2:59.0,Defensive rebound by G. Stiemsma,,45-47,,
+293,2:45.0,P. Pierce misses 2-pt shot at rim,,45-47,,
+294,2:43.0,Offensive rebound by P. Pierce,,45-47,,
+295,2:42.0,Turnover by P. Pierce (bad pass),,45-47,,
+296,2:42.0,,,45-47,,Atlanta full timeout
+297,2:42.0,,,45-47,,J. Stackhouse enters the game for J. Johnson
+298,2:42.0,,,45-47,,I. Johnson enters the game for J. Collins
+299,2:25.0,,,45-49,2.0,J. Smith makes 2-pt shot from 9 ft
+300,2:07.0,Turnover by R. Rondo (bad pass; steal by J. Smith),,45-49,,
+301,1:52.0,,,45-49,,J. Smith misses 3-pt shot from 26 ft
+302,1:50.0,Defensive rebound by B. Bass,,45-49,,
+303,1:42.0,R. Allen misses 2-pt shot from 18 ft,,45-49,,
+304,1:40.0,,,45-49,,Defensive rebound by J. Smith
+305,1:20.0,,,45-49,,J. Smith misses 2-pt shot from 18 ft
+306,1:08.0,,,45-49,,J. Stackhouse misses 3-pt shot from 24 ft
+307,1:08.0,,,45-49,,Offensive rebound by I. Johnson
+308,1:07.0,Defensive rebound by B. Bass,,45-49,,
+309,0:55.8,,,45-49,,Offensive charge foul by R. Rondo (drawn by I. Johnson)
+310,0:55.8,Turnover by R. Rondo (offensive foul),,45-49,,
+311,0:55.8,M. Pietrus enters the game for R. Allen,,45-49,,
+312,0:55.8,K. Garnett enters the game for G. Stiemsma,,45-49,,
+313,0:34.9,,,45-51,2.0,T. McGrady makes 2-pt shot from 17 ft (assist by J. Smith)
+314,0:34.9,,,45-51,,J. Smith misses 2-pt shot from 2 ft (block by B. Bass)
+315,0:34.9,,,45-51,,Offensive rebound by J. Smith
+316,0:19.5,B. Bass makes 2-pt shot from 18 ft (assist by R. Rondo),2.0,47-51,,
+317,0:06.9,,,47-51,,Turnover by J. Teague (bad pass; steal by R. Rondo)
+318,0:02.6,,,47-51,,Violation by J. Smith (kicked ball)
+319,0:02.6,R. Allen enters the game for B. Bass,,47-51,,
+320,0:01.2,Personal take foul by J. Teague (drawn by R. Rondo),,47-51,,
+321,0:00.0,R. Allen makes 3-pt shot from 26 ft (assist by R. Rondo),3.0,50-51,,
+322,0:00.0,End of 3rd quarter,,,,
+323,4th Q,,,,,
+324,Time,Boston,,Score,,Atlanta
+325,12:00.0,Start of 4th quarter,,,,
+326,11:34.0,K. Garnett misses 2-pt shot from 5 ft,,50-51,,
+327,11:32.0,M. Pietrus misses 2-pt shot from 1 ft,,50-51,,
+328,11:32.0,Offensive rebound by M. Pietrus,,50-51,,
+329,11:31.0,,,50-51,,Defensive rebound by Z. Pachulia
+330,11:11.0,,,50-51,,Turnover by K. Hinrich (lost ball; steal by K. Garnett)
+331,10:52.0,K. Garnett misses 2-pt shot from 7 ft (block by T. McGrady),,50-51,,
+332,10:52.0,Offensive rebound by Team,,50-51,,
+333,10:47.0,M. Pietrus makes 2-pt shot from 1 ft (assist by P. Pierce),2.0,52-51,,
+334,10:25.0,,,52-51,,T. McGrady misses 2-pt shot from 19 ft
+335,10:25.0,Defensive rebound by Team,,52-51,,
+336,10:10.0,P. Pierce makes 2-pt shot from 17 ft,2.0,54-51,,
+337,9:44.0,,,54-51,,Turnover by K. Hinrich (step out of bounds)
+338,9:31.0,P. Pierce makes 2-pt shot from 19 ft,2.0,56-51,,
+339,9:25.0,,,56-51,,Personal foul by K. Garnett (drawn by Z. Pachulia)
+340,9:25.0,,,56-51,,Atlanta full timeout
+341,9:25.0,,,56-51,,J. Teague enters the game for T. McGrady
+342,9:25.0,,,56-51,,J. Johnson enters the game for I. Johnson
+343,9:25.0,,,56-51,,J. Smith enters the game for J. Stackhouse
+344,9:15.0,,,56-53,2.0,J. Teague makes 2-pt shot at rim (assist by J. Smith)
+345,8:59.0,B. Bass misses 2-pt shot from 4 ft (block by K. Hinrich),,56-53,,
+346,8:55.0,,,56-53,,Defensive rebound by K. Hinrich
+347,8:52.0,,,56-56,3.0,J. Johnson makes 3-pt shot from 25 ft (assist by K. Hinrich)
+348,8:18.0,Shooting foul by J. Smith (drawn by K. Garnett),,56-56,,
+349,8:18.0,K. Garnett makes free throw 1 of 2,1.0,57-56,,
+350,8:18.0,R. Rondo enters the game for A. Bradley,,57-56,,
+351,8:18.0,R. Allen enters the game for M. Pietrus,,57-56,,
+352,8:18.0,K. Garnett makes free throw 2 of 2,1.0,58-56,,
+353,8:11.0,,,58-56,,Personal foul by P. Pierce (drawn by K. Hinrich)
+354,8:03.0,,,58-56,,J. Smith misses 2-pt shot from 19 ft
+355,8:02.0,Defensive rebound by P. Pierce,,58-56,,
+356,7:58.0,K. Garnett makes 2-pt shot at rim (assist by P. Pierce),2.0,60-56,,
+357,7:39.0,,,60-58,2.0,J. Johnson makes 2-pt shot from 21 ft
+358,7:26.0,P. Pierce misses 3-pt shot from 26 ft,,60-58,,
+359,7:25.0,,,60-58,,Defensive rebound by Z. Pachulia
+360,7:10.0,,,60-58,,Turnover by Z. Pachulia (bad pass)
+361,7:10.0,M. Pietrus enters the game for P. Pierce,,60-58,,
+362,6:46.0,R. Rondo makes 2-pt shot from 2 ft,2.0,62-58,,
+363,6:31.0,,,62-58,,Turnover by J. Johnson (lost ball; steal by R. Rondo)
+364,6:18.0,B. Bass makes 2-pt shot from 19 ft (assist by R. Rondo),2.0,64-58,,
+365,5:56.0,Violation by R. Allen (kicked ball),,64-58,,
+366,5:56.0,,,64-58,,Official timeout
+367,5:46.0,,,64-58,,J. Johnson misses 2-pt shot from 17 ft
+368,5:44.0,Defensive rebound by K. Garnett,,64-58,,
+369,5:37.0,R. Allen makes 3-pt shot from 24 ft (assist by R. Rondo),3.0,67-58,,
+370,5:24.0,,,67-58,,J. Teague misses 2-pt shot from 4 ft
+371,5:22.0,Defensive rebound by B. Bass,,67-58,,
+372,5:12.0,M. Pietrus makes 3-pt shot from 25 ft (assist by K. Garnett),3.0,70-58,,
+373,4:47.0,,,70-58,,J. Teague misses 2-pt shot from 9 ft
+374,4:45.0,Defensive rebound by B. Bass,,70-58,,
+375,4:28.0,R. Allen makes 3-pt shot from 25 ft (assist by R. Rondo),3.0,73-58,,
+376,4:26.0,,,73-58,,Atlanta full timeout
+377,4:04.0,,,73-60,2.0,K. Hinrich makes 2-pt shot from 17 ft (assist by J. Smith)
+378,3:42.0,Personal foul by Z. Pachulia (drawn by K. Garnett),,73-60,,
+379,3:30.0,K. Garnett misses 2-pt shot from 7 ft,,73-60,,
+380,3:29.0,,,73-60,,Defensive rebound by J. Johnson
+381,3:26.0,,,73-60,,Personal foul by M. Pietrus (drawn by J. Johnson)
+382,3:16.0,,,73-60,,K. Hinrich misses 3-pt shot from 23 ft
+383,3:15.0,Defensive rebound by B. Bass,,73-60,,
+384,2:57.0,K. Garnett makes 2-pt shot from 19 ft (assist by R. Allen),2.0,75-60,,
+385,2:44.0,,,75-62,2.0,Z. Pachulia makes 2-pt shot from 1 ft (assist by J. Johnson)
+386,2:44.0,,,75-62,,Shooting foul by R. Allen (drawn by Z. Pachulia)
+387,2:44.0,,,75-63,1.0,Z. Pachulia makes free throw 1 of 1
+388,2:44.0,Boston full timeout,,75-63,,
+389,2:36.0,Personal foul by J. Johnson (drawn by B. Bass),,75-63,,
+390,2:36.0,P. Pierce enters the game for B. Bass,,75-63,,
+391,2:21.0,P. Pierce misses 2-pt shot from 20 ft,,75-63,,
+392,2:20.0,Turnover by Team (shot clock),,75-63,,
+393,2:20.0,Offensive rebound by Team,,75-63,,
+394,2:10.0,,,75-66,3.0,J. Johnson makes 3-pt shot from 25 ft (assist by J. Teague)
+395,1:46.0,R. Rondo misses 2-pt shot from 19 ft,,75-66,,
+396,1:45.0,,,75-66,,Defensive rebound by Z. Pachulia
+397,1:39.0,,,75-66,,Personal foul by M. Pietrus (drawn by Z. Pachulia)
+398,1:39.0,,,75-67,1.0,Z. Pachulia makes free throw 1 of 2
+399,1:39.0,,,75-68,1.0,Z. Pachulia makes free throw 2 of 2
+400,1:16.0,R. Allen misses 3-pt shot from 25 ft,,75-68,,
+401,1:15.0,,,75-68,,Defensive rebound by Z. Pachulia
+402,1:07.0,,,75-68,,J. Teague misses 2-pt shot from 1 ft
+403,1:05.0,,,75-68,,Offensive rebound by J. Johnson
+404,1:02.0,,,75-71,3.0,J. Johnson makes 3-pt shot from 25 ft
+405,1:02.0,Boston full timeout,,75-71,,
+406,0:45.9,R. Rondo misses 2-pt shot from 6 ft,,75-71,,
+407,0:44.9,,,75-71,,Defensive rebound by J. Teague
+408,0:36.9,,,75-71,,J. Smith misses 3-pt shot from 26 ft
+409,0:34.9,,,75-71,,Offensive rebound by J. Johnson
+410,0:33.7,,,75-71,,Turnover by J. Johnson (bad pass; steal by R. Rondo)
+411,0:31.9,Boston 20 second timeout,,75-71,,
+412,0:30.7,Personal take foul by J. Johnson (drawn by R. Allen),,75-71,,
+413,0:28.9,Personal take foul by J. Johnson (drawn by M. Pietrus),,75-71,,
+414,0:28.9,M. Pietrus makes free throw 1 of 2,1.0,76-71,,
+415,0:28.9,M. Pietrus misses free throw 2 of 2,,76-71,,
+416,0:28.0,,,76-71,,Defensive rebound by J. Smith
+417,0:28.0,,,76-71,,Atlanta full timeout
+418,0:28.0,B. Bass enters the game for P. Pierce,,76-71,,
+419,0:22.9,,,76-71,,J. Smith misses 2-pt shot from 2 ft
+420,0:22.3,,,76-73,2.0,Z. Pachulia makes 2-pt shot at rim
+421,0:22.3,,,76-73,,Offensive rebound by Z. Pachulia
+422,0:22.3,Boston 20 second timeout,,76-73,,
+423,0:22.3,P. Pierce enters the game for B. Bass,,76-73,,
+424,0:21.4,Personal take foul by J. Teague (drawn by P. Pierce),,76-73,,
+425,0:21.4,P. Pierce makes free throw 1 of 2,1.0,77-73,,
+426,0:21.4,P. Pierce misses free throw 2 of 2,,77-73,,
+427,0:20.9,,,77-73,,Defensive rebound by J. Smith
+428,0:11.8,,,77-76,3.0,J. Johnson makes 3-pt shot from 24 ft (assist by J. Smith)
+429,0:10.9,Personal take foul by K. Hinrich (drawn by R. Allen),,77-76,,
+430,0:10.9,R. Allen makes free throw 1 of 2,1.0,78-76,,
+431,0:10.9,R. Allen makes free throw 2 of 2,1.0,79-76,,
+432,0:04.9,,,79-76,,J. Teague misses 3-pt shot from 25 ft
+433,0:04.2,Defensive rebound by Team,,79-76,,
+434,0:00.0,End of 4th quarter,,,,

@@ -1,0 +1,478 @@
+,Time,Boston,Unnamed: 2,Score,Unnamed: 4,Utah
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: A. Jefferson vs. K. Garnett (E. Watson gains possession),,,,
+2,11:40.0,,,0-0,,R. Foye misses 2-pt shot from 21 ft
+3,11:39.0,Defensive rebound by P. Pierce,,0-0,,
+4,11:20.0,Turnover by C. Lee (bad pass),,0-0,,
+5,11:09.0,,,0-2,2.0,P. Millsap makes 2-pt shot from 4 ft (assist by E. Watson)
+6,10:54.0,Personal foul by M. Williams (drawn by K. Garnett),,0-2,,
+7,10:46.0,P. Pierce misses 2-pt shot from 18 ft,,0-2,,
+8,10:45.0,,,0-2,,Defensive rebound by A. Jefferson
+9,10:39.0,,,0-2,,Personal foul by B. Bass (drawn by P. Millsap)
+10,10:29.0,,,0-2,,Turnover by A. Jefferson (lost ball; steal by K. Garnett)
+11,10:18.0,A. Bradley makes 2-pt shot from 8 ft,2.0,2-2,,
+12,9:59.0,,,2-2,,A. Jefferson misses 2-pt shot from 6 ft
+13,9:58.0,,,2-2,,Offensive rebound by A. Jefferson
+14,9:49.0,,,2-4,2.0,P. Millsap makes 2-pt shot from 4 ft
+15,9:32.0,B. Bass misses 2-pt shot from 19 ft,,2-4,,
+16,9:31.0,,,2-4,,Defensive rebound by A. Jefferson
+17,9:22.0,,,2-6,2.0,P. Millsap makes 2-pt shot from 18 ft (assist by E. Watson)
+18,8:58.0,K. Garnett misses 2-pt shot from 21 ft,,2-6,,
+19,8:57.0,,,2-6,,Defensive rebound by R. Foye
+20,8:52.0,,,2-6,,R. Foye misses 2-pt shot from 3 ft
+21,8:51.0,Defensive rebound by K. Garnett,,2-6,,
+22,8:44.0,A. Bradley makes 2-pt shot from 22 ft (assist by P. Pierce),2.0,4-6,,
+23,8:32.0,,,4-6,,Turnover by E. Watson (lost ball; steal by A. Bradley)
+24,8:29.0,A. Bradley makes 2-pt shot from 1 ft,2.0,6-6,,
+25,8:10.0,,,6-6,,Shooting foul by K. Garnett (drawn by A. Jefferson)
+26,8:10.0,,,6-6,,A. Jefferson misses free throw 1 of 2
+27,8:10.0,,,6-6,,Offensive rebound by Team
+28,8:10.0,,,6-7,1.0,A. Jefferson makes free throw 2 of 2
+29,7:58.0,Turnover by P. Pierce (traveling),,6-7,,
+30,7:41.0,,,6-9,2.0,E. Watson makes 2-pt shot from 2 ft (assist by P. Millsap)
+31,7:29.0,P. Pierce makes 3-pt shot from 25 ft,3.0,9-9,,
+32,7:10.0,,,9-11,2.0,P. Millsap makes 2-pt shot from 13 ft
+33,7:01.0,A. Bradley makes 2-pt shot from 19 ft,2.0,11-11,,
+34,6:47.0,,,11-11,,Turnover by E. Watson (lost ball; steal by A. Bradley)
+35,6:45.0,Shooting foul by P. Millsap (drawn by B. Bass),,11-11,,
+36,6:45.0,B. Bass makes free throw 1 of 2,1.0,12-11,,
+37,6:45.0,C. Wilcox enters the game for K. Garnett,,12-11,,
+38,6:45.0,B. Bass makes free throw 2 of 2,1.0,13-11,,
+39,6:29.0,,,13-13,2.0,A. Jefferson makes 2-pt shot from 8 ft
+40,6:20.0,A. Bradley makes 2-pt shot from 19 ft,2.0,15-13,,
+41,5:59.0,,,15-16,3.0,R. Foye makes 3-pt shot from 26 ft (assist by A. Jefferson)
+42,5:45.0,Personal foul by E. Watson (drawn by C. Lee),,15-16,,
+43,5:45.0,Boston full timeout,,15-16,,
+44,5:45.0,J. Terry enters the game for C. Lee,,15-16,,
+45,5:38.0,P. Pierce misses 2-pt shot from 3 ft (block by P. Millsap),,15-16,,
+46,5:37.0,,,15-16,,Defensive rebound by R. Foye
+47,5:19.0,,,15-16,,A. Jefferson misses 2-pt shot from 19 ft
+48,5:17.0,,,15-18,2.0,M. Williams makes 2-pt shot from 2 ft
+49,5:17.0,,,15-18,,Offensive rebound by M. Williams
+50,5:01.0,B. Bass makes 2-pt shot from 7 ft,2.0,17-18,,
+51,4:34.0,,,17-18,,M. Williams misses 2-pt shot from 18 ft
+52,4:34.0,,,17-18,,Offensive rebound by Team
+53,4:34.0,,,17-18,,Turnover by Team (shot clock)
+54,4:34.0,,,17-18,,G. Hayward enters the game for R. Foye
+55,4:34.0,,,17-18,,D. Favors enters the game for P. Millsap
+56,4:34.0,J. Green enters the game for P. Pierce,,17-18,,
+57,4:23.0,Turnover by J. Terry (bad pass; steal by D. Favors),,17-18,,
+58,4:13.0,,,17-18,,Turnover by D. Favors (lost ball; steal by C. Wilcox)
+59,4:03.0,J. Terry makes 3-pt shot from 24 ft (assist by A. Bradley),3.0,20-18,,
+60,3:47.0,,,20-21,3.0,M. Williams makes 3-pt shot from 23 ft (assist by G. Hayward)
+61,3:32.0,B. Bass makes 2-pt shot from 16 ft (assist by A. Bradley),2.0,22-21,,
+62,3:19.0,,,22-21,,Shooting foul by J. Terry (drawn by G. Hayward)
+63,3:19.0,,,22-21,,G. Hayward misses free throw 1 of 2
+64,3:19.0,,,22-21,,Offensive rebound by Team
+65,3:19.0,,,22-21,,A. Burks enters the game for E. Watson
+66,3:19.0,,,22-22,1.0,G. Hayward makes free throw 2 of 2
+67,3:06.0,J. Terry misses 2-pt shot from 16 ft,,22-22,,
+68,3:05.0,,,22-22,,Defensive rebound by D. Favors
+69,2:54.0,,,22-22,,M. Williams misses 2-pt shot from 5 ft
+70,2:53.0,Defensive rebound by C. Wilcox,,22-22,,
+71,2:43.0,B. Bass misses 2-pt shot from 17 ft,,22-22,,
+72,2:42.0,,,22-22,,Defensive rebound by M. Williams
+73,2:30.0,,,22-24,2.0,A. Jefferson makes 2-pt shot from 3 ft
+74,2:11.0,J. Green misses 3-pt shot from 24 ft,,22-24,,
+75,2:10.0,Offensive rebound by J. Terry,,22-24,,
+76,2:03.0,A. Bradley misses 2-pt shot from 20 ft,,22-24,,
+77,2:02.0,,,22-24,,Defensive rebound by A. Jefferson
+78,1:50.0,,,22-24,,Turnover by D. Favors (traveling)
+79,1:50.0,Boston full timeout,,22-24,,
+80,1:50.0,,,22-24,,D. Carroll enters the game for M. Williams
+81,1:50.0,J. Crawford enters the game for A. Bradley,,22-24,,
+82,1:36.0,J. Terry misses 2-pt shot from 3 ft,,22-24,,
+83,1:33.0,Offensive rebound by J. Crawford,,22-24,,
+84,1:23.0,Shooting foul by D. Favors (drawn by B. Bass),,22-24,,
+85,1:23.0,B. Bass makes free throw 1 of 2,1.0,23-24,,
+86,1:23.0,B. Bass makes free throw 2 of 2,1.0,24-24,,
+87,1:06.0,,,24-24,,A. Jefferson misses 2-pt shot from 4 ft (block by C. Wilcox)
+88,1:04.0,Defensive rebound by J. Crawford,,24-24,,
+89,1:00.0,J. Crawford makes 2-pt shot from 2 ft,2.0,26-24,,
+90,0:43.9,,,26-24,,D. Carroll misses 2-pt shot from 14 ft
+91,0:41.9,Defensive rebound by J. Terry,,26-24,,
+92,0:36.9,C. Wilcox makes 2-pt shot from 1 ft (assist by J. Terry),2.0,28-24,,
+93,0:28.9,,,28-24,,A. Burks misses 2-pt shot from 21 ft
+94,0:27.5,,,28-24,,Offensive rebound by D. Carroll
+95,0:17.9,,,28-24,,G. Hayward misses 2-pt shot from 3 ft
+96,0:17.9,,,28-24,,Offensive rebound by A. Jefferson
+97,0:17.9,,,28-26,2.0,A. Jefferson makes 2-pt shot from 1 ft
+98,0:01.3,C. Wilcox misses 2-pt shot from 10 ft,,28-26,,
+99,0:00.0,Offensive rebound by Team,,28-26,,
+100,0:00.0,End of 1st quarter,,,,
+101,2nd Q,,,,,
+102,Time,Boston,,Score,,Utah
+103,12:00.0,Start of 2nd quarter,,,,
+104,11:45.0,Def 3 sec tech foul by D. Favors,,28-26,,
+105,11:45.0,K. Garnett makes technical free throw,1.0,29-26,,
+106,11:35.0,J. Green makes 2-pt shot from 9 ft,2.0,31-26,,
+107,11:19.0,,,31-26,,Def 3 sec tech foul by K. Garnett
+108,11:19.0,,,31-27,1.0,G. Hayward makes technical free throw
+109,11:03.0,,,31-27,,E. Kanter misses 2-pt shot from 13 ft
+110,11:02.0,Defensive rebound by J. Green,,31-27,,
+111,10:58.0,Personal foul by D. Favors (drawn by K. Garnett),,31-27,,
+112,10:49.0,J. Terry makes 3-pt shot from 24 ft (assist by J. Green),3.0,34-27,,
+113,10:36.0,,,34-30,3.0,G. Hayward makes 3-pt shot from 25 ft
+114,10:12.0,J. Crawford misses 2-pt shot from 10 ft,,34-30,,
+115,10:11.0,,,34-30,,Defensive rebound by D. Favors
+116,10:06.0,,,34-32,2.0,A. Burks makes 2-pt shot from 19 ft
+117,9:49.0,Turnover by K. Garnett (lost ball; steal by A. Burks),,34-32,,
+118,9:38.0,,,34-32,,D. Favors misses 2-pt shot from 10 ft (block by C. Wilcox)
+119,9:34.0,,,34-32,,Offensive rebound by E. Kanter
+120,9:33.0,,,34-34,2.0,E. Kanter makes 2-pt shot at rim
+121,9:17.0,J. Terry misses 3-pt shot from 25 ft,,34-34,,
+122,9:16.0,,,34-34,,Defensive rebound by D. Carroll
+123,9:09.0,P. Pierce enters the game for J. Crawford,,34-34,,
+124,9:07.0,,,34-34,,G. Hayward misses 2-pt shot from 18 ft
+125,9:06.0,Defensive rebound by P. Pierce,,34-34,,
+126,9:06.0,Personal foul by D. Favors (drawn by P. Pierce),,34-34,,
+127,9:06.0,,,34-34,,P. Millsap enters the game for D. Favors
+128,8:51.0,Official timeout,,34-34,,
+129,8:51.0,B. Bass enters the game for C. Wilcox,,34-34,,
+130,8:47.0,K. Garnett misses 2-pt shot from 19 ft,,34-34,,
+131,8:46.0,,,34-34,,Defensive rebound by P. Millsap
+132,8:30.0,,,34-36,2.0,D. Carroll makes 2-pt shot from 10 ft (assist by P. Millsap)
+133,8:15.0,K. Garnett misses 2-pt shot from 16 ft,,34-36,,
+134,8:13.0,,,34-36,,Defensive rebound by P. Millsap
+135,7:57.0,,,34-39,3.0,G. Hayward makes 3-pt shot from 23 ft (assist by P. Millsap)
+136,7:37.0,J. Terry misses 3-pt shot from 23 ft,,34-39,,
+137,7:36.0,,,34-39,,Defensive rebound by G. Hayward
+138,7:28.0,,,34-39,,Personal foul by K. Garnett (drawn by E. Kanter)
+139,7:28.0,C. Lee enters the game for J. Terry,,34-39,,
+140,7:28.0,C. Wilcox enters the game for K. Garnett,,34-39,,
+141,7:18.0,,,34-39,,Personal foul by P. Pierce (drawn by P. Millsap)
+142,7:06.0,,,34-39,,G. Hayward misses 2-pt shot from 8 ft
+143,7:04.0,Defensive rebound by Team,,34-39,,
+144,6:43.0,J. Green misses 3-pt shot from 24 ft,,34-39,,
+145,6:41.0,,,34-39,,Defensive rebound by P. Millsap
+146,6:34.0,,,34-42,3.0,G. Hayward makes 3-pt shot from 24 ft (assist by A. Burks)
+147,6:28.0,J. Green makes 2-pt shot from 2 ft,2.0,36-42,,
+148,6:08.0,,,36-42,,A. Burks misses 2-pt shot from 2 ft
+149,6:07.0,Defensive rebound by B. Bass,,36-42,,
+150,5:58.0,C. Lee misses 2-pt shot from 1 ft,,36-42,,
+151,5:57.0,,,36-42,,Defensive rebound by E. Kanter
+152,5:52.0,,,36-44,2.0,G. Hayward makes 2-pt shot at rim (assist by D. Carroll)
+153,5:46.0,Boston full timeout,,36-44,,
+154,5:46.0,A. Bradley enters the game for C. Wilcox,,36-44,,
+155,5:40.0,P. Pierce misses 3-pt shot from 24 ft,,36-44,,
+156,5:38.0,,,36-44,,Defensive rebound by A. Burks
+157,5:35.0,,,36-44,,Turnover by A. Burks (bad pass)
+158,5:21.0,Shooting foul by G. Hayward (drawn by C. Lee),,36-44,,
+159,5:21.0,C. Lee misses free throw 1 of 2,,36-44,,
+160,5:21.0,Offensive rebound by Team,,36-44,,
+161,5:21.0,,,36-44,,A. Jefferson enters the game for E. Kanter
+162,5:21.0,C. Lee makes free throw 2 of 2,1.0,37-44,,
+163,5:01.0,,,37-44,,Personal foul by A. Bradley (drawn by A. Burks)
+164,4:48.0,,,37-44,,D. Carroll misses 2-pt shot from 14 ft
+165,4:47.0,Defensive rebound by C. Lee,,37-44,,
+166,4:40.0,J. Green makes 2-pt shot from 1 ft (assist by C. Lee),2.0,39-44,,
+167,4:15.0,,,39-44,,D. Carroll misses 2-pt shot from 14 ft
+168,4:12.0,Defensive rebound by P. Pierce,,39-44,,
+169,4:05.0,A. Bradley makes 2-pt shot from 2 ft,2.0,41-44,,
+170,3:59.0,,,41-44,,Utah full timeout
+171,3:59.0,,,41-44,,R. Foye enters the game for G. Hayward
+172,3:59.0,,,41-44,,M. Williams enters the game for D. Carroll
+173,3:59.0,,,41-44,,E. Watson enters the game for A. Burks
+174,3:49.0,,,41-44,,R. Foye misses 3-pt shot from 24 ft
+175,3:47.0,,,41-44,,Offensive rebound by E. Watson
+176,3:40.0,,,41-44,,R. Foye misses 3-pt shot from 25 ft
+177,3:39.0,Defensive rebound by B. Bass,,41-44,,
+178,3:31.0,A. Bradley misses 2-pt shot from 5 ft,,41-44,,
+179,3:29.0,Offensive rebound by A. Bradley,,41-44,,
+180,3:25.0,J. Green misses 2-pt shot from 18 ft,,41-44,,
+181,3:24.0,,,41-44,,Defensive rebound by P. Millsap
+182,3:01.0,,,41-44,,E. Watson misses 2-pt shot from 3 ft
+183,3:00.0,Defensive rebound by A. Bradley,,41-44,,
+184,2:42.0,J. Green misses 2-pt shot from 3 ft,,41-44,,
+185,2:42.0,Offensive rebound by Team,,41-44,,
+186,2:42.0,K. Garnett enters the game for J. Green,,41-44,,
+187,2:33.0,B. Bass makes 2-pt shot from 17 ft (assist by P. Pierce),2.0,43-44,,
+188,2:11.0,,,43-44,,R. Foye misses 3-pt shot from 24 ft
+189,2:10.0,Defensive rebound by C. Lee,,43-44,,
+190,2:05.0,C. Lee misses 2-pt shot from 2 ft (block by M. Williams),,43-44,,
+191,2:04.0,Offensive rebound by Team,,43-44,,
+192,1:59.0,Shooting foul by M. Williams (drawn by P. Pierce),,43-44,,
+193,1:59.0,P. Pierce misses free throw 1 of 2,,43-44,,
+194,1:59.0,Offensive rebound by Team,,43-44,,
+195,1:59.0,P. Pierce makes free throw 2 of 2,1.0,44-44,,
+196,1:48.0,,,44-44,,Personal foul by A. Bradley (drawn by P. Millsap)
+197,1:42.0,,,44-46,2.0,P. Millsap makes 2-pt shot from 20 ft (assist by M. Williams)
+198,1:34.0,Turnover by P. Pierce (lost ball; steal by P. Millsap),,44-46,,
+199,1:29.0,,,44-48,2.0,P. Millsap makes 2-pt shot at rim (assist by M. Williams)
+200,1:14.0,P. Pierce makes 2-pt shot from 16 ft,2.0,46-48,,
+201,0:59.6,,,46-51,3.0,M. Williams makes 3-pt shot from 25 ft (assist by P. Millsap)
+202,0:45.3,K. Garnett makes 2-pt shot from 22 ft (assist by P. Pierce),2.0,48-51,,
+203,0:37.3,,,48-53,2.0,M. Williams makes 2-pt shot from 1 ft (assist by A. Jefferson)
+204,0:33.0,Boston 20 second timeout,,48-53,,
+205,0:33.0,J. Terry enters the game for C. Lee,,48-53,,
+206,0:25.9,J. Terry misses 2-pt shot from 16 ft,,48-53,,
+207,0:23.9,Offensive rebound by B. Bass,,48-53,,
+208,0:01.9,B. Bass misses 2-pt shot from 20 ft,,48-53,,
+209,0:00.8,,,48-53,,Defensive rebound by Team
+210,0:00.0,End of 2nd quarter,,,,
+211,3rd Q,,,,,
+212,Time,Boston,,Score,,Utah
+213,12:00.0,Start of 3rd quarter,,,,
+214,11:42.0,K. Garnett makes 2-pt shot from 11 ft (assist by P. Pierce),2.0,50-53,,
+215,11:29.0,,,50-53,,Shooting foul by P. Pierce (drawn by M. Williams)
+216,11:29.0,,,50-54,1.0,M. Williams makes free throw 1 of 2
+217,11:29.0,,,50-55,1.0,M. Williams makes free throw 2 of 2
+218,11:04.0,C. Lee misses 3-pt shot from 23 ft,,50-55,,
+219,11:03.0,,,50-55,,Defensive rebound by A. Jefferson
+220,10:42.0,,,50-58,3.0,R. Foye makes 3-pt shot from 26 ft (assist by A. Jefferson)
+221,10:29.0,P. Pierce makes 3-pt shot from 24 ft (assist by A. Bradley),3.0,53-58,,
+222,10:12.0,,,53-58,,M. Williams misses 2-pt shot from 17 ft
+223,10:11.0,Defensive rebound by K. Garnett,,53-58,,
+224,10:04.0,Turnover by A. Bradley (step out of bounds),,53-58,,
+225,9:51.0,,,53-58,,P. Millsap misses 2-pt shot from 17 ft
+226,9:50.0,Defensive rebound by K. Garnett,,53-58,,
+227,9:40.0,P. Pierce misses 3-pt shot from 23 ft,,53-58,,
+228,9:38.0,,,53-58,,Defensive rebound by A. Jefferson
+229,9:25.0,,,53-60,2.0,A. Jefferson makes 2-pt shot at rim
+230,9:01.0,K. Garnett misses 2-pt shot from 4 ft (block by A. Jefferson),,53-60,,
+231,8:58.0,,,53-60,,Defensive rebound by R. Foye
+232,8:55.0,,,53-60,,M. Williams misses 2-pt shot from 3 ft (block by B. Bass)
+233,8:53.0,Defensive rebound by C. Lee,,53-60,,
+234,8:48.0,A. Bradley makes 3-pt shot from 23 ft (assist by C. Lee),3.0,56-60,,
+235,8:24.0,,,56-60,,Personal foul by A. Bradley (drawn by E. Watson)
+236,8:24.0,C. Wilcox enters the game for K. Garnett,,56-60,,
+237,8:15.0,,,56-60,,M. Williams misses 2-pt shot from 5 ft (block by B. Bass)
+238,8:14.0,Defensive rebound by A. Bradley,,56-60,,
+239,8:10.0,A. Bradley misses 2-pt shot from 1 ft (block by E. Watson),,56-60,,
+240,8:09.0,Offensive rebound by A. Bradley,,56-60,,
+241,8:05.0,A. Bradley makes 3-pt shot from 23 ft (assist by P. Pierce),3.0,59-60,,
+242,7:42.0,,,59-60,,Turnover by P. Millsap (out of bounds lost ball)
+243,7:29.0,C. Lee makes 2-pt shot from 18 ft,2.0,61-60,,
+244,7:04.0,,,61-60,,P. Millsap misses 2-pt shot from 2 ft
+245,7:03.0,Defensive rebound by A. Bradley,,61-60,,
+246,6:57.0,P. Pierce misses 3-pt shot from 25 ft,,61-60,,
+247,6:55.0,,,61-60,,Defensive rebound by A. Jefferson
+248,6:51.0,,,61-60,,G. Hayward enters the game for R. Foye
+249,6:47.0,,,61-60,,G. Hayward misses 2-pt shot from 9 ft
+250,6:46.0,,,61-60,,Offensive rebound by P. Millsap
+251,6:43.0,,,61-60,,Turnover by E. Watson (bad pass; steal by C. Lee)
+252,6:41.0,C. Lee makes 2-pt shot at rim,2.0,63-60,,
+253,6:41.0,,,63-60,,Utah full timeout
+254,6:26.0,,,63-62,2.0,M. Williams makes 2-pt shot from 1 ft (assist by P. Millsap)
+255,6:06.0,P. Pierce makes 2-pt shot from 13 ft,2.0,65-62,,
+256,5:35.0,,,65-62,,E. Watson misses 2-pt shot from 21 ft
+257,5:34.0,,,65-62,,Offensive rebound by E. Watson
+258,5:31.0,,,65-62,,Turnover by E. Watson (bad pass; steal by C. Wilcox)
+259,5:22.0,C. Lee makes 3-pt shot from 23 ft (assist by P. Pierce),3.0,68-62,,
+260,4:58.0,,,68-62,,P. Millsap misses 2-pt shot from 11 ft
+261,4:57.0,Defensive rebound by C. Wilcox,,68-62,,
+262,4:39.0,P. Pierce makes 2-pt shot from 19 ft,2.0,70-62,,
+263,4:24.0,,,70-62,,Personal foul by C. Lee (drawn by P. Millsap)
+264,4:24.0,J. Terry enters the game for A. Bradley,,70-62,,
+265,4:24.0,J. Green enters the game for B. Bass,,70-62,,
+266,4:24.0,,,70-62,,A. Burks enters the game for E. Watson
+267,4:24.0,,,70-62,,D. Favors enters the game for P. Millsap
+268,4:17.0,,,70-62,,Turnover by A. Burks (bad pass; steal by C. Wilcox)
+269,4:11.0,P. Pierce misses 3-pt shot from 25 ft,,70-62,,
+270,4:11.0,,,70-62,,Defensive rebound by Team
+271,3:51.0,Offensive charge foul by A. Burks (drawn by P. Pierce),,70-62,,
+272,3:51.0,,,70-62,,Turnover by A. Burks (offensive foul)
+273,3:38.0,J. Green misses 3-pt shot from 23 ft,,70-62,,
+274,3:36.0,,,70-62,,Defensive rebound by A. Jefferson
+275,3:23.0,,,70-64,2.0,D. Favors makes 2-pt shot from 3 ft (assist by M. Williams)
+276,3:23.0,,,70-64,,Shooting foul by C. Wilcox (drawn by D. Favors)
+277,3:23.0,,,70-65,1.0,D. Favors makes free throw 1 of 1
+278,3:11.0,J. Terry misses 3-pt shot from 24 ft,,70-65,,
+279,3:09.0,,,70-65,,Defensive rebound by Team
+280,2:50.0,,,70-65,,Shooting foul by J. Terry (drawn by G. Hayward)
+281,2:50.0,,,70-65,,Utah full timeout
+282,2:50.0,K. Garnett enters the game for P. Pierce,,70-65,,
+283,2:50.0,,,70-66,1.0,G. Hayward makes free throw 1 of 2
+284,2:50.0,,,70-67,1.0,G. Hayward makes free throw 2 of 2
+285,2:36.0,K. Garnett makes 2-pt shot from 10 ft (assist by J. Terry),2.0,72-67,,
+286,2:13.0,,,72-67,,Shooting foul by C. Wilcox (drawn by A. Jefferson)
+287,2:13.0,,,72-68,1.0,A. Jefferson makes free throw 1 of 2
+288,2:13.0,,,72-69,1.0,A. Jefferson makes free throw 2 of 2
+289,1:59.0,J. Terry makes 3-pt shot from 25 ft (assist by K. Garnett),3.0,75-69,,
+290,1:38.0,,,75-69,,A. Jefferson misses 2-pt shot from 2 ft
+291,1:35.0,,,75-71,2.0,D. Favors makes 2-pt shot at rim
+292,1:35.0,,,75-71,,Offensive rebound by D. Favors
+293,1:20.0,C. Lee makes 2-pt shot from 19 ft,2.0,77-71,,
+294,1:05.0,,,77-71,,A. Burks misses 3-pt shot from 25 ft
+295,1:04.0,Defensive rebound by K. Garnett,,77-71,,
+296,0:43.8,Turnover by C. Lee (bad pass; steal by G. Hayward),,77-71,,
+297,0:43.6,,,77-71,,Personal foul by C. Wilcox (drawn by M. Williams)
+298,0:43.6,,,77-71,,M. Williams misses free throw 1 of 2
+299,0:43.6,,,77-71,,Offensive rebound by Team
+300,0:43.6,,,77-71,,E. Kanter enters the game for A. Jefferson
+301,0:43.6,,,77-72,1.0,M. Williams makes free throw 2 of 2
+302,0:26.1,J. Terry makes 3-pt shot from 25 ft (assist by C. Lee),3.0,80-72,,
+303,0:02.8,,,80-72,,E. Kanter misses 2-pt shot from 17 ft
+304,0:01.8,Defensive rebound by K. Garnett,,80-72,,
+305,0:00.1,J. Terry misses 3-pt shot from 46 ft,,80-72,,
+306,0:00.0,Offensive rebound by Team,,80-72,,
+307,0:00.0,End of 3rd quarter,,,,
+308,4th Q,,,,,
+309,Time,Boston,,Score,,Utah
+310,12:00.0,Start of 4th quarter,,,,
+311,11:45.0,,,80-72,,D. Favors misses 2-pt shot from 18 ft
+312,11:44.0,,,80-72,,Offensive rebound by Team
+313,11:33.0,,,80-74,2.0,A. Burks makes 2-pt shot at rim
+314,11:06.0,Turnover by J. Green (bad pass; steal by D. Favors),,80-74,,
+315,11:02.0,,,80-74,,Shooting block foul by J. Green (drawn by D. Carroll)
+316,11:02.0,,,80-75,1.0,D. Carroll makes free throw 1 of 2
+317,11:02.0,,,80-76,1.0,D. Carroll makes free throw 2 of 2
+318,10:50.0,Shooting foul by E. Kanter (drawn by C. Lee),,80-76,,
+319,10:50.0,C. Lee makes free throw 1 of 2,1.0,81-76,,
+320,10:50.0,B. Bass enters the game for C. Wilcox,,81-76,,
+321,10:50.0,C. Lee makes free throw 2 of 2,1.0,82-76,,
+322,10:41.0,,,82-76,,Personal foul by C. Lee (drawn by G. Hayward)
+323,10:41.0,A. Bradley enters the game for C. Lee,,82-76,,
+324,10:27.0,,,82-76,,E. Kanter misses 2-pt shot from 3 ft
+325,10:25.0,,,82-76,,Offensive rebound by D. Favors
+326,10:21.0,,,82-78,2.0,G. Hayward makes 2-pt shot from 2 ft (assist by D. Favors)
+327,10:00.0,B. Bass misses 2-pt shot from 19 ft,,82-78,,
+328,9:58.0,,,82-78,,Defensive rebound by A. Burks
+329,9:52.0,,,82-81,3.0,G. Hayward makes 3-pt shot from 25 ft (assist by A. Burks)
+330,9:51.0,Boston full timeout,,82-81,,
+331,9:42.0,Personal foul by D. Carroll (drawn by J. Green),,82-81,,
+332,9:35.0,Turnover by B. Bass (bad pass),,82-81,,
+333,9:19.0,,,82-81,,Turnover by D. Favors (lost ball; steal by J. Green)
+334,9:12.0,J. Green misses 2-pt shot from 6 ft (block by G. Hayward),,82-81,,
+335,9:11.0,,,82-81,,Defensive rebound by D. Carroll
+336,9:08.0,,,82-83,2.0,E. Kanter makes 2-pt shot from 2 ft (assist by D. Carroll)
+337,8:47.0,J. Green misses 2-pt shot from 6 ft,,82-83,,
+338,8:46.0,,,82-83,,Defensive rebound by D. Favors
+339,8:41.0,,,82-85,2.0,G. Hayward makes 2-pt shot from 1 ft (assist by D. Carroll)
+340,8:40.0,Boston 20 second timeout,,82-85,,
+341,8:40.0,P. Pierce enters the game for J. Terry,,82-85,,
+342,8:19.0,B. Bass makes 2-pt shot from 3 ft,2.0,84-85,,
+343,8:19.0,Shooting foul by E. Kanter (drawn by B. Bass),,84-85,,
+344,8:19.0,C. Lee enters the game for J. Green,,84-85,,
+345,8:19.0,B. Bass makes free throw 1 of 1,1.0,85-85,,
+346,8:03.0,,,85-85,,G. Hayward misses 3-pt shot from 25 ft
+347,8:01.0,,,85-85,,Offensive rebound by D. Favors
+348,7:50.0,,,85-85,,Personal foul by C. Lee (drawn by G. Hayward)
+349,7:40.0,,,85-85,,E. Kanter misses 2-pt shot from 5 ft (block by K. Garnett)
+350,7:38.0,,,85-85,,E. Kanter misses 2-pt shot from 5 ft
+351,7:38.0,,,85-85,,Offensive rebound by E. Kanter
+352,7:36.0,Defensive rebound by P. Pierce,,85-85,,
+353,7:29.0,B. Bass misses 2-pt shot from 19 ft,,85-85,,
+354,7:28.0,,,85-85,,Defensive rebound by G. Hayward
+355,7:11.0,,,85-85,,Turnover by D. Favors (traveling)
+356,7:11.0,,,85-85,,P. Millsap enters the game for E. Kanter
+357,6:55.0,P. Pierce makes 2-pt shot from 15 ft,2.0,87-85,,
+358,6:38.0,,,87-85,,Personal foul by K. Garnett (drawn by P. Millsap)
+359,6:25.0,,,87-87,2.0,D. Carroll makes 2-pt shot from 21 ft
+360,6:20.0,Personal foul by D. Carroll (drawn by P. Pierce),,87-87,,
+361,6:16.0,Personal foul by D. Favors (drawn by P. Pierce),,87-87,,
+362,6:16.0,P. Pierce makes free throw 1 of 2,1.0,88-87,,
+363,6:16.0,P. Pierce makes free throw 2 of 2,1.0,89-87,,
+364,6:01.0,,,89-87,,Personal block foul by K. Garnett (drawn by G. Hayward)
+365,6:01.0,,,89-88,1.0,G. Hayward makes free throw 1 of 2
+366,6:01.0,,,89-89,1.0,G. Hayward makes free throw 2 of 2
+367,5:45.0,Personal foul by P. Millsap (drawn by B. Bass),,89-89,,
+368,5:45.0,Official timeout,,89-89,,
+369,5:45.0,B. Bass makes free throw 1 of 2,1.0,90-89,,
+370,5:45.0,B. Bass makes free throw 2 of 2,1.0,91-89,,
+371,5:28.0,,,91-89,,Shooting foul by P. Pierce (drawn by D. Favors)
+372,5:28.0,,,91-90,1.0,D. Favors makes free throw 1 of 2
+373,5:28.0,,,91-91,1.0,D. Favors makes free throw 2 of 2
+374,5:16.0,Turnover by P. Pierce (bad pass),,91-91,,
+375,5:04.0,,,91-91,,D. Carroll misses 3-pt shot from 24 ft
+376,5:04.0,Defensive rebound by P. Pierce,,91-91,,
+377,5:04.0,,,91-91,,Loose ball foul by D. Favors (drawn by K. Garnett)
+378,5:04.0,K. Garnett makes free throw 1 of 2,1.0,92-91,,
+379,5:04.0,,,92-91,,A. Jefferson enters the game for D. Favors
+380,5:04.0,K. Garnett makes free throw 2 of 2,1.0,93-91,,
+381,4:48.0,,,93-91,,A. Burks misses 2-pt shot from 19 ft
+382,4:46.0,,,93-91,,P. Millsap misses 2-pt shot from 2 ft
+383,4:46.0,,,93-91,,Offensive rebound by P. Millsap
+384,4:44.0,Defensive rebound by K. Garnett,,93-91,,
+385,4:32.0,P. Pierce misses 3-pt shot from 24 ft,,93-91,,
+386,4:31.0,Offensive rebound by C. Lee,,93-91,,
+387,4:27.0,P. Pierce misses 3-pt shot from 25 ft,,93-91,,
+388,4:25.0,Offensive rebound by K. Garnett,,93-91,,
+389,4:21.0,B. Bass misses 2-pt shot from 12 ft,,93-91,,
+390,4:20.0,,,93-91,,Defensive rebound by A. Jefferson
+391,3:57.0,,,93-91,,Turnover by Team (shot clock)
+392,3:37.0,C. Lee misses 2-pt shot from 3 ft (block by P. Millsap),,93-91,,
+393,3:35.0,Offensive rebound by C. Lee,,93-91,,
+394,3:19.0,A. Bradley misses 3-pt shot from 23 ft,,93-91,,
+395,3:18.0,,,93-91,,Defensive rebound by A. Jefferson
+396,3:01.0,,,93-91,,G. Hayward misses 3-pt shot from 25 ft
+397,3:00.0,,,93-91,,Offensive rebound by A. Burks
+398,2:46.0,,,93-93,2.0,A. Jefferson makes 2-pt shot from 10 ft
+399,2:46.0,Boston full timeout,,93-93,,
+400,2:46.0,J. Green enters the game for B. Bass,,93-93,,
+401,2:46.0,J. Terry enters the game for C. Lee,,93-93,,
+402,2:27.0,Turnover by K. Garnett (lost ball; steal by A. Jefferson),,93-93,,
+403,2:02.0,,,93-93,,A. Jefferson misses 2-pt shot from 19 ft
+404,2:01.0,,,93-93,,Offensive rebound by D. Carroll
+405,1:41.0,,,93-93,,G. Hayward misses 2-pt shot from 22 ft
+406,1:41.0,Defensive rebound by Team,,93-93,,
+407,1:26.0,P. Pierce misses 3-pt shot from 24 ft,,93-93,,
+408,1:25.0,,,93-93,,Defensive rebound by A. Burks
+409,1:05.0,,,93-93,,A. Burks misses 2-pt shot from 6 ft
+410,1:04.0,Defensive rebound by P. Pierce,,93-93,,
+411,1:02.0,J. Terry makes 2-pt shot from 3 ft (assist by P. Pierce),2.0,95-93,,
+412,0:49.1,,,95-93,,Personal foul by P. Pierce (drawn by G. Hayward)
+413,0:49.1,,,95-94,1.0,G. Hayward makes free throw 1 of 2
+414,0:49.1,,,95-95,1.0,G. Hayward makes free throw 2 of 2
+415,0:36.6,P. Pierce makes 2-pt shot from 18 ft,2.0,97-95,,
+416,0:36.6,,,97-95,,Utah full timeout
+417,0:36.6,B. Bass enters the game for J. Green,,97-95,,
+418,0:36.6,C. Lee enters the game for J. Terry,,97-95,,
+419,0:19.9,,,97-97,2.0,A. Burks makes 2-pt shot from 3 ft (assist by G. Hayward)
+420,0:19.9,Boston full timeout,,97-97,,
+421,0:19.9,J. Green enters the game for B. Bass,,97-97,,
+422,0:19.9,J. Terry enters the game for C. Lee,,97-97,,
+423,0:01.0,P. Pierce misses 2-pt shot from 19 ft,,97-97,,
+424,0:00.0,Offensive rebound by Team,,97-97,,
+425,0:00.0,End of 4th quarter,,,,
+426,1st OT,,,,,
+427,Time,Boston,,Score,,Utah
+428,5:00.0,Start of 1st overtime,,,,
+429,5:00.0,Jump ball: A. Jefferson vs. K. Garnett (A. Burks gains possession),,,,
+430,4:43.0,,,97-97,,G. Hayward misses 2-pt shot from 23 ft
+431,4:42.0,Defensive rebound by K. Garnett,,97-97,,
+432,4:21.0,K. Garnett makes 2-pt shot from 19 ft,2.0,99-97,,
+433,3:59.0,,,99-99,2.0,P. Millsap makes 2-pt shot from 9 ft
+434,3:40.0,J. Terry misses 3-pt shot from 23 ft,,99-99,,
+435,3:39.0,,,99-99,,Defensive rebound by A. Burks
+436,3:27.0,J. Green enters the game for J. Terry,,99-99,,
+437,3:16.0,,,99-99,,A. Burks misses 2-pt shot from 17 ft
+438,3:15.0,Defensive rebound by K. Garnett,,99-99,,
+439,3:04.0,Offensive foul by P. Pierce (drawn by A. Burks),,99-99,,
+440,3:04.0,Turnover by P. Pierce (offensive foul),,99-99,,
+441,2:48.0,,,99-101,2.0,D. Carroll makes 2-pt shot from 21 ft (assist by G. Hayward)
+442,2:35.0,Personal foul by D. Carroll (drawn by P. Pierce),,99-101,,
+443,2:27.0,P. Pierce makes 3-pt shot from 24 ft (assist by A. Bradley),3.0,102-101,,
+444,2:03.0,,,102-101,,P. Millsap misses 2-pt shot from 20 ft
+445,2:02.0,Defensive rebound by P. Pierce,,102-101,,
+446,1:54.0,P. Pierce makes 2-pt shot from 11 ft,2.0,104-101,,
+447,1:34.0,,,104-101,,G. Hayward misses 3-pt shot from 25 ft
+448,1:32.0,Defensive rebound by K. Garnett,,104-101,,
+449,1:12.0,P. Pierce makes 2-pt shot from 15 ft,2.0,106-101,,
+450,1:12.0,,,106-101,,Utah full timeout
+451,1:05.0,,,106-103,2.0,A. Jefferson makes 2-pt shot from 18 ft (assist by A. Burks)
+452,0:48.1,K. Garnett makes 2-pt shot from 22 ft (assist by P. Pierce),2.0,108-103,,
+453,0:37.8,,,108-105,2.0,A. Burks makes 2-pt shot from 2 ft
+454,0:13.8,Turnover by Team (shot clock),,108-105,,
+455,0:13.3,,,108-105,,Utah 20 second timeout
+456,0:13.3,,,108-105,,R. Foye enters the game for D. Carroll
+457,0:13.3,C. Lee enters the game for P. Pierce,,108-105,,
+458,0:11.8,,,108-105,,Personal foul by C. Lee (drawn by R. Foye)
+459,0:04.2,,,108-105,,Personal foul by K. Garnett (drawn by P. Millsap)
+460,0:04.2,,,108-106,1.0,P. Millsap makes free throw 1 of 2
+461,0:04.2,P. Pierce enters the game for A. Bradley,,108-106,,
+462,0:04.2,,,108-107,1.0,P. Millsap makes free throw 2 of 2
+463,0:04.2,Boston full timeout,,108-107,,
+464,0:04.2,,,108-107,,D. Carroll enters the game for A. Jefferson
+465,0:04.2,J. Terry enters the game for B. Bass,,108-107,,
+466,0:03.3,Personal foul by D. Carroll (drawn by P. Pierce),,108-107,,
+467,0:03.3,Boston 20 second timeout,,108-107,,
+468,0:01.2,Personal foul by R. Foye (drawn by C. Lee),,108-107,,
+469,0:01.2,C. Lee makes free throw 1 of 2,1.0,109-107,,
+470,0:01.2,A. Bradley enters the game for J. Terry,,109-107,,
+471,0:01.2,C. Lee makes free throw 2 of 2,1.0,110-107,,
+472,0:01.2,,,110-107,,Utah 20 second timeout
+473,0:01.2,,,110-107,,A. Jefferson enters the game for D. Carroll
+474,0:00.5,,,110-107,,R. Foye misses 3-pt shot from 26 ft
+475,0:00.0,,,110-107,,Offensive rebound by Team
+476,0:00.0,End of 1st overtime,,,,

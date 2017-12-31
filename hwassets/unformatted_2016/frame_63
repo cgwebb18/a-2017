@@ -1,0 +1,470 @@
+,Time,Boston,Unnamed: 2,Score,Unnamed: 4,Cleveland
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: A. Johnson vs. T. Mozgov (K. Love gains possession),,,,
+2,11:37.0,,,0-2,2.0,T. Mozgov makes 2-pt shot from 14 ft (assist by K. Irving)
+3,11:24.0,A. Bradley makes 3-pt shot from 24 ft (assist by I. Thomas),3.0,3-2,,
+4,10:58.0,,,3-2,,J. Smith misses 3-pt shot from 23 ft
+5,10:57.0,Defensive rebound by A. Bradley,,3-2,,
+6,10:50.0,A. Johnson makes 2-pt shot at rim (assist by A. Bradley),2.0,5-2,,
+7,10:35.0,,,5-4,2.0,T. Mozgov makes 2-pt shot at rim (assist by L. James)
+8,10:12.0,J. Sullinger misses 2-pt shot from 4 ft,,5-4,,
+9,10:10.0,Offensive rebound by J. Sullinger,,5-4,,
+10,10:05.0,J. Sullinger makes 2-pt shot from 12 ft,2.0,7-4,,
+11,9:40.0,,,7-4,,L. James misses 3-pt shot from 24 ft
+12,9:40.0,,,7-4,,Offensive rebound by K. Love
+13,9:37.0,Jump ball: K. Love vs. J. Sullinger (L. James gains possession),,,,
+14,9:28.0,,,7-6,2.0,T. Mozgov makes 2-pt shot from 6 ft (assist by L. James)
+15,9:13.0,J. Crowder makes 3-pt shot from 25 ft (assist by A. Johnson),3.0,10-6,,
+16,8:59.0,,,10-6,,J. Smith misses 3-pt shot from 24 ft
+17,8:58.0,Defensive rebound by A. Bradley,,10-6,,
+18,8:46.0,A. Johnson makes 2-pt shot from 1 ft (assist by A. Bradley),2.0,12-6,,
+19,8:46.0,Shooting foul by T. Mozgov (drawn by A. Johnson),,12-6,,
+20,8:46.0,A. Johnson misses free throw 1 of 1,,12-6,,
+21,8:46.0,,,12-6,,Defensive rebound by Team
+22,8:46.0,Loose ball foul by J. Sullinger (drawn by K. Love),,12-6,,
+23,8:36.0,,,12-9,3.0,K. Irving makes 3-pt shot from 24 ft
+24,8:29.0,I. Thomas makes 3-pt shot from 24 ft,3.0,15-9,,
+25,8:14.0,,,15-11,2.0,K. Irving makes 2-pt shot from 8 ft
+26,8:02.0,J. Sullinger misses 3-pt shot from 24 ft,,15-11,,
+27,8:01.0,,,15-11,,Defensive rebound by L. James
+28,7:49.0,,,15-11,,K. Love misses 2-pt shot from 9 ft
+29,7:47.0,Defensive rebound by I. Thomas,,15-11,,
+30,7:44.0,J. Crowder misses 2-pt shot from 3 ft (block by K. Irving),,15-11,,
+31,7:43.0,Offensive rebound by Team,,15-11,,
+32,7:41.0,A. Bradley misses 2-pt shot from 15 ft,,15-11,,
+33,7:40.0,,,15-11,,Defensive rebound by T. Mozgov
+34,7:32.0,,,15-11,,Turnover by L. James (bad pass; steal by J. Crowder)
+35,7:25.0,J. Crowder misses 2-pt shot from 1 ft (block by L. James),,15-11,,
+36,7:24.0,Offensive rebound by I. Thomas,,15-11,,
+37,7:16.0,J. Crowder misses 2-pt shot from 13 ft,,15-11,,
+38,7:15.0,,,15-11,,Defensive rebound by K. Love
+39,7:10.0,,,15-13,2.0,L. James makes 2-pt shot at rim
+40,6:55.0,I. Thomas makes 2-pt shot at rim,2.0,17-13,,
+41,6:43.0,,,17-13,,Turnover by K. Irving (lost ball; steal by J. Crowder)
+42,6:40.0,,,17-13,,Personal foul by J. Smith (drawn by I. Thomas)
+43,6:35.0,,,17-13,,Violation by T. Mozgov (def goaltending)
+44,6:35.0,I. Thomas makes 2-pt shot at rim,2.0,19-13,,
+45,6:22.0,,,19-13,,Turnover by K. Love (bad pass; steal by J. Sullinger)
+46,6:13.0,J. Sullinger misses 2-pt shot from 5 ft,,19-13,,
+47,6:13.0,Offensive rebound by J. Sullinger,,19-13,,
+48,6:13.0,J. Sullinger makes 2-pt shot from 5 ft,2.0,21-13,,
+49,6:13.0,,,21-13,,Cleveland full timeout
+50,6:13.0,,,21-13,,T. Thompson enters the game for T. Mozgov
+51,6:01.0,,,21-13,,J. Smith misses 3-pt shot from 26 ft
+52,6:00.0,Defensive rebound by A. Johnson,,21-13,,
+53,5:45.0,J. Sullinger misses 2-pt shot from 6 ft,,21-13,,
+54,5:43.0,,,21-13,,Defensive rebound by T. Thompson
+55,5:35.0,,,21-13,,K. Love misses 3-pt shot from 24 ft
+56,5:35.0,Defensive rebound by J. Crowder,,21-13,,
+57,5:20.0,A. Bradley makes 2-pt shot from 17 ft,2.0,23-13,,
+58,5:06.0,,,23-13,,T. Thompson misses 2-pt shot at rim
+59,5:05.0,,,23-13,,Offensive rebound by Team
+60,5:05.0,,,23-13,,I. Shumpert enters the game for K. Love
+61,5:05.0,E. Turner enters the game for A. Bradley,,23-13,,
+62,5:05.0,M. Smart enters the game for A. Johnson,,23-13,,
+63,4:52.0,,,23-15,2.0,K. Irving makes 2-pt shot from 19 ft (assist by J. Smith)
+64,4:37.0,I. Thomas makes 3-pt shot from 28 ft,3.0,26-15,,
+65,4:16.0,,,26-15,,J. Smith misses 2-pt shot from 7 ft
+66,4:15.0,Defensive rebound by E. Turner,,26-15,,
+67,4:04.0,E. Turner makes 2-pt shot from 7 ft,2.0,28-15,,
+68,3:46.0,,,28-15,,I. Shumpert misses 2-pt shot from 12 ft
+69,3:44.0,Defensive rebound by J. Sullinger,,28-15,,
+70,3:32.0,E. Turner makes 2-pt shot from 13 ft,2.0,30-15,,
+71,3:12.0,,,30-15,,K. Irving misses 2-pt shot at rim
+72,3:11.0,Defensive rebound by J. Sullinger,,30-15,,
+73,3:06.0,I. Thomas misses 3-pt shot from 25 ft,,30-15,,
+74,3:05.0,,,30-15,,Defensive rebound by I. Shumpert
+75,2:55.0,,,30-17,2.0,L. James makes 2-pt shot from 1 ft
+76,2:55.0,Boston full timeout,,30-17,,
+77,2:55.0,,,30-17,,M. Dellavedova enters the game for K. Irving
+78,2:35.0,M. Smart makes 3-pt shot from 25 ft,3.0,33-17,,
+79,2:16.0,Personal foul by M. Smart (drawn by L. James),,33-17,,
+80,2:16.0,J. Jerebko enters the game for I. Thomas,,33-17,,
+81,2:03.0,,,33-17,,M. Dellavedova misses 3-pt shot from 26 ft
+82,2:03.0,Defensive rebound by E. Turner,,33-17,,
+83,1:57.0,Turnover by J. Crowder (3 sec),,33-17,,
+84,1:40.0,,,33-17,,J. Smith misses 3-pt shot from 24 ft
+85,1:39.0,Defensive rebound by J. Sullinger,,33-17,,
+86,1:22.0,E. Turner makes 2-pt shot from 12 ft (assist by J. Sullinger),2.0,35-17,,
+87,0:57.0,,,35-17,,I. Shumpert misses 3-pt shot from 24 ft
+88,0:57.0,,,35-17,,Offensive rebound by T. Thompson
+89,0:56.0,,,35-19,2.0,T. Thompson makes 2-pt shot at rim
+90,0:39.0,Turnover by J. Crowder (bad pass; steal by I. Shumpert),,35-19,,
+91,0:32.0,,,35-19,,M. Dellavedova misses 3-pt shot from 24 ft
+92,0:30.0,,,35-19,,Offensive rebound by I. Shumpert
+93,0:27.0,,,35-22,3.0,J. Smith makes 3-pt shot from 25 ft (assist by I. Shumpert)
+94,0:06.0,E. Turner misses 2-pt shot from 15 ft,,35-22,,
+95,0:03.0,,,35-22,,Defensive rebound by J. Smith
+96,0:00.0,,,35-22,,J. Smith misses 2-pt shot from 9 ft
+97,0:00.0,,,35-22,,Offensive rebound by Team
+98,0:00.0,End of 1st quarter,,,,
+99,2nd Q,,,,,
+100,Time,Boston,,Score,,Cleveland
+101,12:00.0,Start of 2nd quarter,,,,
+102,11:37.0,T. Zeller makes 2-pt shot from 7 ft (assist by A. Bradley),2.0,37-22,,
+103,11:23.0,,,37-22,,Shooting foul by J. Jerebko (drawn by K. Love)
+104,11:23.0,,,37-23,1.0,K. Love makes free throw 1 of 2
+105,11:23.0,,,37-23,,K. Love misses free throw 2 of 2
+106,11:21.0,Defensive rebound by T. Zeller,,37-23,,
+107,11:07.0,Turnover by J. Jerebko (lost ball; steal by M. Dellavedova),,37-23,,
+108,10:59.0,,,37-26,3.0,K. Irving makes 3-pt shot from 26 ft
+109,10:39.0,M. Smart misses 3-pt shot from 23 ft,,37-26,,
+110,10:39.0,,,37-26,,Defensive rebound by K. Irving
+111,10:23.0,,,37-28,2.0,T. Thompson makes 2-pt shot at rim (assist by K. Irving)
+112,10:08.0,,,37-28,,Violation by I. Shumpert (kicked ball)
+113,9:56.0,T. Zeller makes 2-pt shot from 11 ft (assist by A. Bradley),2.0,39-28,,
+114,9:43.0,,,39-28,,Shooting foul by J. Jerebko (drawn by T. Thompson)
+115,9:43.0,,,39-28,,T. Thompson misses free throw 1 of 2
+116,9:43.0,,,39-28,,Offensive rebound by Team
+117,9:43.0,,,39-29,1.0,T. Thompson makes free throw 2 of 2
+118,9:28.0,J. Jerebko makes 3-pt shot from 24 ft (assist by E. Turner),3.0,42-29,,
+119,9:12.0,,,42-31,2.0,M. Dellavedova makes 2-pt shot from 22 ft (assist by K. Love)
+120,8:56.0,A. Bradley makes 3-pt shot from 24 ft (assist by J. Jerebko),3.0,45-31,,
+121,8:44.0,,,45-31,,K. Love misses 3-pt shot from 24 ft
+122,8:43.0,,,45-31,,Offensive rebound by I. Shumpert
+123,8:26.0,Personal foul by J. Jerebko (drawn by K. Love),,45-31,,
+124,8:26.0,Official timeout,,45-31,,
+125,8:23.0,,,45-31,,Offensive foul by I. Shumpert
+126,8:23.0,,,45-31,,Turnover by I. Shumpert (offensive foul)
+127,8:06.0,Turnover by T. Zeller (traveling),,45-31,,
+128,7:51.0,,,45-31,,K. Love misses 2-pt shot from 4 ft
+129,7:50.0,,,45-31,,Offensive rebound by T. Thompson
+130,7:50.0,,,45-31,,Shooting foul by T. Zeller (drawn by T. Thompson)
+131,7:50.0,,,45-33,2.0,T. Thompson makes 2-pt shot at rim
+132,7:50.0,,,45-34,1.0,T. Thompson makes free throw 1 of 1
+133,7:35.0,J. Jerebko misses 3-pt shot from 25 ft,,45-34,,
+134,7:35.0,,,45-34,,Defensive rebound by I. Shumpert
+135,7:26.0,,,45-34,,I. Shumpert misses 3-pt shot from 24 ft
+136,7:26.0,Defensive rebound by M. Smart,,45-34,,
+137,7:21.0,,,45-34,,Personal foul by K. Irving (drawn by M. Smart)
+138,7:14.0,Turnover by M. Smart (bad pass; steal by T. Thompson),,45-34,,
+139,7:08.0,,,45-37,3.0,K. Irving makes 3-pt shot from 25 ft (assist by I. Shumpert)
+140,7:08.0,Boston full timeout,,45-37,,
+141,7:08.0,A. Johnson enters the game for J. Jerebko,,45-37,,
+142,6:52.0,A. Bradley misses 2-pt shot from 5 ft,,45-37,,
+143,6:52.0,,,45-37,,Defensive rebound by K. Love
+144,6:46.0,,,45-37,,Shooting foul by M. Smart (drawn by K. Irving)
+145,6:46.0,,,45-38,1.0,K. Irving makes free throw 1 of 2
+146,6:46.0,,,45-39,1.0,K. Irving makes free throw 2 of 2
+147,6:30.0,E. Turner misses 2-pt shot from 14 ft,,45-39,,
+148,6:28.0,,,45-39,,Defensive rebound by K. Irving
+149,6:24.0,,,45-41,2.0,I. Shumpert makes 2-pt shot at rim (assist by K. Irving)
+150,6:09.0,E. Turner misses 2-pt shot from 16 ft,,45-41,,
+151,6:09.0,,,45-41,,Defensive rebound by K. Love
+152,5:50.0,,,45-41,,K. Love misses 3-pt shot from 23 ft
+153,5:49.0,,,45-41,,Offensive rebound by T. Thompson
+154,5:48.0,,,45-41,,T. Thompson misses 2-pt shot from 2 ft
+155,5:47.0,Defensive rebound by T. Zeller,,45-41,,
+156,5:41.0,Shooting foul by K. Irving (drawn by A. Johnson),,45-41,,
+157,5:41.0,A. Johnson misses free throw 1 of 2,,45-41,,
+158,5:41.0,Offensive rebound by Team,,45-41,,
+159,5:41.0,,,45-41,,L. James enters the game for M. Dellavedova
+160,5:41.0,I. Thomas enters the game for M. Smart,,45-41,,
+161,5:41.0,J. Sullinger enters the game for T. Zeller,,45-41,,
+162,5:41.0,A. Johnson misses free throw 2 of 2,,45-41,,
+163,5:39.0,,,45-41,,Defensive rebound by L. James
+164,5:22.0,,,45-41,,K. Irving misses 3-pt shot from 22 ft
+165,5:22.0,Defensive rebound by E. Turner,,45-41,,
+166,5:18.0,Turnover by E. Turner (lost ball; steal by L. James),,45-41,,
+167,5:14.0,Personal block foul by A. Johnson (drawn by L. James),,45-41,,
+168,5:14.0,,,45-42,1.0,L. James makes free throw 1 of 2
+169,5:14.0,J. Crowder enters the game for E. Turner,,45-42,,
+170,5:14.0,,,45-43,1.0,L. James makes free throw 2 of 2
+171,4:54.0,Turnover by A. Bradley (bad pass),,45-43,,
+172,4:40.0,,,45-43,,L. James misses 3-pt shot from 24 ft
+173,4:39.0,Defensive rebound by A. Bradley,,45-43,,
+174,4:33.0,Shooting foul by L. James (drawn by A. Johnson),,45-43,,
+175,4:33.0,A. Johnson makes free throw 1 of 2,1.0,46-43,,
+176,4:33.0,,,46-43,,J. Smith enters the game for K. Irving
+177,4:33.0,A. Johnson makes free throw 2 of 2,1.0,47-43,,
+178,4:17.0,,,47-45,2.0,L. James makes 2-pt shot from 16 ft (assist by K. Love)
+179,4:01.0,A. Bradley makes 2-pt shot from 17 ft,2.0,49-45,,
+180,3:32.0,,,49-48,3.0,J. Smith makes 3-pt shot from 22 ft (assist by L. James)
+181,3:15.0,J. Sullinger makes 2-pt shot at rim (assist by I. Thomas),2.0,51-48,,
+182,3:04.0,,,51-48,,Cleveland full timeout
+183,3:04.0,,,51-48,,M. Dellavedova enters the game for I. Shumpert
+184,3:04.0,Personal foul by A. Johnson (drawn by K. Love),,51-48,,
+185,3:04.0,,,51-49,1.0,K. Love makes free throw 1 of 2
+186,3:04.0,,,51-50,1.0,K. Love makes free throw 2 of 2
+187,2:46.0,I. Thomas makes 2-pt shot at rim,2.0,53-50,,
+188,2:41.0,,,53-50,,L. James misses 2-pt shot from 1 ft
+189,2:40.0,,,53-50,,Offensive rebound by L. James
+190,2:40.0,,,53-50,,L. James misses 2-pt shot from 1 ft
+191,2:39.0,Defensive rebound by J. Sullinger,,53-50,,
+192,2:30.0,J. Crowder misses 3-pt shot from 24 ft,,53-50,,
+193,2:28.0,,,53-50,,Defensive rebound by L. James
+194,2:19.0,,,53-50,,Turnover by T. Thompson (3 sec)
+195,2:06.0,M. Smart enters the game for A. Johnson,,53-50,,
+196,2:06.0,,,53-50,,I. Shumpert enters the game for T. Thompson
+197,2:06.0,Turnover by A. Bradley (lost ball; steal by M. Dellavedova),,53-50,,
+198,2:06.0,Jump ball: A. Bradley vs. M. Dellavedova (L. James gains possession),,,,
+199,1:54.0,,,53-53,3.0,I. Shumpert makes 3-pt shot from 24 ft (assist by K. Love)
+200,1:34.0,M. Smart misses 2-pt shot from 14 ft,,53-53,,
+201,1:33.0,,,53-53,,Defensive rebound by I. Shumpert
+202,1:10.0,,,53-53,,Turnover by I. Shumpert (lost ball; steal by J. Crowder)
+203,1:06.0,A. Bradley misses 3-pt shot from 25 ft,,53-53,,
+204,1:05.0,Offensive rebound by M. Smart,,53-53,,
+205,1:02.0,I. Thomas misses 2-pt shot from 1 ft,,53-53,,
+206,1:01.0,,,53-53,,Defensive rebound by I. Shumpert
+207,1:01.0,Personal foul by J. Crowder (drawn by I. Shumpert),,53-53,,
+208,1:01.0,,,53-54,1.0,I. Shumpert makes free throw 1 of 2
+209,1:01.0,,,53-55,1.0,I. Shumpert makes free throw 2 of 2
+210,0:46.0,Shooting foul by I. Shumpert (drawn by I. Thomas),,53-55,,
+211,0:46.0,I. Thomas misses free throw 1 of 2,,53-55,,
+212,0:46.0,Offensive rebound by Team,,53-55,,
+213,0:46.0,I. Thomas misses free throw 2 of 2,,53-55,,
+214,0:45.0,,,53-55,,Defensive rebound by J. Smith
+215,0:29.0,,,53-55,,I. Shumpert misses 2-pt shot at rim
+216,0:29.0,Defensive rebound by J. Sullinger,,53-55,,
+217,0:29.0,,,53-55,,Personal foul by I. Shumpert (drawn by J. Sullinger)
+218,0:29.0,J. Sullinger makes free throw 1 of 2,1.0,54-55,,
+219,0:29.0,,,54-55,,K. Irving enters the game for I. Shumpert
+220,0:29.0,J. Sullinger misses free throw 2 of 2,,54-55,,
+221,0:28.0,,,54-55,,Defensive rebound by J. Smith
+222,0:04.0,,,54-55,,L. James misses 2-pt shot from 3 ft (block by J. Crowder)
+223,0:03.0,Defensive rebound by M. Smart,,54-55,,
+224,0:00.0,Boston full timeout,,54-55,,
+225,0:00.0,,,54-55,,T. Mozgov enters the game for K. Love
+226,0:00.0,,,54-55,,T. Thompson enters the game for K. Irving
+227,0:00.0,End of 2nd quarter,,,,
+228,3rd Q,,,,,
+229,Time,Boston,,Score,,Cleveland
+230,12:00.0,Start of 3rd quarter,,,,
+231,11:38.0,J. Sullinger misses 2-pt shot from 5 ft,,54-55,,
+232,11:37.0,,,54-55,,Defensive rebound by T. Mozgov
+233,11:24.0,,,54-55,,K. Irving misses 3-pt shot from 24 ft
+234,11:23.0,Defensive rebound by A. Bradley,,54-55,,
+235,11:12.0,A. Johnson makes 2-pt shot from 5 ft (assist by A. Bradley),2.0,56-55,,
+236,10:47.0,,,56-57,2.0,J. Smith makes 2-pt shot from 1 ft
+237,10:32.0,J. Crowder misses 3-pt shot from 24 ft,,56-57,,
+238,10:31.0,,,56-57,,Defensive rebound by K. Irving
+239,10:28.0,,,56-57,,Offensive foul by L. James
+240,10:28.0,,,56-57,,Turnover by L. James (offensive foul)
+241,10:19.0,J. Crowder misses 2-pt shot from 8 ft,,56-57,,
+242,10:18.0,Offensive rebound by J. Sullinger,,56-57,,
+243,10:17.0,J. Sullinger misses 2-pt shot at rim (block by K. Irving),,56-57,,
+244,10:16.0,Offensive rebound by J. Crowder,,56-57,,
+245,10:15.0,I. Thomas makes 3-pt shot from 25 ft (assist by J. Crowder),3.0,59-57,,
+246,9:57.0,Personal foul by J. Sullinger (drawn by T. Mozgov),,59-57,,
+247,9:52.0,,,59-57,,Turnover by L. James (bad pass)
+248,9:42.0,,,59-57,,Personal foul by K. Irving (drawn by I. Thomas)
+249,9:34.0,Turnover by A. Bradley (bad pass; steal by K. Love),,59-57,,
+250,9:28.0,,,59-59,2.0,T. Mozgov makes 2-pt shot at rim (assist by L. James)
+251,9:14.0,Flagrant foul type 1 by A. Johnson (drawn by T. Mozgov),,59-59,,
+252,9:14.0,Turnover by A. Johnson (offensive foul),,59-59,,
+253,9:14.0,,,59-60,1.0,T. Mozgov makes flagrant free throw 1 of 2
+254,9:14.0,,,59-61,1.0,T. Mozgov makes flagrant free throw 2 of 2
+255,9:02.0,,,59-61,,Shooting foul by J. Crowder (drawn by L. James)
+256,9:02.0,,,59-62,1.0,L. James makes free throw 1 of 2
+257,9:02.0,,,59-63,1.0,L. James makes free throw 2 of 2
+258,8:44.0,A. Johnson misses 2-pt shot from 5 ft,,59-63,,
+259,8:43.0,Offensive rebound by Team,,59-63,,
+260,8:39.0,J. Sullinger makes 2-pt shot from 19 ft (assist by I. Thomas),2.0,61-63,,
+261,8:22.0,,,61-65,2.0,K. Love makes 2-pt shot at rim (assist by L. James)
+262,8:08.0,A. Bradley misses 3-pt shot from 23 ft,,61-65,,
+263,8:08.0,,,61-65,,Defensive rebound by T. Mozgov
+264,8:04.0,,,61-65,,Turnover by T. Mozgov (bad pass; steal by A. Bradley)
+265,8:02.0,Offensive charge foul by A. Bradley,,61-65,,
+266,8:02.0,Turnover by A. Bradley (offensive foul),,61-65,,
+267,7:42.0,,,61-65,,J. Smith misses 3-pt shot from 29 ft
+268,7:41.0,,,61-65,,Offensive rebound by L. James
+269,7:38.0,,,61-67,2.0,L. James makes 2-pt shot from 1 ft
+270,7:20.0,I. Thomas misses 2-pt shot from 5 ft,,61-67,,
+271,7:18.0,Offensive rebound by J. Sullinger,,61-67,,
+272,7:16.0,J. Sullinger makes 2-pt shot from 1 ft,2.0,63-67,,
+273,7:14.0,,,63-67,,Turnover by K. Irving (bad pass)
+274,7:14.0,M. Smart enters the game for A. Johnson,,63-67,,
+275,7:04.0,Shooting foul by K. Love (drawn by I. Thomas),,63-67,,
+276,7:04.0,I. Thomas makes free throw 1 of 2,1.0,64-67,,
+277,7:04.0,,,64-67,,I. Shumpert enters the game for T. Mozgov
+278,7:04.0,I. Thomas makes free throw 2 of 2,1.0,65-67,,
+279,6:56.0,,,65-67,,Turnover by K. Irving (bad pass; steal by J. Crowder)
+280,6:51.0,J. Crowder makes 2-pt shot at rim,2.0,67-67,,
+281,6:47.0,,,67-67,,Shooting foul by J. Sullinger (drawn by L. James)
+282,6:47.0,,,67-67,,L. James misses free throw 1 of 2
+283,6:47.0,,,67-67,,Offensive rebound by Team
+284,6:47.0,,,67-67,,L. James misses free throw 2 of 2
+285,6:46.0,Defensive rebound by J. Crowder,,67-67,,
+286,6:32.0,I. Thomas makes 3-pt shot from 25 ft,3.0,70-67,,
+287,6:16.0,,,70-70,3.0,L. James makes 3-pt shot from 24 ft (assist by K. Irving)
+288,6:01.0,I. Thomas misses 3-pt shot from 28 ft,,70-70,,
+289,6:00.0,,,70-70,,Defensive rebound by L. James
+290,5:52.0,,,70-72,2.0,K. Irving makes 2-pt shot at rim (assist by J. Smith)
+291,5:52.0,,,70-72,,Shooting foul by J. Crowder (drawn by K. Irving)
+292,5:52.0,,,70-72,,Cleveland full timeout
+293,5:52.0,,,70-72,,K. Irving misses free throw 1 of 1
+294,5:51.0,Defensive rebound by J. Crowder,,70-72,,
+295,5:33.0,J. Sullinger misses 2-pt shot from 4 ft,,70-72,,
+296,5:33.0,,,70-72,,Defensive rebound by Team
+297,5:13.0,,,70-72,,Shooting foul by M. Smart (drawn by K. Love)
+298,5:13.0,,,70-73,1.0,K. Love makes free throw 1 of 2
+299,5:13.0,,,70-74,1.0,K. Love makes free throw 2 of 2
+300,4:55.0,Turnover by M. Smart (lost ball; steal by L. James),,70-74,,
+301,4:45.0,,,70-74,,J. Smith misses 2-pt shot from 7 ft
+302,4:44.0,,,70-74,,Offensive rebound by I. Shumpert
+303,4:43.0,,,70-76,2.0,L. James makes 2-pt shot at rim (assist by I. Shumpert)
+304,4:34.0,J. Crowder makes 3-pt shot from 23 ft (assist by I. Thomas),3.0,73-76,,
+305,4:22.0,,,73-76,,K. Irving misses 3-pt shot from 24 ft
+306,4:21.0,,,73-76,,Offensive rebound by L. James
+307,4:19.0,,,73-78,2.0,L. James makes 2-pt shot from 2 ft
+308,4:06.0,M. Smart misses 2-pt shot from 4 ft,,73-78,,
+309,4:05.0,Offensive rebound by J. Sullinger,,73-78,,
+310,4:05.0,J. Sullinger makes 2-pt shot from 1 ft,2.0,75-78,,
+311,4:05.0,Technical foul by M. Smart,,75-78,,
+312,4:05.0,,,75-79,1.0,K. Irving makes technical free throw
+313,3:47.0,,,75-79,,Shooting foul by M. Smart (drawn by L. James)
+314,3:47.0,,,75-79,,L. James misses free throw 1 of 2
+315,3:47.0,,,75-79,,Offensive rebound by Team
+316,3:47.0,,,75-79,,M. Dellavedova enters the game for K. Irving
+317,3:47.0,E. Turner enters the game for J. Crowder,,75-79,,
+318,3:47.0,J. Jerebko enters the game for A. Bradley,,75-79,,
+319,3:47.0,,,75-79,,L. James misses free throw 2 of 2
+320,3:45.0,,,75-79,,Offensive rebound by I. Shumpert
+321,3:30.0,,,75-79,,L. James misses 3-pt shot from 24 ft
+322,3:30.0,Defensive rebound by J. Jerebko,,75-79,,
+323,3:14.0,J. Sullinger makes 2-pt shot at rim (assist by E. Turner),2.0,77-79,,
+324,3:03.0,,,77-81,2.0,L. James makes 2-pt shot at rim (assist by M. Dellavedova)
+325,2:47.0,J. Sullinger makes 2-pt shot from 20 ft (assist by E. Turner),2.0,79-81,,
+326,2:29.0,,,79-83,2.0,M. Dellavedova makes 2-pt shot from 3 ft
+327,2:13.0,E. Turner makes 2-pt shot at rim,2.0,81-83,,
+328,1:50.0,,,81-83,,L. James misses 2-pt shot from 17 ft
+329,1:49.0,,,81-83,,Offensive rebound by I. Shumpert
+330,1:40.0,,,81-83,,Shooting foul by M. Smart (drawn by K. Love)
+331,1:40.0,Boston full timeout,,81-83,,
+332,1:40.0,J. Crowder enters the game for M. Smart,,81-83,,
+333,1:40.0,,,81-84,1.0,K. Love makes free throw 1 of 3
+334,1:40.0,,,81-85,1.0,K. Love makes free throw 2 of 3
+335,1:40.0,,,81-86,1.0,K. Love makes free throw 3 of 3
+336,1:24.0,I. Thomas makes 2-pt shot from 1 ft (assist by J. Jerebko),2.0,83-86,,
+337,1:02.0,,,83-88,2.0,M. Dellavedova makes 2-pt shot from 6 ft
+338,0:51.0,J. Sullinger misses 2-pt shot from 4 ft,,83-88,,
+339,0:51.0,Offensive rebound by J. Sullinger,,83-88,,
+340,0:51.0,,,83-88,,Personal foul by M. Dellavedova (drawn by J. Sullinger)
+341,0:51.0,T. Zeller enters the game for J. Sullinger,,83-88,,
+342,0:51.0,,,83-88,,T. Thompson enters the game for K. Love
+343,0:39.0,I. Thomas misses 2-pt shot from 14 ft,,83-88,,
+344,0:38.0,,,83-88,,Defensive rebound by L. James
+345,0:17.0,,,83-91,3.0,I. Shumpert makes 3-pt shot from 23 ft (assist by J. Smith)
+346,0:00.0,E. Turner misses 2-pt shot from 10 ft,,83-91,,
+347,0:00.0,Offensive rebound by Team,,83-91,,
+348,0:00.0,End of 3rd quarter,,,,
+349,4th Q,,,,,
+350,Time,Boston,,Score,,Cleveland
+351,12:00.0,Start of 4th quarter,,,,
+352,11:38.0,,,83-93,2.0,T. Thompson makes 2-pt shot at rim (assist by M. Dellavedova)
+353,11:20.0,A. Bradley misses 2-pt shot from 7 ft,,83-93,,
+354,11:20.0,,,83-93,,Defensive rebound by R. Jefferson
+355,11:12.0,,,83-93,,K. Irving misses 2-pt shot from 5 ft
+356,11:12.0,Defensive rebound by E. Turner,,83-93,,
+357,11:08.0,A. Bradley misses 3-pt shot from 25 ft,,83-93,,
+358,11:07.0,,,83-93,,Defensive rebound by R. Jefferson
+359,11:03.0,,,83-95,2.0,K. Irving makes 2-pt shot from 1 ft (assist by R. Jefferson)
+360,11:02.0,Boston full timeout,,83-95,,
+361,11:02.0,,,83-95,,Inbound foul by M. Dellavedova
+362,11:02.0,A. Bradley makes free throw 1 of 2,1.0,84-95,,
+363,11:02.0,A. Bradley makes free throw 2 of 2,1.0,85-95,,
+364,10:50.0,,,85-95,,K. Irving misses 2-pt shot from 16 ft
+365,10:49.0,,,85-95,,Offensive rebound by T. Thompson
+366,10:44.0,,,85-95,,Shooting foul by E. Turner (drawn by T. Thompson)
+367,10:44.0,,,85-96,1.0,T. Thompson makes free throw 1 of 2
+368,10:44.0,,,85-97,1.0,T. Thompson makes free throw 2 of 2
+369,10:30.0,Turnover by A. Bradley (bad pass),,85-97,,
+370,10:10.0,,,85-97,,R. Jefferson misses 2-pt shot from 8 ft
+371,10:10.0,Defensive rebound by J. Jerebko,,85-97,,
+372,9:57.0,,,85-97,,Personal foul by I. Shumpert (drawn by J. Jerebko)
+373,9:51.0,T. Zeller misses 2-pt shot from 17 ft,,85-97,,
+374,9:50.0,,,85-97,,Defensive rebound by I. Shumpert
+375,9:38.0,,,85-99,2.0,M. Dellavedova makes 2-pt shot from 7 ft
+376,9:26.0,J. Jerebko makes 2-pt shot from 13 ft,2.0,87-99,,
+377,9:02.0,,,87-99,,Turnover by R. Jefferson (bad pass; steal by T. Zeller)
+378,8:52.0,J. Crowder misses 3-pt shot from 24 ft,,87-99,,
+379,8:51.0,,,87-99,,Defensive rebound by I. Shumpert
+380,8:30.0,,,87-99,,Turnover by T. Thompson (3 sec)
+381,8:30.0,I. Thomas enters the game for J. Crowder,,87-99,,
+382,8:11.0,E. Turner makes 2-pt shot from 13 ft,2.0,89-99,,
+383,7:54.0,,,89-101,2.0,R. Jefferson makes 2-pt shot at rim (assist by M. Dellavedova)
+384,7:45.0,Shooting foul by K. Irving (drawn by T. Zeller),,89-101,,
+385,7:45.0,T. Zeller makes free throw 1 of 2,1.0,90-101,,
+386,7:45.0,J. Crowder enters the game for J. Jerebko,,90-101,,
+387,7:45.0,,,90-101,,L. James enters the game for R. Jefferson
+388,7:45.0,T. Zeller makes free throw 2 of 2,1.0,91-101,,
+389,7:24.0,,,91-103,2.0,L. James makes 2-pt shot from 1 ft (assist by M. Dellavedova)
+390,7:06.0,Shooting foul by K. Irving (drawn by E. Turner),,91-103,,
+391,7:06.0,E. Turner misses free throw 1 of 2,,91-103,,
+392,7:06.0,Offensive rebound by Team,,91-103,,
+393,7:06.0,,,91-103,,J. Smith enters the game for K. Irving
+394,7:06.0,E. Turner makes free throw 2 of 2,1.0,92-103,,
+395,6:53.0,,,92-103,,Turnover by L. James (bad pass; steal by I. Thomas)
+396,6:47.0,I. Thomas makes 2-pt shot from 1 ft,2.0,94-103,,
+397,6:20.0,,,94-103,,L. James misses 2-pt shot from 7 ft
+398,6:19.0,Defensive rebound by T. Zeller,,94-103,,
+399,6:08.0,A. Bradley misses 2-pt shot from 20 ft,,94-103,,
+400,6:07.0,,,94-103,,Defensive rebound by L. James
+401,5:45.0,,,94-103,,L. James misses 2-pt shot from 16 ft
+402,5:43.0,Defensive rebound by I. Thomas,,94-103,,
+403,5:31.0,A. Bradley misses 3-pt shot from 22 ft,,94-103,,
+404,5:31.0,Offensive rebound by Team,,94-103,,
+405,5:31.0,,,94-103,,Loose ball foul by T. Thompson (drawn by T. Zeller)
+406,5:31.0,Official timeout,,94-103,,
+407,5:31.0,T. Zeller makes free throw 1 of 2,1.0,95-103,,
+408,5:31.0,T. Zeller makes free throw 2 of 2,1.0,96-103,,
+409,5:16.0,,,96-106,3.0,J. Smith makes 3-pt shot from 24 ft (assist by L. James)
+410,4:57.0,I. Thomas misses 2-pt shot from 2 ft (block by M. Dellavedova),,96-106,,
+411,4:57.0,,,96-106,,Defensive rebound by I. Shumpert
+412,4:51.0,,,96-106,,J. Smith misses 3-pt shot from 24 ft
+413,4:49.0,,,96-106,,Offensive rebound by L. James
+414,4:33.0,,,96-108,2.0,L. James makes 2-pt shot at rim
+415,4:17.0,T. Zeller misses 2-pt shot at rim,,96-108,,
+416,4:13.0,,,96-108,,Defensive rebound by I. Shumpert
+417,3:59.0,,,96-110,2.0,I. Shumpert makes 2-pt shot from 19 ft (assist by L. James)
+418,3:46.0,Shooting foul by T. Thompson (drawn by J. Crowder),,96-110,,
+419,3:46.0,J. Crowder makes free throw 1 of 2,1.0,97-110,,
+420,3:46.0,J. Sullinger enters the game for T. Zeller,,97-110,,
+421,3:46.0,M. Smart enters the game for E. Turner,,97-110,,
+422,3:46.0,J. Crowder makes free throw 2 of 2,1.0,98-110,,
+423,3:27.0,,,98-110,,Shooting foul by A. Bradley (drawn by M. Dellavedova)
+424,3:27.0,,,98-110,,M. Dellavedova misses free throw 1 of 2
+425,3:27.0,,,98-110,,Offensive rebound by Team
+426,3:27.0,,,98-111,1.0,M. Dellavedova makes free throw 2 of 2
+427,3:22.0,,,98-111,,Personal foul by I. Shumpert (drawn by I. Thomas)
+428,3:22.0,I. Thomas makes free throw 1 of 2,1.0,99-111,,
+429,3:22.0,I. Thomas misses free throw 2 of 2,,99-111,,
+430,3:20.0,,,99-111,,Defensive rebound by I. Shumpert
+431,2:58.0,,,99-113,2.0,L. James makes 2-pt shot from 14 ft
+432,2:58.0,,,99-113,,Shooting foul by J. Sullinger (drawn by L. James)
+433,2:58.0,,,99-113,,Cleveland full timeout
+434,2:58.0,Technical foul by J. Sullinger (drawn by L. James),,99-113,,
+435,2:58.0,E. Turner enters the game for A. Bradley,,99-113,,
+436,2:58.0,,,99-114,1.0,M. Dellavedova makes technical free throw
+437,2:58.0,,,99-115,1.0,L. James makes free throw 1 of 1
+438,2:48.0,,,99-115,,Personal foul by T. Thompson (drawn by I. Thomas)
+439,2:48.0,I. Thomas makes free throw 1 of 2,1.0,100-115,,
+440,2:48.0,I. Thomas makes free throw 2 of 2,1.0,101-115,,
+441,2:27.0,,,101-115,,J. Smith misses 2-pt shot from 10 ft
+442,2:26.0,Defensive rebound by J. Sullinger,,101-115,,
+443,2:21.0,,,101-115,,Personal foul by M. Dellavedova (drawn by J. Crowder)
+444,2:21.0,J. Crowder makes free throw 1 of 2,1.0,102-115,,
+445,2:21.0,A. Bradley enters the game for I. Thomas,,102-115,,
+446,2:21.0,J. Crowder makes free throw 2 of 2,1.0,103-115,,
+447,2:03.0,,,103-118,3.0,J. Smith makes 3-pt shot from 23 ft (assist by L. James)
+448,1:54.0,Boston full timeout,,103-118,,
+449,1:54.0,I. Thomas enters the game for M. Smart,,103-118,,
+450,1:48.0,J. Crowder misses 3-pt shot from 24 ft,,103-118,,
+451,1:48.0,Offensive rebound by J. Sullinger,,103-118,,
+452,1:44.0,J. Sullinger misses 2-pt shot at rim,,103-118,,
+453,1:40.0,,,103-118,,Defensive rebound by L. James
+454,1:26.0,,,103-118,,Turnover by T. Thompson (traveling)
+455,1:26.0,,,103-118,,R. Jefferson enters the game for L. James
+456,1:26.0,J. Young enters the game for J. Sullinger,,103-118,,
+457,1:26.0,T. Rozier enters the game for A. Bradley,,103-118,,
+458,1:26.0,J. Mickey enters the game for I. Thomas,,103-118,,
+459,1:26.0,,,103-118,,S. Kaun enters the game for J. Smith
+460,1:26.0,,,103-118,,J. McRae enters the game for T. Thompson
+461,1:26.0,T. Zeller enters the game for J. Crowder,,103-118,,
+462,1:05.0,Turnover by E. Turner (lost ball; steal by I. Shumpert),,103-118,,
+463,0:45.0,,,103-120,2.0,S. Kaun makes 2-pt shot at rim (assist by I. Shumpert)
+464,0:34.0,T. Rozier misses 2-pt shot from 15 ft,,103-120,,
+465,0:34.0,,,103-120,,Defensive rebound by I. Shumpert
+466,0:18.0,,,103-120,,R. Jefferson misses 3-pt shot from 23 ft
+467,0:17.0,,,103-120,,Offensive rebound by I. Shumpert
+468,0:00.0,End of 4th quarter,,,,

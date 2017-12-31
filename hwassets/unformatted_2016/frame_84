@@ -1,0 +1,456 @@
+,Time,Boston,Unnamed: 2,Score,Unnamed: 4,Charlotte
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: A. Johnson vs. C. Zeller (M. Williams gains possession),,,,
+2,11:35.0,,,0-2,2.0,K. Walker makes 2-pt shot from 15 ft
+3,11:21.0,J. Crowder makes 3-pt shot from 25 ft (assist by A. Bradley),3.0,3-2,,
+4,11:07.0,,,3-2,,M. Williams misses 3-pt shot from 25 ft
+5,11:06.0,Defensive rebound by Team,,3-2,,
+6,10:56.0,A. Bradley makes 3-pt shot from 24 ft,3.0,6-2,,
+7,10:40.0,Personal foul by J. Crowder (drawn by M. Kidd-Gilchrist),,6-2,,
+8,10:29.0,,,6-4,2.0,M. Williams makes 2-pt shot from 12 ft (assist by N. Batum)
+9,10:15.0,,,6-4,,Personal foul by M. Kidd-Gilchrist (drawn by A. Horford)
+10,10:08.0,A. Johnson misses 2-pt shot from 20 ft,,6-4,,
+11,10:07.0,,,6-4,,Defensive rebound by Team
+12,9:51.0,,,6-4,,K. Walker misses 3-pt shot from 24 ft
+13,9:49.0,Defensive rebound by J. Crowder,,6-4,,
+14,9:41.0,J. Crowder misses 2-pt shot from 21 ft,,6-4,,
+15,9:39.0,,,6-4,,Defensive rebound by C. Zeller
+16,9:29.0,,,6-4,,M. Williams misses 3-pt shot from 24 ft
+17,9:28.0,Defensive rebound by A. Bradley,,6-4,,
+18,9:10.0,I. Thomas makes 3-pt shot from 25 ft (assist by A. Bradley),3.0,9-4,,
+19,8:45.0,,,9-4,,N. Batum misses 2-pt shot from 10 ft
+20,8:44.0,Defensive rebound by A. Horford,,9-4,,
+21,8:28.0,A. Bradley misses 3-pt shot from 26 ft,,9-4,,
+22,8:26.0,,,9-4,,Defensive rebound by M. Williams
+23,8:20.0,,,9-7,3.0,N. Batum makes 3-pt shot from 25 ft (assist by K. Walker)
+24,8:03.0,A. Bradley makes 3-pt shot from 24 ft (assist by I. Thomas),3.0,12-7,,
+25,7:48.0,Personal foul by A. Horford (drawn by M. Williams),,12-7,,
+26,7:34.0,,,12-7,,Turnover by Team (shot clock)
+27,7:18.0,Turnover by A. Bradley (lost ball),,12-7,,
+28,7:06.0,,,12-7,,M. Williams misses 3-pt shot from 25 ft
+29,7:04.0,Defensive rebound by A. Bradley,,12-7,,
+30,6:53.0,I. Thomas makes 3-pt shot from 25 ft (assist by A. Horford),3.0,15-7,,
+31,6:44.0,,,15-7,,Charlotte full timeout
+32,6:38.0,,,15-7,,Shooting foul by A. Johnson (drawn by C. Zeller)
+33,6:38.0,,,15-7,,C. Zeller misses free throw 1 of 2
+34,6:38.0,,,15-7,,Offensive rebound by Team
+35,6:38.0,,,15-7,,C. Zeller misses free throw 2 of 2
+36,6:35.0,Defensive rebound by J. Crowder,,15-7,,
+37,6:22.0,Turnover by A. Horford (bad pass; steal by K. Walker),,15-7,,
+38,6:00.0,,,15-7,,M. Williams misses 3-pt shot from 23 ft
+39,5:59.0,Defensive rebound by A. Johnson,,15-7,,
+40,5:48.0,A. Horford makes 2-pt shot from 7 ft,2.0,17-7,,
+41,5:31.0,,,17-7,,Shooting foul by A. Johnson (drawn by C. Zeller)
+42,5:31.0,,,17-7,,C. Zeller misses free throw 1 of 2
+43,5:31.0,,,17-7,,Offensive rebound by Team
+44,5:31.0,,,17-8,1.0,C. Zeller makes free throw 2 of 2
+45,5:31.0,G. Green enters the game for A. Johnson,,17-7,,
+46,5:31.0,,,17-7,,M. Belinelli enters the game for M. Kidd-Gilchrist
+47,5:14.0,G. Green makes 2-pt shot from 1 ft (assist by A. Horford),2.0,19-8,,
+48,4:51.0,,,19-8,,K. Walker misses 3-pt shot from 24 ft
+49,4:50.0,,,19-8,,Offensive rebound by C. Zeller
+50,4:45.0,,,19-8,,M. Belinelli misses 3-pt shot from 24 ft
+51,4:45.0,,,19-8,,Offensive rebound by Team
+52,4:45.0,,,19-8,,S. Hawes enters the game for C. Zeller
+53,4:37.0,,,19-8,,Turnover by K. Walker (lost ball)
+54,4:25.0,J. Crowder misses 3-pt shot from 24 ft,,19-8,,
+55,4:24.0,,,19-8,,Defensive rebound by K. Walker
+56,4:04.0,,,19-8,,S. Hawes misses 2-pt shot from 15 ft
+57,4:03.0,Defensive rebound by A. Bradley,,19-8,,
+58,3:56.0,A. Horford makes 2-pt shot from 1 ft (assist by I. Thomas),2.0,21-8,,
+59,3:36.0,,,21-8,,K. Walker misses 3-pt shot from 25 ft (block by A. Horford)
+60,3:35.0,Defensive rebound by J. Crowder,,21-8,,
+61,3:30.0,A. Bradley misses 2-pt shot from 19 ft,,21-8,,
+62,3:29.0,,,21-8,,Defensive rebound by Team
+63,3:29.0,T. Rozier enters the game for I. Thomas,,21-8,,
+64,3:22.0,Personal foul by A. Bradley (drawn by K. Walker),,21-8,,
+65,3:22.0,,,21-9,1.0,K. Walker makes free throw 1 of 2
+66,3:22.0,,,21-10,1.0,K. Walker makes free throw 2 of 2
+67,3:22.0,T. Zeller enters the game for A. Horford,,21-8,,
+68,3:22.0,,,21-9,,F. Kaminsky enters the game for M. Williams
+69,3:11.0,G. Green misses 3-pt shot from 25 ft,,21-10,,
+70,3:09.0,,,21-10,,Defensive rebound by N. Batum
+71,3:01.0,,,21-10,,S. Hawes misses 2-pt shot from 4 ft (block by T. Zeller)
+72,2:59.0,,,21-10,,Offensive rebound by S. Hawes
+73,2:57.0,,,21-10,,S. Hawes misses 2-pt shot from 6 ft
+74,2:55.0,Defensive rebound by J. Crowder,,21-10,,
+75,2:47.0,,,21-10,,Personal foul by N. Batum (drawn by T. Zeller)
+76,2:47.0,Boston full timeout,,21-10,,
+77,2:47.0,,,21-10,,R. Sessions enters the game for K. Walker
+78,2:41.0,T. Zeller makes 2-pt shot at rim (assist by A. Bradley),2.0,23-10,,
+79,2:31.0,,,23-12,2.0,N. Batum makes 2-pt shot from 16 ft (assist by R. Sessions)
+80,2:03.0,A. Bradley makes 3-pt shot from 23 ft (assist by J. Crowder),3.0,26-12,,
+81,1:50.0,,,26-12,,Shooting foul by T. Zeller (drawn by F. Kaminsky)
+82,1:50.0,,,26-13,1.0,F. Kaminsky makes free throw 1 of 2
+83,1:50.0,,,26-14,1.0,F. Kaminsky makes free throw 2 of 2
+84,1:50.0,,,26-13,,J. Lamb enters the game for N. Batum
+85,1:34.0,Shooting foul by R. Sessions (drawn by G. Green),,26-14,,
+86,1:34.0,G. Green makes free throw 1 of 2,1.0,27-14,,
+87,1:34.0,G. Green makes free throw 2 of 2,1.0,28-14,,
+88,1:13.0,,,28-14,,J. Lamb misses 3-pt shot from 25 ft
+89,1:12.0,Defensive rebound by A. Bradley,,28-14,,
+90,1:05.0,Turnover by G. Green (lost ball; steal by J. Lamb),,28-14,,
+91,0:59.0,,,28-16,2.0,R. Sessions makes 2-pt shot from 1 ft (assist by F. Kaminsky)
+92,0:41.0,Turnover by J. Crowder (bad pass; steal by S. Hawes),,28-16,,
+93,0:31.0,,,28-19,3.0,F. Kaminsky makes 3-pt shot from 26 ft (assist by M. Belinelli)
+94,0:10.0,T. Rozier misses 2-pt shot from 1 ft,,28-19,,
+95,0:09.0,,,28-19,,Defensive rebound by S. Hawes
+96,0:07.0,,,28-19,,Turnover by S. Hawes (bad pass; steal by A. Bradley)
+97,0:02.0,J. Crowder misses 3-pt shot from 25 ft,,28-19,,
+98,0:01.0,,,28-19,,Defensive rebound by J. Lamb
+99,0:00.0,,,28-19,,J. Lamb misses 3-pt shot from 25 ft
+100,0:00.0,,,28-19,,Offensive rebound by Team
+101,0:00.0,End of 1st quarter,,,,
+102,2nd Q,,,,,
+103,Time,Boston,,Score,,Charlotte
+104,12:00.0,Start of 2nd quarter,,,,
+105,11:46.0,,,28-19,,Personal foul by R. Sessions (drawn by T. Zeller)
+106,11:33.0,G. Green misses 2-pt shot from 18 ft,,28-19,,
+107,11:31.0,,,28-19,,Defensive rebound by R. Sessions
+108,11:14.0,,,28-21,2.0,J. Lamb makes 2-pt shot at rim (assist by S. Hawes)
+109,11:14.0,,,28-21,,Shooting foul by J. Brown (drawn by J. Lamb)
+110,11:14.0,,,28-21,,J. Lamb misses free throw 1 of 1
+111,11:12.0,Defensive rebound by T. Zeller,,28-21,,
+112,11:04.0,Offensive foul by T. Rozier,,28-21,,
+113,11:04.0,Turnover by T. Rozier (offensive foul),,28-21,,
+114,10:53.0,,,28-21,,J. Lamb misses 2-pt shot from 19 ft
+115,10:51.0,Defensive rebound by J. Jerebko,,28-21,,
+116,10:44.0,T. Rozier misses 3-pt shot from 25 ft,,28-21,,
+117,10:40.0,,,28-21,,Defensive rebound by M. Belinelli
+118,10:25.0,,,28-21,,S. Hawes misses 2-pt shot from 8 ft
+119,10:24.0,,,28-21,,Offensive rebound by S. Hawes
+120,10:15.0,,,28-21,,Shooting foul by T. Zeller (drawn by R. Sessions)
+121,10:15.0,,,28-22,1.0,R. Sessions makes free throw 1 of 2
+122,10:15.0,,,28-23,1.0,R. Sessions makes free throw 2 of 2
+123,10:15.0,I. Thomas enters the game for G. Green,,28-22,,
+124,10:03.0,Turnover by I. Thomas (bad pass; steal by S. Hawes),,28-23,,
+125,9:48.0,,,28-25,2.0,M. Belinelli makes 2-pt shot from 19 ft (assist by R. Sessions)
+126,9:32.0,Turnover by T. Rozier (traveling),,28-25,,
+127,9:14.0,,,28-27,2.0,J. Lamb makes 2-pt shot from 17 ft (assist by S. Hawes)
+128,9:01.0,I. Thomas misses 2-pt shot from 1 ft,,28-27,,
+129,9:00.0,,,28-27,,Defensive rebound by R. Sessions
+130,8:48.0,,,28-27,,R. Sessions misses 2-pt shot from 15 ft
+131,8:48.0,,,28-27,,Offensive rebound by Team
+132,8:48.0,Loose ball foul by I. Thomas (drawn by S. Hawes),,28-27,,
+133,8:48.0,Official timeout,,28-27,,
+134,8:48.0,A. Johnson enters the game for T. Zeller,,28-27,,
+135,8:37.0,,,28-27,,F. Kaminsky misses 2-pt shot from 8 ft
+136,8:35.0,Defensive rebound by T. Rozier,,28-27,,
+137,8:21.0,I. Thomas misses 2-pt shot from 19 ft,,28-27,,
+138,8:20.0,,,28-27,,Defensive rebound by F. Kaminsky
+139,8:09.0,,,28-27,,F. Kaminsky misses 2-pt shot from 6 ft
+140,8:08.0,Defensive rebound by I. Thomas,,28-27,,
+141,7:55.0,T. Rozier makes 2-pt shot from 18 ft (assist by A. Johnson),2.0,30-27,,
+142,7:48.0,,,30-27,,M. Belinelli misses 2-pt shot from 20 ft
+143,7:46.0,Defensive rebound by A. Johnson,,30-27,,
+144,7:30.0,J. Brown makes 2-pt shot from 8 ft,2.0,32-27,,
+145,7:07.0,,,32-29,2.0,S. Hawes makes 2-pt shot from 2 ft (assist by F. Kaminsky)
+146,6:49.0,J. Brown misses 2-pt shot from 7 ft,,32-29,,
+147,6:48.0,,,32-29,,Defensive rebound by R. Sessions
+148,6:39.0,,,32-29,,R. Sessions misses 2-pt shot from 1 ft
+149,6:37.0,,,32-29,,Offensive rebound by S. Hawes
+150,6:37.0,,,32-31,2.0,S. Hawes makes 2-pt shot at rim
+151,6:17.0,A. Johnson misses 3-pt shot from 25 ft,,32-31,,
+152,6:14.0,Offensive rebound by J. Brown,,32-31,,
+153,6:14.0,J. Brown misses 2-pt shot from 1 ft (block by S. Hawes),,32-31,,
+154,6:10.0,,,32-31,,Defensive rebound by J. Lamb
+155,6:02.0,Personal foul by J. Jerebko (drawn by R. Sessions),,32-31,,
+156,6:02.0,A. Horford enters the game for T. Rozier,,32-31,,
+157,6:02.0,J. Crowder enters the game for J. Jerebko,,32-31,,
+158,6:02.0,A. Bradley enters the game for J. Brown,,32-31,,
+159,6:02.0,,,32-31,,M. Williams enters the game for S. Hawes
+160,5:54.0,,,32-31,,J. Lamb misses 3-pt shot from 26 ft
+161,5:53.0,Defensive rebound by A. Bradley,,32-31,,
+162,5:45.0,I. Thomas makes 2-pt shot from 1 ft,2.0,34-31,,
+163,5:35.0,Def 3 sec tech foul by A. Johnson,,34-31,,
+164,5:35.0,,,34-31,,Charlotte full timeout
+165,5:35.0,,,34-32,1.0,J. Lamb makes technical free throw
+166,5:35.0,,,34-31,,M. Kidd-Gilchrist enters the game for M. Belinelli
+167,5:35.0,,,34-31,,K. Walker enters the game for R. Sessions
+168,5:17.0,,,34-32,,J. Lamb misses 3-pt shot from 23 ft
+169,5:16.0,Defensive rebound by A. Horford,,34-32,,
+170,4:55.0,A. Bradley misses 2-pt shot from 4 ft (block by M. Williams),,34-32,,
+171,4:53.0,,,34-32,,Defensive rebound by J. Lamb
+172,4:40.0,,,34-32,,K. Walker misses 2-pt shot from 3 ft (block by J. Crowder)
+173,4:40.0,Defensive rebound by J. Crowder,,34-32,,
+174,4:40.0,,,34-32,,Personal foul by K. Walker (drawn by J. Crowder)
+175,4:40.0,,,34-32,,N. Batum enters the game for J. Lamb
+176,4:40.0,,,34-32,,C. Zeller enters the game for F. Kaminsky
+177,4:25.0,I. Thomas makes 2-pt shot from 15 ft,2.0,36-32,,
+178,4:11.0,Personal foul by I. Thomas (drawn by K. Walker),,36-32,,
+179,4:11.0,,,36-32,,K. Walker misses free throw 1 of 2
+180,4:11.0,,,36-32,,Offensive rebound by Team
+181,4:11.0,,,36-33,1.0,K. Walker makes free throw 2 of 2
+182,3:57.0,Turnover by I. Thomas (bad pass; steal by K. Walker),,36-33,,
+183,3:53.0,,,36-33,,Shooting foul by A. Bradley (drawn by M. Williams)
+184,3:53.0,,,36-33,,M. Williams misses free throw 1 of 2
+185,3:53.0,,,36-33,,Offensive rebound by Team
+186,3:53.0,,,36-34,1.0,M. Williams makes free throw 2 of 2
+187,3:40.0,A. Bradley makes 3-pt shot from 25 ft (assist by A. Horford),3.0,39-34,,
+188,3:27.0,,,39-34,,K. Walker misses 2-pt shot from 2 ft
+189,3:25.0,,,39-34,,Offensive rebound by M. Kidd-Gilchrist
+190,3:25.0,,,39-34,,M. Kidd-Gilchrist misses 2-pt shot from 1 ft (block by J. Crowder)
+191,3:23.0,Defensive rebound by A. Bradley,,39-34,,
+192,3:16.0,I. Thomas misses 3-pt shot from 24 ft,,39-34,,
+193,3:15.0,Offensive rebound by A. Johnson,,39-34,,
+194,3:15.0,A. Johnson makes 2-pt shot from 1 ft,2.0,41-34,,
+195,2:58.0,,,41-34,,N. Batum misses 2-pt shot from 22 ft
+196,2:57.0,Defensive rebound by J. Crowder,,41-34,,
+197,2:49.0,J. Crowder misses 3-pt shot from 25 ft,,41-34,,
+198,2:48.0,,,41-34,,Defensive rebound by C. Zeller
+199,2:39.0,,,41-34,,Turnover by K. Walker (lost ball; steal by J. Crowder)
+200,2:32.0,J. Crowder misses 2-pt shot from 11 ft,,41-34,,
+201,2:30.0,,,41-34,,Defensive rebound by M. Williams
+202,2:25.0,,,41-34,,Charlotte full timeout
+203,2:25.0,Boston full timeout,,41-34,,
+204,2:13.0,,,41-36,2.0,M. Kidd-Gilchrist makes 2-pt shot from 17 ft
+205,1:53.0,Boston full timeout,,41-36,,
+206,1:52.0,Flagrant foul type 1 by A. Johnson (drawn by C. Zeller),,41-36,,
+207,1:52.0,Turnover by A. Johnson (offensive foul),,41-36,,
+208,1:52.0,,,41-37,1.0,C. Zeller makes flagrant free throw 1 of 2
+209,1:52.0,,,41-38,1.0,C. Zeller makes flagrant free throw 2 of 2
+210,1:43.0,,,41-38,,Offensive foul by C. Zeller
+211,1:43.0,,,41-38,,Turnover by C. Zeller (offensive foul)
+212,1:29.0,A. Bradley misses 3-pt shot from 24 ft,,41-38,,
+213,1:28.0,,,41-38,,Defensive rebound by C. Zeller
+214,1:22.0,,,41-38,,M. Williams misses 3-pt shot from 27 ft
+215,1:20.0,Defensive rebound by A. Bradley,,41-38,,
+216,1:08.0,Turnover by J. Crowder (bad pass; steal by M. Kidd-Gilchrist),,41-38,,
+217,1:05.0,,,41-38,,Shooting foul by J. Crowder (drawn by M. Kidd-Gilchrist)
+218,1:05.0,,,41-39,1.0,M. Kidd-Gilchrist makes free throw 1 of 2
+219,1:05.0,,,41-39,,M. Kidd-Gilchrist misses free throw 2 of 2
+220,1:05.0,J. Mickey enters the game for A. Johnson,,41-39,,
+221,1:03.0,Defensive rebound by J. Crowder,,41-39,,
+222,0:49.0,J. Crowder misses 3-pt shot from 26 ft,,41-39,,
+223,0:48.0,,,41-39,,Defensive rebound by C. Zeller
+224,0:32.0,,,41-39,,Shooting foul by A. Bradley (drawn by M. Kidd-Gilchrist)
+225,0:32.0,,,41-40,1.0,M. Kidd-Gilchrist makes free throw 1 of 2
+226,0:32.0,,,41-41,1.0,M. Kidd-Gilchrist makes free throw 2 of 2
+227,0:12.0,A. Bradley makes 3-pt shot from 24 ft,3.0,44-41,,
+228,0:00.0,,,44-41,,Turnover by K. Walker (bad pass)
+229,0:00.0,End of 2nd quarter,,,,
+230,3rd Q,,,,,
+231,Time,Boston,,Score,,Charlotte
+232,12:00.0,Start of 3rd quarter,,,,
+233,11:46.0,A. Bradley misses 3-pt shot from 24 ft,,44-41,,
+234,11:44.0,,,44-41,,Defensive rebound by M. Williams
+235,11:28.0,,,44-41,,Turnover by N. Batum (bad pass)
+236,11:12.0,A. Johnson misses 2-pt shot from 1 ft (block by N. Batum),,44-41,,
+237,11:11.0,Offensive rebound by A. Bradley,,44-41,,
+238,11:01.0,A. Horford misses 2-pt shot from 10 ft,,44-41,,
+239,11:00.0,,,44-41,,Defensive rebound by C. Zeller
+240,10:49.0,,,44-41,,C. Zeller misses 2-pt shot from 20 ft
+241,10:47.0,Defensive rebound by A. Johnson,,44-41,,
+242,10:39.0,I. Thomas misses 3-pt shot from 25 ft,,44-41,,
+243,10:38.0,,,44-41,,Defensive rebound by C. Zeller
+244,10:22.0,,,44-41,,N. Batum misses 2-pt shot from 10 ft
+245,10:20.0,Defensive rebound by J. Crowder,,44-41,,
+246,10:11.0,J. Crowder makes 3-pt shot from 24 ft (assist by I. Thomas),3.0,47-41,,
+247,9:53.0,Personal foul by J. Crowder (drawn by M. Kidd-Gilchrist),,47-41,,
+248,9:43.0,,,47-41,,M. Kidd-Gilchrist misses 2-pt shot from 2 ft (block by J. Crowder)
+249,9:43.0,Defensive rebound by Team,,47-41,,
+250,9:36.0,I. Thomas misses 2-pt shot from 2 ft (block by C. Zeller),,47-41,,
+251,9:36.0,Offensive rebound by Team,,47-41,,
+252,9:33.0,A. Bradley makes 2-pt shot from 1 ft (assist by J. Crowder),2.0,49-41,,
+253,9:19.0,,,49-44,3.0,M. Williams makes 3-pt shot from 25 ft (assist by N. Batum)
+254,9:13.0,,,49-44,,Personal foul by M. Williams (drawn by A. Horford)
+255,8:58.0,A. Horford misses 2-pt shot from 7 ft,,49-44,,
+256,8:58.0,Jump ball: A. Johnson vs. C. Zeller (A. Bradley gains possession),,,,
+257,8:58.0,Offensive rebound by Team,,49-44,,
+258,8:49.0,A. Bradley misses 2-pt shot from 21 ft,,49-44,,
+259,8:47.0,,,49-44,,Defensive rebound by C. Zeller
+260,8:42.0,,,49-44,,N. Batum misses 3-pt shot from 25 ft
+261,8:41.0,Defensive rebound by A. Johnson,,49-44,,
+262,8:37.0,I. Thomas misses 2-pt shot from 1 ft (block by C. Zeller),,49-44,,
+263,8:37.0,Offensive rebound by Team,,49-44,,
+264,8:35.0,Turnover by J. Crowder (bad pass; steal by K. Walker),,49-44,,
+265,8:32.0,,,49-44,,Turnover by K. Walker (bad pass; steal by J. Crowder)
+266,8:31.0,I. Thomas makes 2-pt shot at rim (assist by J. Crowder),2.0,51-44,,
+267,8:31.0,Violation by Team (jump ball),,51-44,,
+268,8:17.0,,,51-46,2.0,C. Zeller makes 2-pt shot at rim (assist by K. Walker)
+269,8:05.0,Shooting foul by C. Zeller (drawn by I. Thomas),,51-46,,
+270,8:05.0,I. Thomas misses free throw 1 of 2,,51-46,,
+271,8:05.0,Offensive rebound by Team,,51-46,,
+272,8:05.0,I. Thomas misses free throw 2 of 2,,51-46,,
+273,8:04.0,Offensive rebound by Team,,51-46,,
+274,7:49.0,J. Crowder makes 3-pt shot from 24 ft (assist by A. Bradley),3.0,54-46,,
+275,7:34.0,,,54-48,2.0,M. Kidd-Gilchrist makes 2-pt shot from 2 ft (assist by N. Batum)
+276,7:32.0,,,54-48,,Technical foul by Team
+277,7:32.0,I. Thomas makes technical free throw,1.0,55-48,,
+278,7:21.0,A. Horford makes 3-pt shot from 25 ft (assist by I. Thomas),3.0,58-48,,
+279,7:06.0,,,58-50,2.0,K. Walker makes 2-pt shot from 1 ft
+280,6:55.0,I. Thomas misses 2-pt shot from 3 ft,,58-50,,
+281,6:54.0,,,58-50,,Defensive rebound by Team
+282,6:54.0,Loose ball foul by A. Johnson (drawn by K. Walker),,58-50,,
+283,6:41.0,,,58-53,3.0,K. Walker makes 3-pt shot from 25 ft (assist by M. Williams)
+284,6:39.0,Boston full timeout,,58-53,,
+285,6:39.0,J. Mickey enters the game for A. Johnson,,58-53,,
+286,6:14.0,I. Thomas misses 3-pt shot from 23 ft,,58-53,,
+287,6:13.0,,,58-53,,Defensive rebound by N. Batum
+288,5:57.0,,,58-53,,M. Williams misses 3-pt shot from 25 ft
+289,5:56.0,Defensive rebound by Team,,58-53,,
+290,5:46.0,J. Mickey misses 2-pt shot from 8 ft,,58-53,,
+291,5:44.0,,,58-53,,Defensive rebound by C. Zeller
+292,5:36.0,,,58-56,3.0,M. Williams makes 3-pt shot from 24 ft (assist by C. Zeller)
+293,5:20.0,I. Thomas makes 2-pt shot from 13 ft,2.0,60-56,,
+294,4:59.0,,,60-59,3.0,K. Walker makes 3-pt shot from 25 ft (assist by N. Batum)
+295,4:43.0,I. Thomas misses 3-pt shot from 24 ft,,60-59,,
+296,4:42.0,,,60-59,,Defensive rebound by M. Kidd-Gilchrist
+297,4:35.0,,,60-59,,S. Hawes enters the game for C. Zeller
+298,4:35.0,,,60-59,,M. Belinelli enters the game for M. Kidd-Gilchrist
+299,4:29.0,,,60-59,,N. Batum misses 3-pt shot from 27 ft
+300,4:28.0,Defensive rebound by A. Bradley,,60-59,,
+301,4:05.0,A. Horford misses 2-pt shot from 7 ft,,60-59,,
+302,4:05.0,Offensive rebound by Team,,60-59,,
+303,4:05.0,,,60-59,,Loose ball foul by M. Belinelli (drawn by J. Mickey)
+304,4:05.0,G. Green enters the game for A. Bradley,,60-59,,
+305,3:47.0,A. Horford makes 2-pt shot from 18 ft,2.0,62-59,,
+306,3:26.0,,,62-59,,Shooting foul by J. Crowder (drawn by N. Batum)
+307,3:26.0,,,62-60,1.0,N. Batum makes free throw 1 of 2
+308,3:26.0,,,62-61,1.0,N. Batum makes free throw 2 of 2
+309,3:26.0,,,62-60,,F. Kaminsky enters the game for M. Williams
+310,3:26.0,J. Brown enters the game for J. Crowder,,62-60,,
+311,3:15.0,I. Thomas makes 2-pt shot from 1 ft,2.0,64-61,,
+312,3:01.0,,,64-61,,Shooting foul by A. Horford (drawn by K. Walker)
+313,3:01.0,,,64-62,1.0,K. Walker makes free throw 1 of 2
+314,3:01.0,,,64-63,1.0,K. Walker makes free throw 2 of 2
+315,2:50.0,Shooting foul by N. Batum (drawn by A. Horford),,64-63,,
+316,2:50.0,,,64-63,,Charlotte full timeout
+317,2:50.0,A. Horford makes free throw 1 of 2,1.0,65-63,,
+318,2:50.0,A. Horford misses free throw 2 of 2,,65-63,,
+319,2:50.0,,,64-63,,R. Sessions enters the game for K. Walker
+320,2:48.0,,,65-63,,Defensive rebound by F. Kaminsky
+321,2:31.0,,,65-63,,S. Hawes misses 2-pt shot from 17 ft
+322,2:30.0,Defensive rebound by A. Horford,,65-63,,
+323,2:08.0,A. Horford misses 2-pt shot from 17 ft,,65-63,,
+324,2:07.0,,,65-63,,Defensive rebound by N. Batum
+325,1:59.0,,,65-63,,Shooting foul by G. Green (drawn by M. Belinelli)
+326,1:59.0,,,65-64,1.0,M. Belinelli makes free throw 1 of 2
+327,1:59.0,,,65-65,1.0,M. Belinelli makes free throw 2 of 2
+328,1:59.0,J. Jerebko enters the game for A. Horford,,65-64,,
+329,1:42.0,J. Brown makes 2-pt shot from 1 ft (assist by J. Mickey),2.0,67-65,,
+330,1:42.0,Shooting foul by F. Kaminsky (drawn by J. Brown),,67-65,,
+331,1:42.0,J. Brown makes free throw 1 of 1,1.0,68-65,,
+332,1:42.0,T. Rozier enters the game for I. Thomas,,67-65,,
+333,1:27.0,,,68-67,2.0,S. Hawes makes 2-pt shot at rim (assist by N. Batum)
+334,1:12.0,J. Mickey misses 2-pt shot from 1 ft (block by N. Batum),,68-67,,
+335,1:11.0,Offensive rebound by J. Mickey,,68-67,,
+336,1:11.0,,,68-67,,Personal foul by R. Sessions (drawn by J. Mickey)
+337,1:11.0,J. Mickey makes free throw 1 of 2,1.0,69-67,,
+338,1:11.0,J. Mickey misses free throw 2 of 2,,69-67,,
+339,1:10.0,,,69-67,,Defensive rebound by N. Batum
+340,1:01.0,,,69-67,,N. Batum misses 3-pt shot from 25 ft
+341,1:00.0,Defensive rebound by J. Mickey,,69-67,,
+342,0:50.0,J. Mickey makes 2-pt shot at rim (assist by G. Green),2.0,71-67,,
+343,0:40.0,,,71-70,3.0,R. Sessions makes 3-pt shot from 25 ft (assist by S. Hawes)
+344,0:28.0,J. Brown misses 2-pt shot from 18 ft,,71-70,,
+345,0:27.0,,,71-70,,Defensive rebound by F. Kaminsky
+346,0:08.0,,,71-72,2.0,N. Batum makes 2-pt shot from 7 ft
+347,0:00.0,G. Green misses 3-pt shot from 27 ft,,71-72,,
+348,0:00.0,Offensive rebound by Team,,71-72,,
+349,0:00.0,End of 3rd quarter,,,,
+350,4th Q,,,,,
+351,Time,Boston,,Score,,Charlotte
+352,12:00.0,Start of 4th quarter,,,,
+353,11:41.0,,,71-74,2.0,K. Walker makes 2-pt shot at rim (assist by S. Hawes)
+354,11:21.0,Turnover by J. Jerebko (lost ball; steal by M. Belinelli),,71-74,,
+355,11:21.0,Personal foul by A. Bradley (drawn by K. Walker),,71-74,,
+356,11:10.0,,,71-74,,M. Belinelli misses 2-pt shot from 21 ft
+357,11:09.0,Defensive rebound by A. Bradley,,71-74,,
+358,10:57.0,A. Bradley makes 2-pt shot from 19 ft,2.0,73-74,,
+359,10:35.0,,,73-74,,F. Kaminsky misses 2-pt shot from 10 ft
+360,10:34.0,Defensive rebound by T. Zeller,,73-74,,
+361,10:22.0,A. Bradley makes 3-pt shot from 24 ft (assist by T. Zeller),3.0,76-74,,
+362,10:06.0,,,76-74,,M. Belinelli misses 3-pt shot from 25 ft
+363,10:05.0,Defensive rebound by T. Zeller,,76-74,,
+364,9:42.0,J. Brown makes 2-pt shot from 2 ft (assist by J. Jerebko),2.0,78-74,,
+365,9:22.0,Personal foul by J. Jerebko (drawn by R. Sessions),,78-74,,
+366,9:06.0,,,78-76,2.0,F. Kaminsky makes 2-pt shot from 1 ft (assist by R. Sessions)
+367,8:48.0,Offensive foul by J. Jerebko,,78-76,,
+368,8:48.0,Turnover by J. Jerebko (offensive foul),,78-76,,
+369,8:48.0,Official timeout,,78-76,,
+370,8:48.0,Technical foul by Team,,78-76,,
+371,8:48.0,,,78-77,1.0,M. Belinelli makes technical free throw
+372,8:33.0,,,78-77,,M. Belinelli misses 3-pt shot from 24 ft
+373,8:32.0,Defensive rebound by T. Zeller,,78-77,,
+374,8:16.0,A. Bradley makes 2-pt shot from 13 ft,2.0,80-77,,
+375,7:56.0,,,80-77,,S. Hawes misses 2-pt shot from 18 ft
+376,7:55.0,Defensive rebound by A. Bradley,,80-77,,
+377,7:47.0,A. Bradley misses 2-pt shot from 17 ft,,80-77,,
+378,7:46.0,,,80-77,,Defensive rebound by S. Hawes
+379,7:37.0,,,80-77,,K. Walker misses 3-pt shot from 26 ft
+380,7:34.0,Defensive rebound by T. Rozier,,80-77,,
+381,7:22.0,A. Bradley makes 3-pt shot from 24 ft (assist by T. Rozier),3.0,83-77,,
+382,6:58.0,,,83-77,,F. Kaminsky misses 3-pt shot from 26 ft
+383,6:56.0,Defensive rebound by Team,,83-77,,
+384,6:56.0,,,83-77,,M. Williams enters the game for S. Hawes
+385,6:42.0,A. Bradley misses 2-pt shot from 20 ft,,83-77,,
+386,6:41.0,,,83-77,,Defensive rebound by K. Walker
+387,6:30.0,Personal foul by T. Zeller (drawn by M. Belinelli),,83-77,,
+388,6:30.0,I. Thomas enters the game for A. Bradley,,83-77,,
+389,6:30.0,A. Horford enters the game for T. Zeller,,83-77,,
+390,6:24.0,,,83-77,,Turnover by F. Kaminsky (lost ball; steal by A. Horford)
+391,6:04.0,A. Horford makes 2-pt shot from 21 ft (assist by T. Rozier),2.0,85-77,,
+392,5:58.0,,,85-77,,Charlotte full timeout
+393,5:58.0,J. Crowder enters the game for J. Brown,,85-77,,
+394,5:58.0,,,85-77,,C. Zeller enters the game for M. Belinelli
+395,5:58.0,,,85-77,,M. Kidd-Gilchrist enters the game for F. Kaminsky
+396,5:58.0,,,85-77,,N. Batum enters the game for R. Sessions
+397,5:40.0,,,85-79,2.0,C. Zeller makes 2-pt shot from 5 ft (assist by N. Batum)
+398,5:20.0,I. Thomas makes 2-pt shot from 1 ft,2.0,87-79,,
+399,5:00.0,,,87-79,,C. Zeller misses 2-pt shot from 4 ft (block by A. Horford)
+400,4:57.0,Defensive rebound by J. Crowder,,87-79,,
+401,4:55.0,T. Rozier makes 2-pt shot from 1 ft (assist by J. Crowder),2.0,89-79,,
+402,4:55.0,Shooting foul by C. Zeller (drawn by T. Rozier),,89-79,,
+403,4:55.0,T. Rozier makes free throw 1 of 1,1.0,90-79,,
+404,4:41.0,,,90-79,,M. Williams misses 3-pt shot from 26 ft
+405,4:40.0,Defensive rebound by T. Rozier,,90-79,,
+406,4:22.0,J. Jerebko makes 3-pt shot from 25 ft (assist by I. Thomas),3.0,93-79,,
+407,4:08.0,,,93-79,,Shooting foul by J. Crowder (drawn by N. Batum)
+408,4:08.0,Technical foul by J. Crowder (drawn by N. Batum),,93-79,,
+409,4:08.0,,,93-80,1.0,N. Batum makes technical free throw
+410,4:08.0,,,93-81,1.0,N. Batum makes free throw 1 of 3
+411,4:08.0,,,93-82,1.0,N. Batum makes free throw 2 of 3
+412,4:08.0,,,93-82,,N. Batum misses free throw 3 of 3
+413,4:08.0,A. Bradley enters the game for J. Crowder,,93-82,,
+414,4:08.0,,,93-82,,F. Kaminsky enters the game for C. Zeller
+415,4:07.0,Defensive rebound by J. Jerebko,,93-82,,
+416,3:45.0,A. Horford makes 2-pt shot from 1 ft (assist by I. Thomas),2.0,95-82,,
+417,3:26.0,,,95-84,2.0,K. Walker makes 2-pt shot from 17 ft
+418,3:09.0,Shooting foul by M. Williams (drawn by I. Thomas),,95-84,,
+419,3:09.0,I. Thomas misses free throw 1 of 2,,95-84,,
+420,3:09.0,Offensive rebound by Team,,95-84,,
+421,3:09.0,I. Thomas makes free throw 2 of 2,1.0,96-84,,
+422,2:59.0,,,96-86,2.0,F. Kaminsky makes 2-pt shot at rim (assist by K. Walker)
+423,2:34.0,I. Thomas misses 3-pt shot from 25 ft,,96-86,,
+424,2:33.0,,,96-86,,Defensive rebound by M. Kidd-Gilchrist
+425,2:16.0,,,96-88,2.0,K. Walker makes 2-pt shot from 1 ft (assist by F. Kaminsky)
+426,2:16.0,Boston full timeout,,96-88,,
+427,2:16.0,J. Crowder enters the game for T. Rozier,,96-88,,
+428,2:16.0,A. Johnson enters the game for J. Jerebko,,96-88,,
+429,1:53.0,I. Thomas misses 2-pt shot from 1 ft,,96-88,,
+430,1:51.0,,,96-88,,Defensive rebound by M. Kidd-Gilchrist
+431,1:45.0,,,96-90,2.0,K. Walker makes 2-pt shot from 1 ft
+432,1:31.0,I. Thomas makes 2-pt shot at rim,2.0,98-90,,
+433,1:08.0,,,98-90,,M. Kidd-Gilchrist misses 2-pt shot from 2 ft
+434,1:07.0,Defensive rebound by A. Horford,,98-90,,
+435,0:50.0,A. Bradley makes 3-pt shot from 25 ft (assist by I. Thomas),3.0,101-90,,
+436,0:50.0,,,101-90,,Charlotte full timeout
+437,0:50.0,J. Jerebko enters the game for A. Johnson,,101-90,,
+438,0:50.0,,,101-90,,M. Belinelli enters the game for M. Kidd-Gilchrist
+439,0:44.0,,,101-90,,N. Batum misses 3-pt shot from 23 ft
+440,0:42.0,,,101-90,,Offensive rebound by F. Kaminsky
+441,0:42.0,,,101-92,2.0,F. Kaminsky makes 2-pt shot from 1 ft
+442,0:36.0,,,101-92,,Personal take foul by M. Belinelli (drawn by I. Thomas)
+443,0:34.0,,,101-92,,Personal take foul by F. Kaminsky (drawn by I. Thomas)
+444,0:34.0,I. Thomas makes free throw 1 of 2,1.0,102-92,,
+445,0:34.0,I. Thomas makes free throw 2 of 2,1.0,103-92,,
+446,0:27.0,,,103-95,3.0,K. Walker makes 3-pt shot from 25 ft
+447,0:23.0,,,103-95,,Personal take foul by K. Walker (drawn by A. Bradley)
+448,0:23.0,A. Bradley misses free throw 1 of 2,,103-95,,
+449,0:23.0,Offensive rebound by Team,,103-95,,
+450,0:23.0,A. Bradley makes free throw 2 of 2,1.0,104-95,,
+451,0:23.0,,,104-95,,Charlotte full timeout
+452,0:23.0,T. Rozier enters the game for I. Thomas,,103-95,,
+453,0:20.0,,,104-98,3.0,K. Walker makes 3-pt shot from 23 ft
+454,0:00.0,End of 4th quarter,,,,

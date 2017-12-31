@@ -1,0 +1,494 @@
+,Time,Philadelphia,Unnamed: 2,Score,Unnamed: 4,Boston
+0,12:00.0,Start of 1st quarter,,,,
+1,12:00.0,Jump ball: N. Noel vs. T. Zeller (D. Lee gains possession),,,,
+2,11:50.0,,,0-0,,Shooting foul by H. Thompson (drawn by J. Crowder)
+3,11:50.0,,,0-1,1.0,J. Crowder makes free throw 1 of 2
+4,11:50.0,,,0-2,1.0,J. Crowder makes free throw 2 of 2
+5,11:27.0,H. Thompson misses 2-pt shot from 6 ft (block by T. Zeller),,0-2,,
+6,11:26.0,Offensive rebound by Team,,0-2,,
+7,11:26.0,Turnover by Team (shot clock),,0-2,,
+8,11:10.0,,,0-2,,D. Lee misses 2-pt shot from 4 ft
+9,11:09.0,Defensive rebound by J. Sampson,,0-2,,
+10,10:58.0,J. Sampson makes 2-pt shot from 1 ft,2.0,2-2,,
+11,10:52.0,,,2-4,2.0,T. Zeller makes 2-pt shot at rim (assist by M. Smart)
+12,10:29.0,I. Canaan makes 3-pt shot from 25 ft,3.0,5-4,,
+13,10:21.0,,,5-4,,Offensive foul by T. Zeller
+14,10:21.0,,,5-4,,Turnover by T. Zeller (offensive foul)
+15,10:00.0,J. Okafor makes 2-pt shot from 5 ft,2.0,7-4,,
+16,9:53.0,,,7-4,,M. Smart misses 2-pt shot from 4 ft (block by J. Okafor)
+17,9:51.0,,,7-4,,Offensive rebound by J. Crowder
+18,9:48.0,,,7-4,,T. Zeller misses 2-pt shot from 17 ft
+19,9:47.0,Defensive rebound by I. Canaan,,7-4,,
+20,9:39.0,,,7-4,,Shooting block foul by D. Lee (drawn by J. Sampson)
+21,9:39.0,J. Sampson makes free throw 1 of 2,1.0,8-4,,
+22,9:39.0,J. Sampson makes free throw 2 of 2,1.0,9-4,,
+23,9:27.0,,,9-4,,Turnover by J. Crowder (bad pass; steal by I. Canaan)
+24,9:22.0,I. Canaan misses 2-pt shot from 1 ft (block by M. Smart),,9-4,,
+25,9:20.0,Offensive rebound by J. Okafor,,9-4,,
+26,9:17.0,J. Okafor makes 2-pt shot at rim,2.0,11-4,,
+27,9:06.0,,,11-4,,D. Lee misses 2-pt shot from 2 ft (block by N. Noel)
+28,9:05.0,Defensive rebound by N. Noel,,11-4,,
+29,9:02.0,,,11-4,,Personal foul by M. Smart (drawn by N. Noel)
+30,8:46.0,H. Thompson misses 2-pt shot from 19 ft,,11-4,,
+31,8:45.0,,,11-4,,Defensive rebound by T. Zeller
+32,8:42.0,,,11-4,,Shooting foul by J. Okafor (drawn by D. Lee)
+33,8:42.0,,,11-5,1.0,D. Lee makes free throw 1 of 2
+34,8:42.0,,,11-6,1.0,D. Lee makes free throw 2 of 2
+35,8:24.0,J. Okafor makes 2-pt shot from 2 ft,2.0,13-6,,
+36,7:59.0,,,13-6,,T. Zeller misses 2-pt shot from 16 ft
+37,7:59.0,Defensive rebound by N. Noel,,13-6,,
+38,7:47.0,N. Noel misses 2-pt shot from 12 ft,,13-6,,
+39,7:46.0,,,13-6,,Defensive rebound by D. Lee
+40,7:37.0,,,13-9,3.0,J. Crowder makes 3-pt shot from 26 ft (assist by D. Lee)
+41,7:21.0,J. Sampson misses 2-pt shot from 3 ft,,13-9,,
+42,7:20.0,,,13-9,,Defensive rebound by A. Bradley
+43,7:15.0,,,13-11,2.0,J. Crowder makes 2-pt shot from 2 ft (assist by A. Bradley)
+44,7:04.0,,,13-11,,Personal foul by T. Zeller (drawn by J. Okafor)
+45,6:57.0,J. Okafor makes 2-pt shot at rim,2.0,15-11,,
+46,6:48.0,,,15-11,,J. Crowder misses 3-pt shot from 26 ft
+47,6:47.0,Defensive rebound by Team,,15-11,,
+48,6:47.0,,,15-11,,J. Sullinger enters the game for T. Zeller
+49,6:21.0,J. Okafor makes 2-pt shot from 5 ft,2.0,17-11,,
+50,6:06.0,,,17-13,2.0,D. Lee makes 2-pt shot from 3 ft (assist by J. Crowder)
+51,6:01.0,Philadelphia full timeout,,17-13,,
+52,6:01.0,,,17-13,,I. Thomas enters the game for M. Smart
+53,5:52.0,J. Okafor misses 2-pt shot from 15 ft,,17-13,,
+54,5:51.0,,,17-13,,Defensive rebound by J. Sullinger
+55,5:30.0,,,17-13,,I. Thomas misses 3-pt shot from 24 ft
+56,5:30.0,Defensive rebound by N. Noel,,17-13,,
+57,5:13.0,N. Noel makes 2-pt shot from 3 ft,2.0,19-13,,
+58,4:55.0,,,19-13,,D. Lee misses 2-pt shot from 13 ft
+59,4:55.0,Defensive rebound by I. Canaan,,19-13,,
+60,4:45.0,N. Noel makes 2-pt shot from 3 ft,2.0,21-13,,
+61,4:30.0,,,21-13,,J. Sullinger misses 3-pt shot from 26 ft
+62,4:29.0,Defensive rebound by J. Sampson,,21-13,,
+63,4:07.0,Turnover by J. Okafor (lost ball; steal by A. Bradley),,21-13,,
+64,4:00.0,,,21-13,,A. Bradley misses 2-pt shot from 16 ft
+65,3:59.0,,,21-13,,Offensive rebound by D. Lee
+66,3:59.0,,,21-15,2.0,D. Lee makes 2-pt shot at rim
+67,3:38.0,H. Thompson misses 3-pt shot from 23 ft,,21-15,,
+68,3:37.0,Offensive rebound by H. Thompson,,21-15,,
+69,3:37.0,H. Thompson misses 3-pt shot from 23 ft,,21-15,,
+70,3:36.0,,,21-15,,Defensive rebound by J. Sullinger
+71,3:30.0,,,21-15,,I. Thomas misses 2-pt shot from 6 ft
+72,3:27.0,Defensive rebound by N. Noel,,21-15,,
+73,3:22.0,Turnover by I. Canaan (bad pass; steal by J. Crowder),,21-15,,
+74,3:16.0,,,21-17,2.0,A. Bradley makes 2-pt shot from 1 ft (assist by I. Thomas)
+75,2:54.0,N. Noel misses 2-pt shot from 15 ft (block by D. Lee),,21-17,,
+76,2:53.0,Offensive rebound by J. Okafor,,21-17,,
+77,2:52.0,J. Okafor misses 2-pt shot from 16 ft,,21-17,,
+78,2:51.0,Offensive rebound by N. Noel,,21-17,,
+79,2:51.0,N. Noel makes 2-pt shot at rim,2.0,23-17,,
+80,2:40.0,,,23-17,,D. Lee misses 2-pt shot from 1 ft (block by J. Okafor)
+81,2:38.0,Defensive rebound by N. Noel,,23-17,,
+82,2:31.0,I. Canaan makes 3-pt shot from 24 ft,3.0,26-17,,
+83,2:31.0,,,26-17,,Boston full timeout
+84,2:31.0,,,26-17,,E. Turner enters the game for J. Crowder
+85,2:31.0,,,26-17,,A. Johnson enters the game for D. Lee
+86,2:31.0,T. McConnell enters the game for H. Thompson,,26-17,,
+87,2:31.0,J. Grant enters the game for J. Okafor,,26-17,,
+88,2:31.0,C. Wood enters the game for J. Sampson,,26-17,,
+89,2:22.0,,,26-17,,A. Bradley misses 2-pt shot from 19 ft
+90,2:21.0,Defensive rebound by I. Canaan,,26-17,,
+91,2:13.0,C. Wood misses 2-pt shot from 2 ft (block by A. Johnson),,26-17,,
+92,2:10.0,Offensive rebound by C. Wood,,26-17,,
+93,2:08.0,N. Noel misses 2-pt shot from 16 ft,,26-17,,
+94,2:07.0,,,26-17,,Defensive rebound by A. Johnson
+95,2:04.0,,,26-17,,Turnover by E. Turner (bad pass; steal by J. Grant)
+96,1:39.0,T. McConnell misses 2-pt shot from 5 ft,,26-17,,
+97,1:38.0,,,26-17,,Defensive rebound by A. Johnson
+98,1:23.0,,,26-19,2.0,J. Sullinger makes 2-pt shot from 1 ft (assist by I. Thomas)
+99,1:00.0,N. Noel misses 2-pt shot from 12 ft,,26-19,,
+100,1:00.0,,,26-19,,Defensive rebound by E. Turner
+101,0:53.0,,,26-19,,I. Thomas misses 3-pt shot from 26 ft
+102,0:52.0,Defensive rebound by N. Noel,,26-19,,
+103,0:29.0,Turnover by I. Canaan (bad pass),,26-19,,
+104,0:29.0,R. Holmes enters the game for N. Noel,,26-19,,
+105,0:29.0,H. Thompson enters the game for I. Canaan,,26-19,,
+106,0:12.0,,,26-19,,I. Thomas misses 2-pt shot from 1 ft
+107,0:11.0,,,26-19,,Offensive rebound by Team
+108,0:11.0,Loose ball foul by R. Holmes (drawn by A. Johnson),,26-19,,
+109,0:04.0,,,26-21,2.0,J. Sullinger makes 2-pt shot from 5 ft
+110,0:00.0,End of 1st quarter,,,,
+111,2nd Q,,,,,
+112,Time,Philadelphia,,Score,,Boston
+113,12:00.0,Start of 2nd quarter,,,,
+114,11:44.0,Turnover by J. Okafor (bad pass; steal by J. Sullinger),,26-21,,
+115,11:38.0,,,26-23,2.0,J. Sullinger makes 2-pt shot at rim
+116,11:11.0,T. McConnell misses 3-pt shot from 26 ft,,26-23,,
+117,11:10.0,,,26-23,,Defensive rebound by M. Smart
+118,11:05.0,,,26-23,,Shooting foul by J. Okafor (drawn by E. Turner)
+119,11:05.0,,,26-24,1.0,E. Turner makes free throw 1 of 2
+120,11:05.0,,,26-25,1.0,E. Turner makes free throw 2 of 2
+121,10:45.0,J. Okafor makes 2-pt shot from 10 ft (assist by H. Thompson),2.0,28-25,,
+122,10:30.0,,,28-25,,Turnover by J. Sullinger (bad pass; steal by J. Grant)
+123,10:24.0,Turnover by J. Sampson (bad pass; steal by I. Thomas),,28-25,,
+124,10:17.0,,,28-25,,A. Johnson misses 2-pt shot from 2 ft
+125,10:14.0,,,28-25,,Offensive rebound by A. Johnson
+126,10:14.0,,,28-25,,A. Johnson misses 2-pt shot at rim
+127,10:13.0,Defensive rebound by J. Grant,,28-25,,
+128,10:01.0,,,28-25,,Personal foul by M. Smart (drawn by H. Thompson)
+129,10:01.0,,,28-25,,J. Jerebko enters the game for J. Sullinger
+130,9:48.0,Turnover by J. Okafor (bad pass),,28-25,,
+131,9:37.0,,,28-25,,I. Thomas misses 2-pt shot from 2 ft (block by T. McConnell)
+132,9:36.0,,,28-25,,Offensive rebound by I. Thomas
+133,9:36.0,Jump ball: J. Grant vs. I. Thomas (M. Smart gains possession),,,,
+134,9:27.0,,,28-25,,Shooting foul by J. Grant (drawn by I. Thomas)
+135,9:27.0,,,28-26,1.0,I. Thomas makes free throw 1 of 2
+136,9:27.0,C. Wood enters the game for J. Sampson,,28-26,,
+137,9:27.0,,,28-26,,I. Thomas misses free throw 2 of 2
+138,9:25.0,Defensive rebound by J. Grant,,28-26,,
+139,9:17.0,,,28-26,,Personal foul by I. Thomas (drawn by T. McConnell)
+140,9:17.0,Philadelphia full timeout,,28-26,,
+141,9:05.0,Turnover by H. Thompson (bad pass),,28-26,,
+142,8:51.0,,,28-26,,E. Turner misses 2-pt shot from 12 ft
+143,8:50.0,,,28-26,,Offensive rebound by Team
+144,8:43.0,,,28-26,,A. Johnson misses 2-pt shot from 6 ft
+145,8:42.0,,,28-26,,Offensive rebound by Team
+146,8:37.0,,,28-28,2.0,I. Thomas makes 2-pt shot from 6 ft (assist by A. Johnson)
+147,8:25.0,J. Grant misses 2-pt shot from 3 ft,,28-28,,
+148,8:24.0,,,28-28,,Defensive rebound by J. Jerebko
+149,8:23.0,,,28-30,2.0,I. Thomas makes 2-pt shot at rim (assist by J. Jerebko)
+150,8:23.0,,,28-30,,Shooting foul by H. Thompson (drawn by I. Thomas)
+151,8:23.0,N. Noel enters the game for C. Wood,,28-30,,
+152,8:23.0,,,28-31,1.0,I. Thomas makes free throw 1 of 1
+153,8:14.0,Turnover by N. Noel (offensive foul),,28-31,,
+154,8:14.0,Offensive foul by N. Noel,,28-31,,
+155,8:04.0,,,28-33,2.0,A. Johnson makes 2-pt shot at rim (assist by I. Thomas)
+156,7:55.0,T. McConnell misses 2-pt shot from 12 ft,,28-33,,
+157,7:54.0,,,28-33,,Defensive rebound by E. Turner
+158,7:45.0,,,28-33,,I. Thomas misses 3-pt shot from 25 ft
+159,7:45.0,Defensive rebound by N. Noel,,28-33,,
+160,7:38.0,H. Thompson misses 3-pt shot from 24 ft,,28-33,,
+161,7:38.0,Offensive rebound by T. McConnell,,28-33,,
+162,7:31.0,H. Thompson misses 2-pt shot from 4 ft (block by A. Johnson),,28-33,,
+163,7:31.0,Offensive rebound by Team,,28-33,,
+164,7:31.0,I. Canaan enters the game for T. McConnell,,28-33,,
+165,7:31.0,,,28-33,,J. Crowder enters the game for I. Thomas
+166,7:13.0,I. Canaan misses 3-pt shot from 29 ft,,28-33,,
+167,7:13.0,,,28-33,,Defensive rebound by J. Crowder
+168,7:02.0,,,28-33,,J. Jerebko misses 2-pt shot from 4 ft (block by N. Noel)
+169,7:00.0,Defensive rebound by J. Okafor,,28-33,,
+170,6:41.0,J. Grant misses 2-pt shot from 2 ft,,28-33,,
+171,6:40.0,,,28-33,,Defensive rebound by M. Smart
+172,6:30.0,,,28-35,2.0,E. Turner makes 2-pt shot from 10 ft (assist by J. Jerebko)
+173,6:18.0,N. Noel misses 2-pt shot from 5 ft (block by J. Jerebko),,28-35,,
+174,6:17.0,,,28-35,,Defensive rebound by Team
+175,6:17.0,R. Holmes enters the game for J. Okafor,,28-35,,
+176,6:17.0,,,28-35,,D. Lee enters the game for A. Johnson
+177,6:00.0,,,28-35,,J. Jerebko misses 2-pt shot from 4 ft
+178,5:59.0,Defensive rebound by R. Holmes,,28-35,,
+179,5:51.0,J. Grant misses 3-pt shot from 27 ft,,28-35,,
+180,5:50.0,,,28-35,,Defensive rebound by D. Lee
+181,5:40.0,,,28-38,3.0,M. Smart makes 3-pt shot from 23 ft (assist by D. Lee)
+182,5:19.0,H. Thompson misses 3-pt shot from 23 ft,,28-38,,
+183,5:18.0,Offensive rebound by J. Grant,,28-38,,
+184,5:07.0,H. Thompson misses 2-pt shot at rim,,28-38,,
+185,5:06.0,Offensive rebound by H. Thompson,,28-38,,
+186,5:06.0,H. Thompson misses 2-pt shot at rim,,28-38,,
+187,5:05.0,Offensive rebound by R. Holmes,,28-38,,
+188,5:04.0,R. Holmes makes 2-pt shot at rim,2.0,30-38,,
+189,4:45.0,,,30-38,,J. Jerebko misses 2-pt shot from 19 ft
+190,4:44.0,Defensive rebound by J. Grant,,30-38,,
+191,4:31.0,Turnover by N. Noel (lost ball; steal by M. Smart),,30-38,,
+192,4:23.0,,,30-40,2.0,J. Crowder makes 2-pt shot at rim (assist by E. Turner)
+193,4:07.0,Shooting foul by J. Jerebko (drawn by N. Noel),,30-40,,
+194,4:07.0,Official timeout,,30-40,,
+195,4:07.0,,,30-40,,T. Zeller enters the game for J. Jerebko
+196,4:07.0,N. Noel makes free throw 1 of 2,1.0,31-40,,
+197,4:07.0,N. Noel misses free throw 2 of 2,,31-40,,
+198,4:07.0,,,31-40,,Defensive rebound by J. Crowder
+199,3:55.0,Personal foul by J. Grant (drawn by J. Crowder),,31-40,,
+200,3:46.0,,,31-40,,D. Lee misses 2-pt shot from 3 ft (block by R. Holmes)
+201,3:44.0,Defensive rebound by R. Holmes,,31-40,,
+202,3:27.0,R. Holmes misses 2-pt shot from 5 ft,,31-40,,
+203,3:25.0,,,31-40,,Defensive rebound by D. Lee
+204,3:19.0,,,31-42,2.0,E. Turner makes 2-pt shot from 16 ft (assist by D. Lee)
+205,2:54.0,I. Canaan misses 3-pt shot from 23 ft,,31-42,,
+206,2:53.0,Offensive rebound by I. Canaan,,31-42,,
+207,2:51.0,I. Canaan makes 2-pt shot from 1 ft,2.0,33-42,,
+208,2:43.0,,,33-42,,Turnover by M. Smart (bad pass; steal by N. Noel)
+209,2:39.0,,,33-42,,Personal foul by M. Smart (drawn by N. Noel)
+210,2:39.0,,,33-42,,Boston full timeout
+211,2:39.0,,,33-42,,I. Thomas enters the game for T. Zeller
+212,2:39.0,,,33-42,,J. Sullinger enters the game for M. Smart
+213,2:39.0,,,33-42,,A. Bradley enters the game for E. Turner
+214,2:39.0,T. McConnell enters the game for H. Thompson,,33-42,,
+215,2:39.0,J. Okafor enters the game for R. Holmes,,33-42,,
+216,2:27.0,J. Grant misses 2-pt shot from 2 ft (block by J. Sullinger),,33-42,,
+217,2:26.0,,,33-42,,Defensive rebound by J. Crowder
+218,2:22.0,,,33-44,2.0,I. Thomas makes 2-pt shot from 1 ft (assist by J. Crowder)
+219,2:14.0,,,33-44,,Personal foul by D. Lee (drawn by N. Noel)
+220,2:14.0,N. Noel makes free throw 1 of 2,1.0,34-44,,
+221,2:14.0,N. Noel misses free throw 2 of 2,,34-44,,
+222,2:12.0,,,34-44,,Defensive rebound by J. Sullinger
+223,2:02.0,,,34-44,,Turnover by J. Crowder (bad pass; steal by N. Noel)
+224,1:56.0,J. Grant misses 2-pt shot from 11 ft,,34-44,,
+225,1:55.0,Offensive rebound by J. Okafor,,34-44,,
+226,1:52.0,,,34-44,,A. Johnson enters the game for D. Lee
+227,1:46.0,,,34-44,,Violation by J. Crowder (kicked ball)
+228,1:32.0,I. Canaan makes 2-pt shot from 2 ft,2.0,36-44,,
+229,1:16.0,,,36-46,2.0,A. Johnson makes 2-pt shot from 1 ft (assist by I. Thomas)
+230,0:59.0,Shooting foul by A. Johnson (drawn by J. Grant),,36-46,,
+231,0:59.0,J. Grant makes free throw 1 of 2,1.0,37-46,,
+232,0:59.0,J. Grant makes free throw 2 of 2,1.0,38-46,,
+233,0:49.0,,,38-46,,Turnover by I. Thomas (lost ball; steal by N. Noel)
+234,0:44.0,T. McConnell makes 2-pt shot from 1 ft (assist by N. Noel),2.0,40-46,,
+235,0:36.0,,,40-46,,J. Crowder misses 3-pt shot from 26 ft
+236,0:35.0,Defensive rebound by I. Canaan,,40-46,,
+237,0:27.0,I. Canaan misses 3-pt shot from 25 ft,,40-46,,
+238,0:26.0,,,40-46,,Defensive rebound by J. Crowder
+239,0:06.0,,,40-46,,Shooting foul by T. McConnell (drawn by I. Thomas)
+240,0:06.0,,,40-47,1.0,I. Thomas makes free throw 1 of 2
+241,0:06.0,H. Thompson enters the game for J. Grant,,40-47,,
+242,0:06.0,,,40-47,,J. Jerebko enters the game for J. Sullinger
+243,0:06.0,,,40-48,1.0,I. Thomas makes free throw 2 of 2
+244,0:03.0,Turnover by T. McConnell (lost ball),,40-48,,
+245,0:03.0,,,40-48,,Boston full timeout
+246,0:03.0,,,40-48,,M. Smart enters the game for A. Johnson
+247,0:03.0,,,40-48,,J. Sullinger enters the game for J. Jerebko
+248,0:03.0,J. Grant enters the game for J. Okafor,,40-48,,
+249,0:03.0,C. Wood enters the game for I. Canaan,,40-48,,
+250,0:03.0,J. Sampson enters the game for T. McConnell,,40-48,,
+251,0:00.0,,,40-51,3.0,M. Smart makes 3-pt shot from 26 ft (assist by J. Sullinger)
+252,0:00.0,End of 2nd quarter,,,,
+253,3rd Q,,,,,
+254,Time,Philadelphia,,Score,,Boston
+255,12:00.0,Start of 3rd quarter,,,,
+256,11:41.0,J. Okafor misses 2-pt shot from 10 ft,,40-51,,
+257,11:41.0,,,40-51,,Defensive rebound by Team
+258,11:41.0,Loose ball foul by N. Noel (drawn by J. Sullinger),,40-51,,
+259,11:27.0,,,40-51,,A. Bradley misses 2-pt shot from 19 ft
+260,11:27.0,Defensive rebound by N. Noel,,40-51,,
+261,11:10.0,J. Okafor misses 2-pt shot from 14 ft,,40-51,,
+262,11:09.0,Offensive rebound by N. Noel,,40-51,,
+263,11:09.0,Shooting foul by J. Crowder (drawn by J. Okafor),,40-51,,
+264,11:09.0,J. Okafor makes free throw 1 of 2,1.0,41-51,,
+265,11:09.0,J. Okafor makes free throw 2 of 2,1.0,42-51,,
+266,10:47.0,,,42-51,,A. Bradley misses 3-pt shot from 25 ft
+267,10:46.0,Defensive rebound by N. Noel,,42-51,,
+268,10:42.0,Turnover by J. Sampson (lost ball; steal by A. Bradley),,42-51,,
+269,10:36.0,,,42-53,2.0,J. Sullinger makes 2-pt shot from 1 ft (assist by J. Crowder)
+270,10:19.0,,,42-53,,Personal foul by A. Bradley (drawn by J. Okafor)
+271,10:11.0,N. Noel misses 2-pt shot from 6 ft,,42-53,,
+272,10:10.0,,,42-53,,Defensive rebound by J. Sullinger
+273,10:03.0,,,42-53,,Offensive charge foul by J. Crowder
+274,10:03.0,,,42-53,,Turnover by J. Crowder (offensive foul)
+275,9:43.0,Offensive charge foul by N. Noel,,42-53,,
+276,9:43.0,Turnover by N. Noel (offensive foul),,42-53,,
+277,9:30.0,,,42-55,2.0,J. Sullinger makes 2-pt shot from 17 ft (assist by M. Smart)
+278,9:16.0,I. Canaan makes 3-pt shot from 25 ft (assist by H. Thompson),3.0,45-55,,
+279,9:03.0,,,45-55,,M. Smart misses 3-pt shot from 26 ft
+280,9:02.0,Defensive rebound by N. Noel,,45-55,,
+281,8:51.0,J. Sampson makes 2-pt shot from 1 ft (assist by N. Noel),2.0,47-55,,
+282,8:39.0,,,47-55,,Turnover by D. Lee (lost ball)
+283,8:39.0,T. McConnell enters the game for J. Sampson,,47-55,,
+284,8:39.0,J. Grant enters the game for N. Noel,,47-55,,
+285,8:14.0,H. Thompson makes 3-pt shot from 24 ft (assist by T. McConnell),3.0,50-55,,
+286,8:06.0,,,50-55,,M. Smart misses 2-pt shot from 17 ft
+287,8:05.0,Defensive rebound by H. Thompson,,50-55,,
+288,7:57.0,H. Thompson misses 3-pt shot from 23 ft,,50-55,,
+289,7:57.0,Offensive rebound by J. Okafor,,50-55,,
+290,7:55.0,Turnover by J. Okafor (bad pass),,50-55,,
+291,7:55.0,,,50-55,,I. Thomas enters the game for D. Lee
+292,7:44.0,,,50-57,2.0,I. Thomas makes 2-pt shot from 1 ft
+293,7:31.0,Turnover by H. Thompson (traveling),,50-57,,
+294,7:23.0,,,50-57,,I. Thomas misses 3-pt shot from 28 ft
+295,7:22.0,Defensive rebound by J. Grant,,50-57,,
+296,7:11.0,Turnover by J. Okafor (lost ball; steal by I. Thomas),,50-57,,
+297,7:05.0,,,50-59,2.0,I. Thomas makes 2-pt shot at rim (assist by M. Smart)
+298,7:04.0,Philadelphia full timeout,,50-59,,
+299,7:04.0,,,50-59,,A. Johnson enters the game for J. Sullinger
+300,6:54.0,,,50-59,,Personal foul by J. Crowder (drawn by J. Grant)
+301,6:40.0,Turnover by Team (shot clock),,50-59,,
+302,6:28.0,,,50-59,,J. Crowder misses 2-pt shot at rim
+303,6:27.0,Defensive rebound by J. Okafor,,50-59,,
+304,6:13.0,N. Noel enters the game for J. Okafor,,50-59,,
+305,6:13.0,J. Sampson enters the game for H. Thompson,,50-59,,
+306,6:05.0,I. Canaan misses 3-pt shot from 29 ft,,50-59,,
+307,6:04.0,,,50-59,,Defensive rebound by A. Johnson
+308,5:54.0,,,50-59,,Shooting foul by N. Noel (drawn by A. Johnson)
+309,5:54.0,,,50-60,1.0,A. Johnson makes free throw 1 of 2
+310,5:54.0,,,50-61,1.0,A. Johnson makes free throw 2 of 2
+311,5:34.0,Shooting foul by A. Johnson (drawn by N. Noel),,50-61,,
+312,5:34.0,N. Noel makes free throw 1 of 2,1.0,51-61,,
+313,5:34.0,N. Noel makes free throw 2 of 2,1.0,52-61,,
+314,5:14.0,,,52-63,2.0,I. Thomas makes 2-pt shot from 1 ft
+315,5:04.0,I. Canaan makes 3-pt shot from 25 ft (assist by T. McConnell),3.0,55-63,,
+316,4:39.0,,,55-63,,I. Thomas misses 3-pt shot from 25 ft
+317,4:38.0,Defensive rebound by I. Canaan,,55-63,,
+318,4:29.0,I. Canaan misses 3-pt shot from 27 ft,,55-63,,
+319,4:28.0,,,55-63,,Defensive rebound by Team
+320,4:28.0,J. Okafor enters the game for N. Noel,,55-63,,
+321,4:17.0,,,55-65,2.0,A. Johnson makes 2-pt shot from 2 ft (assist by I. Thomas)
+322,4:05.0,J. Sampson makes 2-pt shot from 2 ft,2.0,57-65,,
+323,3:52.0,,,57-65,,I. Thomas misses 2-pt shot from 4 ft
+324,3:51.0,,,57-65,,Offensive rebound by A. Johnson
+325,3:51.0,,,57-65,,A. Johnson misses 2-pt shot at rim
+326,3:49.0,Defensive rebound by J. Grant,,57-65,,
+327,3:43.0,Offensive foul by T. McConnell,,57-65,,
+328,3:43.0,Turnover by T. McConnell (offensive foul),,57-65,,
+329,3:43.0,,,57-65,,Boston full timeout
+330,3:43.0,,,57-65,,J. Jerebko enters the game for J. Crowder
+331,3:43.0,,,57-65,,E. Turner enters the game for M. Smart
+332,3:43.0,H. Thompson enters the game for I. Canaan,,57-65,,
+333,3:32.0,,,57-65,,Turnover by A. Bradley (bad pass; steal by J. Sampson)
+334,3:30.0,J. Sampson makes 2-pt shot from 1 ft,2.0,59-65,,
+335,3:30.0,Shooting foul by A. Johnson (drawn by J. Sampson),,59-65,,
+336,3:30.0,J. Sampson makes free throw 1 of 1,1.0,60-65,,
+337,3:12.0,,,60-65,,E. Turner misses 3-pt shot from 26 ft
+338,3:10.0,,,60-65,,Offensive rebound by E. Turner
+339,3:09.0,Personal foul by H. Thompson (drawn by J. Jerebko),,60-65,,
+340,2:55.0,,,60-68,3.0,A. Johnson makes 3-pt shot from 23 ft (assist by I. Thomas)
+341,2:40.0,J. Sampson misses 3-pt shot from 23 ft,,60-68,,
+342,2:39.0,,,60-68,,Defensive rebound by Team
+343,2:25.0,,,60-70,2.0,I. Thomas makes 2-pt shot from 12 ft (assist by J. Jerebko)
+344,2:12.0,T. McConnell makes 2-pt shot from 5 ft,2.0,62-70,,
+345,1:59.0,,,62-70,,Turnover by I. Thomas (bad pass; steal by T. McConnell)
+346,1:54.0,Turnover by J. Sampson (bad pass; steal by I. Thomas),,62-70,,
+347,1:48.0,,,62-72,2.0,A. Bradley makes 2-pt shot at rim (assist by E. Turner)
+348,1:24.0,J. Grant makes 2-pt shot from 1 ft,2.0,64-72,,
+349,1:05.0,,,64-72,,A. Johnson misses 3-pt shot from 25 ft
+350,1:04.0,Defensive rebound by J. Sampson,,64-72,,
+351,0:51.0,H. Thompson makes 3-pt shot from 24 ft (assist by J. Okafor),3.0,67-72,,
+352,0:41.0,,,67-72,,Shooting foul by T. McConnell (drawn by I. Thomas)
+353,0:41.0,,,67-73,1.0,I. Thomas makes free throw 1 of 2
+354,0:41.0,,,67-73,,J. Sullinger enters the game for A. Johnson
+355,0:41.0,,,67-73,,M. Smart enters the game for A. Bradley
+356,0:41.0,I. Canaan enters the game for J. Sampson,,67-73,,
+357,0:41.0,,,67-74,1.0,I. Thomas makes free throw 2 of 2
+358,0:31.0,Turnover by J. Okafor (lost ball; steal by M. Smart),,67-74,,
+359,0:31.0,Loose ball foul by J. Okafor (drawn by M. Smart),,67-74,,
+360,0:31.0,,,67-75,1.0,M. Smart makes free throw 1 of 2
+361,0:31.0,,,67-76,1.0,M. Smart makes free throw 2 of 2
+362,0:16.0,I. Canaan misses 2-pt shot from 2 ft,,67-76,,
+363,0:14.0,,,67-76,,Defensive rebound by J. Sullinger
+364,0:00.0,,,67-79,3.0,I. Thomas makes 3-pt shot from 25 ft
+365,0:00.0,End of 3rd quarter,,,,
+366,4th Q,,,,,
+367,Time,Philadelphia,,Score,,Boston
+368,12:00.0,Start of 4th quarter,,,,
+369,11:46.0,Jump ball: J. Okafor vs. E. Turner,,,,
+370,11:46.0,,,67-79,,Violation by Team (jump ball)
+371,11:46.0,,,67-79,,Turnover by E. Turner (jump ball violation.)
+372,11:38.0,,,67-79,,Personal foul by J. Sullinger (drawn by J. Okafor)
+373,11:29.0,Turnover by J. Okafor (3 sec),,67-79,,
+374,11:15.0,,,67-79,,J. Jerebko misses 3-pt shot from 24 ft
+375,11:14.0,Defensive rebound by J. Sampson,,67-79,,
+376,11:04.0,N. Noel makes 2-pt shot from 14 ft (assist by I. Canaan),2.0,69-79,,
+377,10:48.0,,,69-81,2.0,J. Sullinger makes 2-pt shot from 20 ft (assist by I. Thomas)
+378,10:23.0,J. Sampson misses 2-pt shot from 9 ft,,69-81,,
+379,10:22.0,Offensive rebound by N. Noel,,69-81,,
+380,10:22.0,N. Noel misses 2-pt shot at rim,,69-81,,
+381,10:21.0,Offensive rebound by Team,,69-81,,
+382,10:02.0,Shooting foul by J. Sullinger (drawn by J. Okafor),,69-81,,
+383,10:02.0,J. Okafor makes free throw 1 of 2,1.0,70-81,,
+384,10:02.0,J. Okafor makes free throw 2 of 2,1.0,71-81,,
+385,9:45.0,,,71-83,2.0,J. Jerebko makes 2-pt shot at rim (assist by J. Sullinger)
+386,9:29.0,J. Sampson misses 2-pt shot from 4 ft,,71-83,,
+387,9:28.0,,,71-83,,Defensive rebound by J. Sullinger
+388,9:20.0,,,71-86,3.0,J. Jerebko makes 3-pt shot from 23 ft (assist by M. Smart)
+389,9:20.0,Philadelphia full timeout,,71-86,,
+390,9:20.0,T. McConnell enters the game for J. Sampson,,71-86,,
+391,9:05.0,I. Canaan misses 3-pt shot from 24 ft,,71-86,,
+392,9:04.0,,,71-86,,Defensive rebound by J. Sullinger
+393,8:43.0,,,71-86,,E. Turner misses 2-pt shot from 14 ft
+394,8:42.0,Defensive rebound by I. Canaan,,71-86,,
+395,8:34.0,H. Thompson misses 3-pt shot from 28 ft,,71-86,,
+396,8:33.0,,,71-86,,Defensive rebound by J. Jerebko
+397,8:29.0,,,71-86,,M. Smart misses 3-pt shot from 25 ft
+398,8:28.0,,,71-86,,Offensive rebound by Team
+399,8:28.0,Loose ball foul by H. Thompson (drawn by J. Sullinger),,71-86,,
+400,8:19.0,,,71-86,,J. Sullinger misses 3-pt shot from 26 ft
+401,8:18.0,Defensive rebound by H. Thompson,,71-86,,
+402,8:05.0,J. Okafor makes 2-pt shot from 5 ft,2.0,73-86,,
+403,8:00.0,,,73-86,,Turnover by E. Turner (bad pass; steal by T. McConnell)
+404,7:56.0,Shooting foul by J. Sullinger (drawn by J. Okafor),,73-86,,
+405,7:56.0,J. Okafor makes free throw 1 of 2,1.0,74-86,,
+406,7:56.0,,,74-86,,D. Lee enters the game for J. Sullinger
+407,7:56.0,J. Okafor makes free throw 2 of 2,1.0,75-86,,
+408,7:46.0,,,75-86,,Turnover by I. Thomas (bad pass; steal by J. Okafor)
+409,7:31.0,J. Okafor misses 2-pt shot from 3 ft,,75-86,,
+410,7:30.0,,,75-86,,Defensive rebound by J. Jerebko
+411,7:23.0,,,75-88,2.0,I. Thomas makes 2-pt shot from 1 ft (assist by D. Lee)
+412,7:09.0,Turnover by I. Canaan (lost ball),,75-88,,
+413,6:48.0,,,75-88,,J. Jerebko misses 2-pt shot from 4 ft
+414,6:46.0,Defensive rebound by J. Okafor,,75-88,,
+415,6:38.0,H. Thompson makes 3-pt shot from 26 ft (assist by T. McConnell),3.0,78-88,,
+416,6:38.0,,,78-88,,Boston full timeout
+417,6:38.0,,,78-88,,A. Bradley enters the game for J. Jerebko
+418,6:26.0,,,78-88,,Shooting foul by T. McConnell (drawn by M. Smart)
+419,6:26.0,,,78-89,1.0,M. Smart makes free throw 1 of 2
+420,6:26.0,,,78-90,1.0,M. Smart makes free throw 2 of 2
+421,6:02.0,H. Thompson misses 3-pt shot from 25 ft,,78-90,,
+422,6:01.0,,,78-90,,Defensive rebound by D. Lee
+423,5:56.0,,,78-93,3.0,M. Smart makes 3-pt shot from 26 ft (assist by D. Lee)
+424,5:55.0,Philadelphia full timeout,,78-93,,
+425,5:55.0,,,78-93,,J. Crowder enters the game for I. Thomas
+426,5:46.0,N. Noel makes 2-pt shot from 1 ft,2.0,80-93,,
+427,5:46.0,Shooting foul by D. Lee (drawn by N. Noel),,80-93,,
+428,5:46.0,N. Noel misses free throw 1 of 1,,80-93,,
+429,5:44.0,,,80-93,,Defensive rebound by E. Turner
+430,5:34.0,,,80-93,,Turnover by D. Lee (bad pass)
+431,5:34.0,,,80-93,,A. Johnson enters the game for E. Turner
+432,5:27.0,Turnover by T. McConnell (bad pass; steal by J. Crowder),,80-93,,
+433,5:24.0,,,80-93,,Shooting foul by H. Thompson (drawn by J. Crowder)
+434,5:24.0,,,80-94,1.0,J. Crowder makes free throw 1 of 2
+435,5:24.0,,,80-95,1.0,J. Crowder makes free throw 2 of 2
+436,5:07.0,J. Okafor makes 2-pt shot at rim (assist by H. Thompson),2.0,82-95,,
+437,4:56.0,,,82-95,,M. Smart misses 3-pt shot from 25 ft
+438,4:55.0,,,82-95,,Offensive rebound by J. Crowder
+439,4:51.0,,,82-95,,Shooting foul by H. Thompson (drawn by D. Lee)
+440,4:51.0,J. Sampson enters the game for H. Thompson,,82-95,,
+441,4:51.0,,,82-96,1.0,D. Lee makes free throw 1 of 2
+442,4:51.0,,,82-97,1.0,D. Lee makes free throw 2 of 2
+443,4:39.0,J. Okafor misses 2-pt shot from 8 ft,,82-97,,
+444,4:37.0,,,82-97,,Defensive rebound by A. Johnson
+445,4:30.0,,,82-99,2.0,A. Johnson makes 2-pt shot from 2 ft (assist by M. Smart)
+446,4:10.0,Turnover by J. Okafor (bad pass),,82-99,,
+447,3:59.0,,,82-99,,D. Lee misses 2-pt shot from 2 ft
+448,3:58.0,,,82-99,,Offensive rebound by A. Johnson
+449,3:58.0,,,82-101,2.0,A. Johnson makes 2-pt shot at rim
+450,3:58.0,Philadelphia full timeout,,82-101,,
+451,3:58.0,,,82-101,,T. Zeller enters the game for D. Lee
+452,3:58.0,,,82-101,,I. Thomas enters the game for M. Smart
+453,3:41.0,J. Okafor makes 2-pt shot from 10 ft (assist by I. Canaan),2.0,84-101,,
+454,3:30.0,Personal foul by J. Okafor (drawn by T. Zeller),,84-101,,
+455,3:30.0,,,84-102,1.0,T. Zeller makes free throw 1 of 2
+456,3:30.0,J. Grant enters the game for J. Sampson,,84-102,,
+457,3:30.0,,,84-103,1.0,T. Zeller makes free throw 2 of 2
+458,3:10.0,Shooting foul by A. Bradley (drawn by I. Canaan),,84-103,,
+459,3:10.0,I. Canaan makes free throw 1 of 2,1.0,85-103,,
+460,3:10.0,I. Canaan makes free throw 2 of 2,1.0,86-103,,
+461,2:59.0,,,86-105,2.0,I. Thomas makes 2-pt shot from 12 ft
+462,2:31.0,N. Noel misses 2-pt shot from 5 ft,,86-105,,
+463,2:30.0,,,86-105,,Defensive rebound by I. Thomas
+464,2:18.0,,,86-105,,Turnover by A. Johnson (lost ball; steal by T. McConnell)
+465,2:10.0,J. Okafor makes 2-pt shot from 2 ft (assist by T. McConnell),2.0,88-105,,
+466,1:58.0,,,88-105,,Turnover by A. Bradley (lost ball)
+467,1:58.0,C. Wood enters the game for N. Noel,,88-105,,
+468,1:58.0,J. Sampson enters the game for J. Okafor,,88-105,,
+469,1:58.0,R. Holmes enters the game for I. Canaan,,88-105,,
+470,1:58.0,,,88-105,,T. Rozier enters the game for I. Thomas
+471,1:58.0,,,88-105,,J. Mickey enters the game for A. Johnson
+472,1:38.0,R. Holmes misses 2-pt shot from 5 ft,,88-105,,
+473,1:35.0,Offensive rebound by C. Wood,,88-105,,
+474,1:35.0,C. Wood misses 2-pt shot at rim,,88-105,,
+475,1:33.0,,,88-105,,Defensive rebound by J. Mickey
+476,1:28.0,,,88-105,,T. Rozier misses 2-pt shot from 1 ft
+477,1:27.0,,,88-105,,Offensive rebound by T. Rozier
+478,1:27.0,,,88-105,,T. Rozier misses 2-pt shot from 1 ft
+479,1:26.0,,,88-105,,Offensive rebound by J. Mickey
+480,1:26.0,,,88-105,,Shooting foul by J. Sampson (drawn by J. Mickey)
+481,1:26.0,,,88-106,1.0,J. Mickey makes free throw 1 of 2
+482,1:26.0,,,88-107,1.0,J. Mickey makes free throw 2 of 2
+483,1:15.0,,,88-107,,Personal foul by J. Mickey (drawn by J. Grant)
+484,1:15.0,J. Grant makes free throw 1 of 2,1.0,89-107,,
+485,1:15.0,J. Grant makes free throw 2 of 2,1.0,90-107,,
+486,1:00.0,,,90-110,3.0,J. Crowder makes 3-pt shot from 26 ft (assist by J. Mickey)
+487,0:51.0,J. Grant makes 2-pt shot from 1 ft,2.0,92-110,,
+488,0:51.0,Shooting foul by T. Zeller (drawn by J. Grant),,92-110,,
+489,0:51.0,J. Grant makes free throw 1 of 1,1.0,93-110,,
+490,0:36.0,,,93-112,2.0,T. Zeller makes 2-pt shot from 16 ft (assist by A. Bradley)
+491,0:18.0,J. Sampson makes 2-pt shot from 5 ft,2.0,95-112,,
+492,0:00.0,End of 4th quarter,,,,
